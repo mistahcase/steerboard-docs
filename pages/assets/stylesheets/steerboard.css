@@ -1,0 +1,158 @@
+/* ==========================================================================
+   Steerboard documentation theme: the app's own look. White paper, warm-grey
+   ink, the plan's navy for links and the header rule, Inter throughout.
+   ========================================================================== */
+
+:root {
+  --sb-paper: #ffffff;
+  --sb-paper-2: #f6f5f3; /* warm grey surface */
+  --sb-ink: #2b2926; /* text */
+  --sb-ink-2: #5f5a55; /* quieter text */
+  --sb-rule: #e4e1dd; /* hairlines */
+  --sb-rule-ink: #3d3935; /* thin black section rules */
+  --sb-navy: #3b5083; /* the plan's navy: links, accents */
+  --sb-navy-deep: #243459;
+  --sb-navy-light: #d8e1f6;
+  --sb-dark: #1f1d1b; /* dark mode ground */
+  --sb-dark-2: #2b2926;
+}
+
+/* --------------------------------------------------------------------------
+   Light scheme
+   -------------------------------------------------------------------------- */
+
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: var(--sb-paper); /* header */
+  --md-primary-fg-color--light: var(--sb-paper-2);
+  --md-primary-fg-color--dark: var(--sb-paper-2);
+  --md-primary-bg-color: var(--sb-ink); /* header text and icons */
+  --md-primary-bg-color--light: var(--sb-ink-2);
+
+  --md-accent-fg-color: var(--sb-navy);
+  --md-typeset-a-color: var(--sb-navy);
+
+  --md-default-bg-color: var(--sb-paper);
+  --md-default-fg-color: var(--sb-ink);
+  --md-default-fg-color--light: var(--sb-ink-2);
+  --md-default-fg-color--lighter: #b9b4ae;
+  --md-default-fg-color--lightest: var(--sb-rule);
+
+  --md-code-bg-color: var(--sb-paper-2);
+  --md-footer-bg-color: var(--sb-ink);
+  --md-footer-bg-color--dark: var(--sb-dark);
+}
+
+[data-md-color-scheme="default"] .md-header {
+  border-top: 4px solid var(--sb-navy);
+  border-bottom: 1px solid var(--sb-rule);
+  box-shadow: none;
+}
+
+[data-md-color-scheme="default"] .md-search__form {
+  background-color: rgba(43, 41, 38, 0.05);
+}
+
+[data-md-color-scheme="default"] .md-search__form:hover {
+  background-color: rgba(43, 41, 38, 0.1);
+}
+
+[data-md-color-scheme="default"] .md-tabs {
+  background-color: var(--sb-paper);
+  color: var(--sb-ink);
+}
+
+/* --------------------------------------------------------------------------
+   Dark scheme
+   -------------------------------------------------------------------------- */
+
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: var(--sb-dark-2);
+  --md-primary-bg-color: #f6f5f3;
+  --md-accent-fg-color: #9fb2e0;
+  --md-typeset-a-color: #9fb2e0;
+  --md-default-bg-color: var(--sb-dark);
+  --md-footer-bg-color: var(--sb-dark-2);
+}
+
+[data-md-color-scheme="slate"] .md-header {
+  border-top: 4px solid var(--sb-navy);
+}
+
+/* --------------------------------------------------------------------------
+   Type
+   -------------------------------------------------------------------------- */
+
+.md-typeset {
+  font-size: 0.8rem;
+  line-height: 1.65;
+  font-feature-settings: "tnum" 0;
+}
+
+.md-typeset h1,
+.md-typeset h2 {
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  color: var(--md-default-fg-color);
+}
+
+.md-typeset h1 {
+  margin-bottom: 0.8em;
+}
+
+/* A section starts under a thin black rule, as on the plan slide. */
+.md-typeset h2 {
+  margin-top: 2em;
+  padding-top: 0.9em;
+  border-top: 1px solid var(--sb-rule-ink);
+}
+
+[data-md-color-scheme="slate"] .md-typeset h2 {
+  border-top-color: rgba(246, 245, 243, 0.4);
+}
+
+.md-typeset h3 {
+  font-weight: 650;
+}
+
+.md-typeset table:not([class]) {
+  font-size: 0.74rem;
+  border: 1px solid var(--sb-rule);
+  border-radius: 6px;
+}
+
+[data-md-color-scheme="default"] .md-typeset table:not([class]) th {
+  background-color: var(--sb-paper-2);
+  color: var(--sb-ink);
+}
+
+.md-typeset table:not([class]) td,
+.md-typeset table:not([class]) th {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Screenshots: framed in a hairline, square like the board. */
+.md-typeset img.shot,
+.md-typeset p > img {
+  border: 1px solid var(--sb-rule);
+  border-radius: 6px;
+}
+
+.md-typeset kbd {
+  font-size: 0.72em;
+}
+
+/* Admonitions in the app's quiet colours. */
+.md-typeset .admonition.note,
+.md-typeset details.note {
+  border-color: var(--sb-navy);
+}
+
+.md-typeset .note > .admonition-title,
+.md-typeset .note > summary {
+  background-color: rgba(59, 80, 131, 0.08);
+}
+
+.md-typeset .note > .admonition-title::before,
+.md-typeset .note > summary::before {
+  background-color: var(--sb-navy);
+}

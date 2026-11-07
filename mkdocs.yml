@@ -1,0 +1,89 @@
+site_name: Steerboard docs
+site_description: How to plan, run and report a consulting engagement in Steerboard.
+site_url: https://docs.steer-board.com/
+docs_dir: pages
+copyright: © Steerboard
+
+theme:
+  name: material
+  logo: assets/logo.svg
+  favicon: assets/favicon.svg
+  font:
+    text: Inter
+    code: JetBrains Mono
+  features:
+    - navigation.sections
+    - navigation.top
+    - navigation.tracking
+    - navigation.footer
+    - toc.follow
+    - search.highlight
+    - search.suggest
+    - content.tabs.link
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+extra_css:
+  - assets/stylesheets/steerboard.css
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.keys
+  - pymdownx.tabbed:
+      alternate_style: true
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/solid/globe
+      link: https://steer-board.com
+      name: Steerboard
+
+nav:
+  - Home: index.md
+  - Getting started:
+      - Create an account: getting-started/account.md
+      - Your first project: getting-started/first-project.md
+      - A tour of the screens: getting-started/tour.md
+  - The plan:
+      - The board: plan/board.md
+      - Activities and milestones: plan/items.md
+      - Workstreams and groups: plan/workstreams.md
+      - Links between work: plan/links.md
+      - Progress: plan/progress.md
+      - Agreed dates and delays: plan/agreed-dates.md
+      - The details panel: plan/details.md
+      - Holidays: plan/holidays.md
+      - Keyboard: plan/keyboard.md
+  - Cards: cards.md
+  - People and workload: people.md
+  - The status report:
+      - The report: report/index.md
+      - Present and download: report/present.md
+  - Sharing and the account:
+      - Sharing a project: sharing/sharing.md
+      - Groups and people: sharing/groups.md
+      - Settings: sharing/settings.md
+  - Reference:
+      - The marks: reference/marks.md
+      - Glossary: reference/glossary.md
