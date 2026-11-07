@@ -27,9 +27,8 @@ Drag it to another column, and it makes the same change the plan would:
 - **Done** marks it completed.
 - **Identified** puts unstarted work back to a draft.
 
-Some moves need a decision, and Steerboard asks first. Work with agreed dates
-can't go back to **Identified** (change its agreed dates instead), and
-milestones skip **Started**, since they're done or not. While you drag, a
+Work with agreed dates can't go back to **Identified** (change its agreed
+dates instead), and milestones skip **Started**, since they're done or not. While you drag, a
 column a card can't go to is hatched, and says why.
 
 ## Progress on a card
