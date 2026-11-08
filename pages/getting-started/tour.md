@@ -17,6 +17,8 @@ From left to right:
 - The save state. Changes save as you make them, so it normally says
   **All changes saved**.
 - The avatars of anyone else who has the project open right now.
+- **Feedback** (the speech bubble), to tell us what doesn't work or what you'd
+  like, without leaving your work. See [Feedback](feedback.md).
 - Help (the question mark), which opens these docs in a new window at the
   page for the screen you're on.
 - Project settings (the sliders icon), **Share**, and your account menu. The
