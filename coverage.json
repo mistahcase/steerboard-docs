@@ -106,7 +106,7 @@
         "src/gantt/Gantt.tsx",
         "src/components/CardsBoard.tsx",
         "src/components/Presentation.tsx",
-        "src/components/ProjectWorkspace.tsx"
+        "src/App.tsx"
       ],
       "reviewed": "9908c68397a0f58b4206b88c46ea038bd65a1bbb"
     },
