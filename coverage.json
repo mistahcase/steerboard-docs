@@ -43,7 +43,8 @@
         "src/model/lanes.ts",
         "src/components/PlanZoom.tsx",
         "src/components/Toolbar.tsx"
-      ]
+      ],
+      "reviewed": "9b34215faf92db349735a0353ea9f063186c6da0"
     },
     "plan/items.md": {
       "covers": [
@@ -63,7 +64,8 @@
         "src/model/grouping.ts",
         "src/components/WorkstreamFilter.tsx",
         "src/gantt/Gantt.tsx"
-      ]
+      ],
+      "reviewed": "9b34215faf92db349735a0353ea9f063186c6da0"
     },
     "plan/links.md": {
       "covers": [
@@ -108,7 +110,7 @@
         "src/components/Presentation.tsx",
         "src/App.tsx"
       ],
-      "reviewed": "9908c68397a0f58b4206b88c46ea038bd65a1bbb"
+      "reviewed": "9b34215faf92db349735a0353ea9f063186c6da0"
     },
     "cards.md": {
       "covers": [
@@ -165,7 +167,8 @@
         "src/styles/app.css",
         "src/styles/tokens.css",
         "src/gantt/Strip.tsx"
-      ]
+      ],
+      "reviewed": "9b34215faf92db349735a0353ea9f063186c6da0"
     },
     "reference/glossary.md": {
       "covers": []
