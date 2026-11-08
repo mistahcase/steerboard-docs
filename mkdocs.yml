@@ -2,12 +2,19 @@ site_name: Steerboard docs
 site_description: How to plan, run and report a consulting engagement in Steerboard.
 site_url: https://docs.steer-board.com/
 docs_dir: pages
+# The way back to the home page, at the top right of every page (where Material shows a repository).
+repo_url: https://steer-board.com/
+repo_name: Back to steer-board.com
 copyright: © Steerboard
 
 theme:
   name: material
+  custom_dir: overrides
+  language: custom
   logo: assets/logo.svg
   favicon: assets/favicon.svg
+  icon:
+    repo: material/arrow-left
   font:
     text: Inter
     code: JetBrains Mono
@@ -53,6 +60,8 @@ markdown_extensions:
       alternate_style: true
 
 extra:
+  # The logo goes to the home page, not the docs' own start.
+  homepage: https://steer-board.com/
   generator: false
   social:
     - icon: fontawesome/solid/globe

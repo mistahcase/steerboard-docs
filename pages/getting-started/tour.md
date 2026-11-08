@@ -17,7 +17,10 @@ From left to right:
 - The save state. Changes save as you make them, so it normally says
   **All changes saved**.
 - The avatars of anyone else who has the project open right now.
-- Project settings (the sliders icon), **Share**, and your account menu.
+- Help (the question mark), which opens these docs in a new window at the
+  page for the screen you're on.
+- Project settings (the sliders icon), **Share**, and your account menu. The
+  account menu has **Docs** too.
 
 Under it, the toolbar holds the plan's name, its status in a few words, and
 the tools for the screen you're on.

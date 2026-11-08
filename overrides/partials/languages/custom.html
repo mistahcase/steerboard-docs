@@ -1,0 +1,5 @@
+<!-- English, with the header's "repository" link worded as what it is here: the way back to the home page. -->
+{% import "partials/languages/en.html" as language %}
+{% macro t(key) %}{{ {
+  "source": "Back to the Steerboard home page"
+}[key] or language.t(key) }}{% endmacro %}
