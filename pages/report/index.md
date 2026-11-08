@@ -50,7 +50,7 @@ so the next report starts from today.
 
 The workstream filter beside the report's actions narrows the report, and its
 slides, to the workstreams you pick. See
-[Workstreams and groups](../plan/workstreams.md).
+[Workstreams and work packages](../plan/workstreams.md).
 
 ## Next
 

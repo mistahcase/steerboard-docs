@@ -15,7 +15,7 @@ When the client agrees, agree the dates:
 - Right-click a draft and choose **Agree dates**.
 - Or use **Agree** in the [details panel](details.md).
 - Or select several drafts and agree them together.
-- On a group's bracket, **Agree dates for everything inside**.
+- On a work package's bracket, **Agree dates for everything inside**.
 - On the [cards](../cards.md), drag a card from **Identified** to **Planned**.
 
 The item turns solid, and its current dates are kept as its agreed dates. You
@@ -37,7 +37,7 @@ When work has moved from its agreed dates, a thin grey bar with end ticks
 under it shows where it was agreed: the agreed dates, left behind. A moved
 milestone leaves a hollow diamond.
 
-A group's status, and a workstream's dot, is the worst of the agreed work
+A work package's status, and a workstream's dot, is the worst of the agreed work
 inside it.
 
 ## Change agreed dates

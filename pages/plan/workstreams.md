@@ -1,12 +1,13 @@
-# Workstreams and groups
+# Workstreams and work packages
 
 A plan has two ways of organising work, and they do different jobs.
 
-- **Workstreams** are sections of the board, lined off as on a think-cell
+- Workstreams are sections of the board, lined off as on a think-cell
   plan: a column of names down the left and a thin black rule across where each
   one starts. Every row belongs to one.
-- **Groups** are brackets: a black bar over the work inside it, rolling up its
-  dates, progress and status. A group can sit anywhere in a workstream.
+- Work packages are brackets: a black bar over the work inside it, rolling up
+  its dates, progress and status. A work package can sit anywhere in a
+  workstream.
 
 ## Workstreams
 
@@ -34,18 +35,18 @@ and it's in the address, so a link shows the same. While it shows only some,
 the filter button turns blue, so a narrowed view is never mistaken for the
 whole plan.
 
-## Groups
+## Work packages
 
 | To | Do this |
 |---|---|
-| Group some work | Select the items, right-click one and choose **Group**. Or right-click a single item and choose **Put in a new group**. A bracket goes over them on a new row above, and you name it. |
-| Take a group apart | Right-click the bracket and choose **Ungroup**. What was inside stays where it is. |
-| Move an item in or out | Use **Group** in the [details panel](details.md). |
-| Move everything in a group | Drag the bracket. |
+| Make one | Select the items, right-click one and choose **Put in a new work package**. It works on a single item too. A bracket goes over them on a new row above, and you name it. |
+| Unpack one | Right-click the bracket and choose **Unpack**. What was inside stays where it is. |
+| Move an item in or out | Use **Work package** in the [details panel](details.md). |
+| Move everything in a work package | Drag the bracket. |
 
-A group always spans what's inside it, from the earliest start to the latest
+A work package always spans what's inside it, from the earliest start to the latest
 end; its dates follow as you move the work. Its progress is its work's,
 weighted by working days, and its status can't be set by hand.
 
-Which group an item is in is separate from which row it's on: moving an item
-to another row keeps its group.
+Which work package an item is in is separate from which row it's on: moving
+an item to another row keeps its work package.

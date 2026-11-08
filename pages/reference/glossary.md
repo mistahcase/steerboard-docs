@@ -17,17 +17,14 @@ never late.
 **Delayed.** Agreed work now planned to end later than agreed, but not due yet.
 Amber.
 
-**Group (on the plan).** A bracket over some work, rolling up its dates,
-progress and status.
-
-**Group (in the account).** A firm or team on your engagements: your
+**Group.** A firm or team on your engagements: your
 consultancy, a client, a vendor. People belong to groups; projects' teams are
 picked from them.
 
 **Lane.** When items on one row overlap in time, one goes down a lane, so
 nothing is hidden.
 
-**Lead.** The person who leads a workstream, or owns a group of work.
+**Lead.** The person who leads a workstream, or owns a work package.
 
 **Link.** "B can't start until A is finished." A dotted line with an arrow.
 
@@ -44,6 +41,9 @@ the plan, or only look.
 the next one ahead.
 
 **Row.** A line on the board, holding as many items as fit side by side.
+
+**Work package.** A bracket over some work, rolling up its dates, progress
+and status. Put work in one from the right-click menu on the plan.
 
 **Working day.** Monday to Friday, less the project's holidays. Lengths are
 counted in working days.

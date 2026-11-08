@@ -30,7 +30,7 @@ Groups and the people in them are on the [Groups](groups.md) page.
 ## What a plan allows
 
 Each plan sets how many people can sign in, how many projects the account
-keeps, and how many items (activities, milestones and groups) one project's
+keeps, and how many items (activities, milestones and work packages) one project's
 plan can hold. The Standard plan allows 100 people, 20 projects and 1,000
 items on a project. **Plan and billing** shows where the account stands.
 

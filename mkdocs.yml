@@ -78,7 +78,7 @@ nav:
   - The plan:
       - The board: plan/board.md
       - Activities and milestones: plan/items.md
-      - Workstreams and groups: plan/workstreams.md
+      - Workstreams and work packages: plan/workstreams.md
       - Links between work: plan/links.md
       - Progress: plan/progress.md
       - Agreed dates and delays: plan/agreed-dates.md

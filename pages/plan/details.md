@@ -11,8 +11,8 @@ board can also be done here, with the keyboard and in words.
 | **Starts** and **Ends** | The planned dates. Typing a start after the end moves the whole item there, keeping its length. A weekend date moves to the next working day. |
 | **Length** | In working days; − and + change it. |
 | **Workstream** | Moves the item to a row in another workstream. |
-| **Group** | Puts the item in a group, or takes it out of one. |
-| **Owner** | Who does it, picked from the project's team. A group's owner is its lead. |
+| **Work package** | Puts the item in a work package, or takes it out of one. |
+| **Owner** | Who does it, picked from the project's team. A work package's owner is its lead. |
 | **Time on this** | How much of the owner's week it takes: full time, 3 days a week, a day a week, and so on. |
 | **Agreed dates** | Draft or agreed. For agreed work: the agreed and planned dates, and how it's tracking. **Change agreed dates…** for a change of scope. |
 | **Status** | **Not started**, **In progress** or **Completed**, with a progress slider. A completed item shows **Completed on**. |

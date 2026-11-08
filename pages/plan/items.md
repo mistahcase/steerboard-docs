@@ -41,7 +41,8 @@ Starts, ends and milestones always fall on working days.
 
 <kbd>Ctrl</kbd>-click or <kbd>Shift</kbd>-click items to select several. You
 can then drag them together, agree their dates or mark them done from the
-details panel, or right-click for **Group** to put a bracket over them.
+details panel, or right-click for **Put in a new work package** to put a
+bracket over them.
 
 Click blank canvas, the time scale or the column of workstreams, or press
 <kbd>Escape</kbd>, to deselect.

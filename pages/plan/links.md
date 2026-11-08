@@ -26,7 +26,7 @@ can be anything.
   after the day B starts. Then B is pushed to start the day after A ends, and
   anything waiting on B is pushed in turn if it needs to be.
 - B is never pulled earlier.
-- A link to or from a group applies to everything in it.
+- A link to or from a work package applies to everything in it.
 
 ## Remove a link
 

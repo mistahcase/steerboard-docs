@@ -17,7 +17,7 @@ this".
 | A black diamond | A milestone. |
 | A green diamond with a check | A completed milestone. |
 | A hollow diamond | Where a moved milestone was agreed. |
-| A black bar with short hanging ends, a name beneath | A group, over the work inside it. Dashed while it's a draft. |
+| A black bar with short hanging ends, a name beneath | A work package, over the work inside it. Dashed while it's a draft. |
 | A fine dotted line with an arrow | A link: the next item waits for this one. |
 | A dashed black line down the board | Today. |
 | A grey band down the board | A holiday. |

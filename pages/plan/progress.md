@@ -34,7 +34,7 @@ When something is marked completed, Steerboard notes the day. If it actually
 finished another day, change **Completed on** in the details panel, or drag
 the end of the finished boat. The correction is kept in its history.
 
-## Groups and the whole plan
+## Work packages and the whole plan
 
-A group's progress is its work's, weighted by working days. The toolbar shows
+A work package's progress is its work's, weighted by working days. The toolbar shows
 how much of the whole plan is done.

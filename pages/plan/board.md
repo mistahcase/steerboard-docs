@@ -20,8 +20,8 @@ names.
 - Below the last row there's always room to start a new one.
 
 Right-click a row for **Add an empty row below** or, when it's empty,
-**Remove this row**. **Arrange rows by group** (right-click free space)
-rebuilds the rows from the groups within each workstream; undo puts your own
+**Remove this row**. **Arrange rows by work package** (right-click free space)
+rebuilds the rows from the work packages within each workstream; undo puts your own
 arrangement back.
 
 ## The time scale
