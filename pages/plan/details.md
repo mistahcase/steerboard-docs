@@ -24,5 +24,5 @@ Select several items and the panel offers what you can do to all of them at
 once, such as agreeing their dates, marking them done, or giving them to
 someone.
 
-Press <kbd>Escape</kbd> or the × to close it. Viewers see the same panel,
-read-only.
+Press <kbd>Escape</kbd> or the ×, or click anywhere on the plan that isn't
+an item, to close it. Viewers see the same panel, read-only.

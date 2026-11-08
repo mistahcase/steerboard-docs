@@ -43,7 +43,8 @@ Starts, ends and milestones always fall on working days.
 can then drag them together, agree their dates or mark them done from the
 details panel, or right-click for **Group** to put a bracket over them.
 
-Click blank canvas, or press <kbd>Escape</kbd>, to deselect.
+Click blank canvas, the time scale or the column of workstreams, or press
+<kbd>Escape</kbd>, to deselect.
 
 ## Names
 
