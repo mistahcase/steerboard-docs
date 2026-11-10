@@ -4,6 +4,13 @@ After you sign in you land on **Projects**: every project you own, edit or
 view. Each card shows the project's status in a few words, how much is done,
 its dates and its next milestone.
 
+A new account starts with one project already there: a demo, **Northwind
+pricing review**. It has a bit of everything: finished work, work in progress,
+work that's late, drafts, a team in three groups and a status report. It's the
+quickest way to see what each screen does before you build your own plan.
+It's yours to change, and to delete when you're done with it; its team is in
+your [Groups](../sharing/groups.md) too.
+
 ![The projects page](../img/projects.png)
 
 ## Start a project
@@ -18,18 +25,12 @@ Under **Start from**, pick:
 |---|---|
 | **Blank** | An empty plan with one workstream and one row, ready to draw on. |
 | **Website relaunch** | A small sample plan with phases, links and a launch. |
-| **Consulting engagement** | A full demo engagement: a pricing review with about 40 activities, a team in three groups, agreed dates, delays and a status report. Good for learning. |
 
 Under **Who can open it**, choose whether everyone in your group can edit it,
 only view it, or not see it until you share it. You can change this later from
 **Share**.
 
 Choose **Create project** and the plan opens.
-
-!!! note "Try the demo first"
-    The **Consulting engagement** demo has a bit of everything: finished work,
-    work in progress, work that's late, drafts and a filled-in team. It's the
-    quickest way to see what each screen does before you build your own plan.
 
 ## Find, archive and delete projects
 

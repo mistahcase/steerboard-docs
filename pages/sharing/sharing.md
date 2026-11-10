@@ -16,7 +16,8 @@ can change who has access; everyone else sees **Who has access**.
 ## Share with people
 
 Type the email address of someone in your account, pick their role and choose
-**Share**. They'll find the project on their **Projects** page.
+**Share**. They'll find the project on their **Projects** page, and get an
+email with a link to it.
 
 You can only share with people already in your account, unless an account
 manager has switched on **Let project owners invite new people** on the
