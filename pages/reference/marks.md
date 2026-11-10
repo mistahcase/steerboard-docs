@@ -22,4 +22,4 @@ this".
 | A dashed black line down the board | Today. |
 | A grey band down the board | A holiday. |
 | A small coloured dot and a few words | A status, as on a status slide: "On track", "+3 days", "At risk", "Late". |
-| A blue ring, round white handles, a blue dot at an item's end | Selected. Drag the ends to change dates, the dot to link. |
+| A blue ring, round white handles, a blue dot at an item's end | Selected (a draft's ring is dashed, like its outline). Drag the ends to change dates, the dot to link. |
