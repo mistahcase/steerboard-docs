@@ -22,7 +22,7 @@ Everything you can drag on the board you can also do from the keyboard.
 
 | Keys | What they do |
 |---|---|
-| <kbd>Alt</kbd>+<kbd>1</kbd> to <kbd>4</kbd> | Plan, Cards, People, Report. |
+| <kbd>Alt</kbd>+<kbd>1</kbd> to <kbd>5</kbd> | Plan, Cards, People, Resources, Report. |
 
 ## Cards
 

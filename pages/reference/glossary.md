@@ -8,6 +8,10 @@ groups and changes the account's settings.
 
 **Action, activity.** Work that takes time, drawn as a boat.
 
+**Agreed, planned and spent hours.** What the plan takes, on
+[Resources](../resources.md): the agreed dates' hours, the dates as they are
+now, and the hours used so far.
+
 **Agreed dates.** An item's dates as agreed with the client. Delays are
 measured against them. In the details panel: **Agreed dates**.
 
@@ -20,6 +24,9 @@ Amber.
 **Group.** A firm or team on your engagements: your
 consultancy, a client, a vendor. People belong to groups; projects' teams are
 picked from them.
+
+**Hourly rate.** What an hour of someone's time costs on a project. Only the
+project's owners see it, and its editors if an owner allows.
 
 **Lane.** When items on one row overlap in time, one goes down a lane, so
 nothing is hidden.

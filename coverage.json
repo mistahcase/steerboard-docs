@@ -99,7 +99,6 @@
     "plan/holidays.md": {
       "covers": [
         "src/components/HolidayDialog.tsx",
-        "src/components/ProjectSettings.tsx",
         "src/model/calendar.ts",
         "src/model/holidays.ts"
       ]
@@ -173,6 +172,19 @@
     },
     "reference/glossary.md": {
       "covers": []
+    },
+    "resources.md": {
+      "covers": [
+        "src/components/ResourcesPage.tsx",
+        "src/model/effort.ts",
+        "src/state/finance.ts",
+        "server/finance.ts"
+      ]
+    },
+    "project-settings.md": {
+      "covers": [
+        "src/components/ProjectSettings.tsx"
+      ]
     }
   }
 }

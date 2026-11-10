@@ -9,15 +9,13 @@ top, and no work is counted on them.
 - Right-click the time scale, or an empty part of the board, and choose
   **New holiday…**. It starts on the day you clicked and runs a week; change
   its name and dates there.
-- Or open **Project settings** (the sliders icon beside **Share**) and choose
-  **Add holiday**.
-
-![Project settings](../img/project-settings.png)
+- Or open [Project settings](../project-settings.md) (the sliders icon beside
+  **Share**), choose **Holidays** and **Add holiday**.
 
 ## Change or delete one
 
-Right-click it on the time scale to edit or delete it, or use
-**Project settings**, where all of the project's holidays are listed.
+Right-click it on the time scale to edit or delete it, or use **Holidays** in
+Project settings, where all of the project's holidays are listed.
 
 ## What they do to the plan
 

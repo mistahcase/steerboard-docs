@@ -1,11 +1,11 @@
 # A tour of the screens
 
-A project has four screens, in the bar at the top: **Plan**, **Cards**,
-**People** and **Report**. They're four views of one plan. Change something in
+A project has five screens, in the bar at the top: **Plan**, **Cards**,
+**People**, **Resources** and **Report**. They're five views of one plan. Change something in
 one and it has changed in all of them, for everyone with the project open.
 
 Switch between them with the tabs, or with <kbd>Alt</kbd>+<kbd>1</kbd> to
-<kbd>Alt</kbd>+<kbd>4</kbd>.
+<kbd>Alt</kbd>+<kbd>5</kbd>.
 
 ## The bar at the top
 
@@ -13,7 +13,7 @@ From left to right:
 
 - **Steerboard** and the group that owns the project. The logo takes you back
   to your projects.
-- The four screens.
+- The five screens.
 - The save state. Changes save as you make them, so it normally says
   **All changes saved**.
 - The avatars of anyone else who has the project open right now.
@@ -21,7 +21,8 @@ From left to right:
   like, without leaving your work. See [Feedback](feedback.md).
 - Help (the question mark), which opens these docs in a new window at the
   page for the screen you're on.
-- Project settings (the sliders icon), **Share**, and your account menu. The
+- [Project settings](../project-settings.md) (the sliders icon): the project's
+  name, reporting, resources, holidays and sharing. Then **Share**, and your account menu. The
   account menu has **Docs** too.
 
 Under it, the toolbar holds the plan's name, its status in a few words, and
@@ -55,6 +56,14 @@ period: how many days they're booked, day by day, and each piece of work. See
 [People and workload](../people.md).
 
 ![People](../img/people.png)
+
+## Resources
+
+The hours the plan takes and what they cost: agreed, planned and spent, week by
+week and by workstream, group or person, against a budget. See
+[Resources](../resources.md).
+
+![Resources](../img/resources.png)
 
 ## Report
 

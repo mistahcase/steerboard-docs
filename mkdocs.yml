@@ -87,9 +87,11 @@ nav:
       - Keyboard: plan/keyboard.md
   - Cards: cards.md
   - People and workload: people.md
+  - Resources: hours and costs: resources.md
   - The status report:
       - The report: report/index.md
       - Present and download: report/present.md
+  - Project settings: project-settings.md
   - Sharing and the account:
       - Sharing a project: sharing/sharing.md
       - Groups and people: sharing/groups.md
