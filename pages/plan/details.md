@@ -5,6 +5,12 @@ board can also be done here, with the keyboard and in words.
 
 ![The details panel](../img/plan-details.png)
 
+Under the name, first, is where it stands: **Draft**, **Planned**,
+**In progress** or **Done**, how it's tracking (late or slipped, with by how
+much), and what's next. A draft has its **Agree** button there: it must be
+agreed before it can start. Agreed work has its status there (**Not started**,
+**In progress** or **Completed**) and a progress slider, in steps of 10%.
+
 | Field | What it does |
 |---|---|
 | Name | Click the title to rename it. |
@@ -14,8 +20,8 @@ board can also be done here, with the keyboard and in words.
 | **Work package** | Puts the item in a work package, or takes it out of one. |
 | **Owner** | Who does it, picked from the project's team. A work package's owner is its lead. |
 | **Time on this** | How much of the owner's week it takes: full time, 3 days a week, a day a week, and so on. |
-| **Agreed dates** | Draft or agreed. For agreed work: the agreed and planned dates, and how it's tracking. **Change agreed dates…** for a change of scope. |
-| **Status** | **Not started**, **In progress** or **Completed**, with a progress slider in steps of 10%. A completed item shows **Completed on**. |
+| **Agreed dates** | For agreed work: the agreed and planned dates, and how it's tracking. **Change agreed dates…** for a change of scope. |
+| **Completed on** | For finished work: the day it was finished, which can be corrected. |
 | Starts after, Followed by | Its [links](links.md), with **Add** and ×. |
 | Notes | Anything worth keeping with the work. |
 | History | Changes to its agreed dates, with reasons, and corrected completion days. |

@@ -3,6 +3,9 @@
 An activity is **Not started**, **In progress** (with a percentage) or
 **Completed**. A milestone is completed or not.
 
+A draft can't start: agree its dates first (it's then **Planned**), and it can
+start. Until then it has no percentage tab, and its status can't be set.
+
 ## Set it
 
 - Drag the percentage tab that appears under an activity when you point at

@@ -16,7 +16,7 @@ A new activity lasts one working week unless you draw it to size. Type its
 name straight away; <kbd>Enter</kbd> keeps it.
 
 Everything you add starts as a draft, pencilled in with a dashed outline,
-until you [agree its dates](agreed-dates.md).
+until you [agree its dates](agreed-dates.md), and it can't start until then.
 
 ![The menu on an activity](../img/plan-menu.png)
 

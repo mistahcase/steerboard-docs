@@ -16,7 +16,7 @@ Every plan has at least one. A new plan starts with **Workstream 1**.
 | To | Do this |
 |---|---|
 | Add one | Right-click a row and choose **Start a workstream here**: that row and the ones below it in its section become a workstream. Or choose **New workstream** under the names, or right-click free space. |
-| Rename it | Click its name and choose **Rename**, or double-click the name. |
+| Rename it | Click its name and choose **Rename**, or double-click the name. A name starts with a capital letter. |
 | Give it a lead | Click its name and choose **Set lead…**. The lead shows under the name, on the cards' lanes and in the report. |
 | Move it | Drag its name up or down. A line shows where it goes; its rows and work move with it. Or use **Move up** and **Move down**. |
 | Add a row to it | Click its name and choose **Add a row**. |

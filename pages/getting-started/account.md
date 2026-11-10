@@ -15,7 +15,7 @@ Fill in:
 
 Then choose **Start the account**. You're signed in straight away, and you're
 the account's *account manager*: you can invite people, make groups and
-change the account's settings. The account starts with a demo project to look
+change the account's settings. The account starts with two projects to look
 around in (see [Your first project](first-project.md)).
 
 ## Joining a colleague's account

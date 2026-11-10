@@ -28,7 +28,8 @@ Drag it to another column, and it makes the same change the plan would:
 - **Identified** puts unstarted work back to a draft.
 
 Work with agreed dates can't go back to **Identified** (change its agreed
-dates instead), and milestones skip **Started**, since they're done or not. While you drag, a
+dates instead), a draft goes to **Planned** before it can start or be done,
+and milestones skip **Started**, since they're done or not. While you drag, a
 column a card can't go to is hatched, and says why.
 
 On a phone or tablet, swiping scrolls the board. To move a card, press and

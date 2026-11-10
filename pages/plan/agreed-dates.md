@@ -13,7 +13,7 @@ Move it as much as you like. A draft is never late.
 When the client agrees, agree the dates:
 
 - Right-click a draft and choose **Agree dates**.
-- Or use **Agree** in the [details panel](details.md).
+- Or use **Agree** at the top of the [details panel](details.md).
 - Or select several drafts and agree them together.
 - On a work package's bracket, **Agree dates for everything inside**.
 - On the [cards](../cards.md), drag a card from **Identified** to **Planned**.
