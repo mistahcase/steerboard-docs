@@ -4,12 +4,16 @@ After you sign in you land on **Projects**: every project you own, edit or
 view. Each card shows the project's status in a few words, how much is done,
 its dates and its next milestone.
 
-A new account starts with one project already there: a demo, **Northwind
-pricing review**. It has a bit of everything: finished work, work in progress,
-work that's late, drafts, a team in three groups and a status report. It's the
-quickest way to see what each screen does before you build your own plan.
-It's yours to change, and to delete when you're done with it; its team is in
-your [Groups](../sharing/groups.md) too.
+A new account starts with two projects already there:
+
+- **Northwind pricing review**, a demo engagement with a bit of everything:
+  finished work, work in progress, work that's late, drafts, a team in three
+  groups and a status report. Its team is in your [Groups](../sharing/groups.md)
+  too.
+- **Website relaunch**, a small sample plan with phases, links and a launch.
+
+They're the quickest way to see what each screen does before you build your
+own plan. They're yours to change, and to delete when you're done with them.
 
 ![The projects page](../img/projects.png)
 
@@ -18,13 +22,6 @@ your [Groups](../sharing/groups.md) too.
 Choose **New project** and give it a name.
 
 ![Starting a new project](../img/new-project.png)
-
-Under **Start from**, pick:
-
-| Option | What you get |
-|---|---|
-| **Blank** | An empty plan with one workstream and one row, ready to draw on. |
-| **Website relaunch** | A small sample plan with phases, links and a launch. |
 
 Under **Who can open it**, choose whether everyone in your group can edit it,
 only view it, or not see it until you share it. You can change this later from
