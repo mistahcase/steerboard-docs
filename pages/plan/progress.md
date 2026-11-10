@@ -11,6 +11,8 @@ An activity is **Not started**, **In progress** (with a percentage) or
 - Right-click an item and pick its status.
 - Or use **Status** and the progress slider in the [details panel](details.md).
 
+Progress goes in steps of 10%.
+
 On the [cards](../cards.md), drag a card to **Started** or **Done**, or slide the
 progress bar on a started card.
 

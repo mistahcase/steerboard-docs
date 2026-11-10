@@ -31,11 +31,18 @@ Work with agreed dates can't go back to **Identified** (change its agreed
 dates instead), and milestones skip **Started**, since they're done or not. While you drag, a
 column a card can't go to is hatched, and says why.
 
+On a phone or tablet, swiping scrolls the board. To move a card, press and
+hold it for a moment until it lifts, then drag it; near the edge of the screen
+the board scrolls along to the other columns. Hold a card and let go without
+moving to open its menu, which can move it too. Tap a card to open its details.
+
 ## Progress on a card
 
-Slide the progress bar on a started card to set how far along it is. The card
-stays where it is. Sliding it to 0% or 100% asks whether to move the card back
-to **Planned** (or **Identified**) or on to **Done**.
+With a mouse, slide the progress bar on a started card to set how far along it
+is, in steps of 10%. The card stays where it is. Sliding it to 0% or 100% asks
+whether to move the card back to **Planned** (or **Identified**) or on to
+**Done**. On a phone or tablet the bar only shows progress: tap the card and
+set it in its details.
 
 ## Lanes
 
