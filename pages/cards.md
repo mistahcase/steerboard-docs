@@ -38,11 +38,13 @@ moving to open its menu, which can move it too. Tap a card to open its details.
 
 ## Progress on a card
 
-With a mouse, slide the progress bar on a started card to set how far along it
-is, in steps of 10%. The card stays where it is. Sliding it to 0% or 100% asks
-whether to move the card back to **Planned** (or **Identified**) or on to
-**Done**. On a phone or tablet the bar only shows progress: tap the card and
-set it in its details.
+Slide the progress bar on a started card to set how far along it is, in steps
+of 10%. The card stays where it is. Sliding it to 0% or 100% asks whether to
+move the card back to **Planned** (or **Identified**) or on to **Done**.
+
+On a phone or tablet, press and hold the bar for a moment until it grows, then
+slide. A quick swipe across it scrolls the board, and a tap opens the card's
+details, so it doesn't change by accident.
 
 ## Lanes
 
