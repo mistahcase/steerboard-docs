@@ -15,7 +15,7 @@ board can also be done here, with the keyboard and in words.
 | **Owner** | Who does it, picked from the project's team. A work package's owner is its lead. |
 | **Time on this** | How much of the owner's week it takes: full time, 3 days a week, a day a week, and so on. |
 | **Agreed dates** | Draft or agreed. For agreed work: the agreed and planned dates, and how it's tracking. **Change agreed dates…** for a change of scope. |
-| **Status** | **Not started**, **In progress** or **Completed**, with a progress slider. A completed item shows **Completed on**. |
+| **Status** | **Not started**, **In progress** or **Completed**, with a progress slider in steps of 10%. A completed item shows **Completed on**. |
 | Starts after, Followed by | Its [links](links.md), with **Add** and ×. |
 | Notes | Anything worth keeping with the work. |
 | History | Changes to its agreed dates, with reasons, and corrected completion days. |
