@@ -22,7 +22,7 @@ month, counted from the day the last one was issued (before any has been,
 from the plan's first day). The tab and the report then say when the next one
 is due.
 
-With **Email the project's owners when one is due** ticked, each owner who
+With **Email the project’s owners when one is due** ticked, each owner who
 signs in gets one email on the morning of that day, with a link to the report.
 Issuing the report sets the next due day.
 
@@ -34,8 +34,8 @@ until they turn it on.
 | Email | When |
 |---|---|
 | **When work is given to someone** | A few minutes after they're made its owner, with everything that became theirs in one email. Not for work you take yourself, and not if it's taken back, finished or deleted in those minutes. |
-| **When someone's work goes overdue** | Once, the morning after its agreed end has passed without it being done. |
-| **Each person's week** | On the first working morning of the project's week: what's overdue, in progress, starting and due. Nothing to someone with nothing. |
+| **When someone’s work goes overdue** | Once, the morning after its agreed end has passed without it being done. |
+| **Each person’s week** | On the first working morning of the project's week: what's overdue, in progress, starting and due. Nothing to someone with nothing. |
 
 They go to people on the project's team who sign in and can open it, at the
 address they sign in with. People who don't sign in get none. Anyone can stop

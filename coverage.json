@@ -12,7 +12,8 @@
       "covers": [
         "src/components/AuthPages.tsx",
         "server/auth.ts"
-      ]
+      ],
+      "reviewed": "a1bd83f502a254638972ed2ddff7dc952d391abd"
     },
     "getting-started/first-project.md": {
       "covers": [
