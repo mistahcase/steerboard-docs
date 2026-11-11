@@ -101,7 +101,8 @@
       "covers": [
         "src/components/HolidayDialog.tsx",
         "src/model/calendar.ts",
-        "src/model/holidays.ts"
+        "src/model/holidays.ts",
+        "src/model/dates.ts"
       ]
     },
     "plan/keyboard.md": {

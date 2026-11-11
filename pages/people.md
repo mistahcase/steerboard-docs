@@ -24,7 +24,7 @@ the Groups page.
 | Change someone's role or days | Point at them and choose the pencil. |
 | Take someone off the team | Point at them, choose the pencil, then **Take off team…**. Their work stays, without an owner. |
 
-The days shown are working days, as on the plan: no weekends.
+The days shown are the project's working days, as on the plan: no weekends.
 
 ## Who's working on what
 

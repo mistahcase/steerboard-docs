@@ -45,7 +45,7 @@ the next one ahead.
 **Work package.** A bracket over some work, rolling up its dates, progress
 and status. Put work in one from the right-click menu on the plan.
 
-**Working day.** Monday to Friday, less the project's holidays. Lengths are
+**Working day.** Monday to Friday (or the project's own working days), less its holidays. Lengths are
 counted in working days.
 
 **Workstream.** A section of the plan, lined off with its name at the left.

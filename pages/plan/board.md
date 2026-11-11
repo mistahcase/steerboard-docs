@@ -31,7 +31,8 @@ column shows. Months are labelled in bold, then weeks by their number with
 the Monday's date.
 
 - The board shows working days only. Saturday and Sunday take no room, so
-  every week is five columns wide.
+  every week is five columns wide (or as many as the project's
+  [working days](holidays.md)).
 - Today is a dashed line down the board.
 - [Holidays](holidays.md) are grey bands, named at the top.
 

@@ -40,6 +40,17 @@ milestone leaves a hollow diamond.
 A work package's status, and a workstream's dot, is the worst of the agreed work
 inside it.
 
+### When the plan is at risk or late
+
+A piece of work always shows its own delay. Its workstream, its work package
+and the plan as a whole are **At risk** when any agreed work has slipped, and
+**Late** when any is overdue. Under **Tracking** in
+[Project settings](../project-settings.md) a project can let a little pass:
+
+- **At risk when agreed work has slipped by** more than so many working days.
+- **Late when agreed work is overdue by** more than so many working days.
+  Until then, overdue work makes it at risk.
+
 ## Change agreed dates
 
 Agreed dates are never undone by moving the work. When the scope genuinely
