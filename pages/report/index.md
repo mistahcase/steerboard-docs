@@ -46,6 +46,11 @@ the worst of its workstreams.
 When you've sent the report, choose **Issue report…**. That closes the period,
 so the next report starts from today.
 
+A project can put the report on a rhythm (every week, two weeks or month) and
+remind its owners by email when one is due: see
+[Project settings](../project-settings.md#a-report-on-a-rhythm). The line under
+the project's name then says when the next one is due.
+
 ## Only some workstreams
 
 The workstream filter beside the report's actions narrows the report, and its

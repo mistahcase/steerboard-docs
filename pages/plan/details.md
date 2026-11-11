@@ -19,7 +19,7 @@ agreed before it can start. Agreed work has its status there (**Not started**,
 | **Workstream** | Moves the item to a row in another workstream. |
 | **Work package** | Puts the item in a work package, or takes it out of one. |
 | **Owner** | Who does it, picked from the project's team. A work package's owner is its lead. |
-| **Time on this** | How much of the owner's week it takes: full time, 3 days a week, a day a week, and so on. |
+| **Time on this** | How much of the owner's week it takes: full time, 3 days a week, a day a week, and so on (in shares of the week when the project's [working days](holidays.md) aren't five). |
 | **Agreed dates** | For agreed work: the agreed and planned dates, and how it's tracking. **Change agreed dates…** for a change of scope. |
 | **Completed on** | For finished work: the day it was finished, which can be corrected. |
 | Starts after, Followed by | Its [links](links.md), with **Add** and ×. |

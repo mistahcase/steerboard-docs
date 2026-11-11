@@ -10,6 +10,10 @@ account managers, the account's.
 Your name, as everyone sees it, and your email. **Download my data** gives you
 everything Steerboard holds about you, as a file.
 
+**Email me about my work** is ticked to start with: projects that send email
+about their work (see [Project settings](../project-settings.md#emails-about-work))
+send you yours. Untick it to get none.
+
 ## Password
 
 Enter your current password and a new one of at least 10 characters. You stay

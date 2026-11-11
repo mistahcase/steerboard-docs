@@ -57,7 +57,7 @@
         "src/components/Toolbar.tsx",
         "src/model/items.ts"
       ],
-      "reviewed": "dbe45d89194506c1a23b762e1d66f27826edae2b"
+      "reviewed": "a55e0ae8d6c4f0f20318c8307e7a9b6477d845d1"
     },
     "plan/workstreams.md": {
       "covers": [
@@ -66,7 +66,7 @@
         "src/components/WorkstreamFilter.tsx",
         "src/gantt/Gantt.tsx"
       ],
-      "reviewed": "dbe45d89194506c1a23b762e1d66f27826edae2b"
+      "reviewed": "a55e0ae8d6c4f0f20318c8307e7a9b6477d845d1"
     },
     "plan/links.md": {
       "covers": [
@@ -112,7 +112,7 @@
         "src/components/Presentation.tsx",
         "src/App.tsx"
       ],
-      "reviewed": "aaee35cc28039d805a34f63135ac347e47d010a6"
+      "reviewed": "a55e0ae8d6c4f0f20318c8307e7a9b6477d845d1"
     },
     "cards.md": {
       "covers": [
@@ -144,7 +144,8 @@
         "src/report/slides.ts",
         "src/report/plan-slide.ts",
         "src/report/template.ts"
-      ]
+      ],
+      "reviewed": "a55e0ae8d6c4f0f20318c8307e7a9b6477d845d1"
     },
     "sharing/sharing.md": {
       "covers": [
@@ -177,7 +178,8 @@
     },
     "project-settings.md": {
       "covers": [
-        "src/components/ProjectSettings.tsx"
+        "src/components/ProjectSettings.tsx",
+        "server/notify.ts"
       ]
     }
   }
