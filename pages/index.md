@@ -27,9 +27,9 @@ These pages explain how to use it. If you're new, start with
 | Make one piece of work wait for another | [Links between work](plan/links.md) |
 | Agree dates with the client and track delays | [Agreed dates and delays](plan/agreed-dates.md) |
 | Run the week's work as cards | [Cards](cards.md) |
-| See who's working on what | [People and workload](people.md) |
+| See who's working on what | [Workload](workload.md) |
 | Write and send the status report | [The report](report/index.md) and [Present and download](report/present.md) |
-| Bring in your team and your client | [Sharing a project](sharing/sharing.md) and [Groups and people](sharing/groups.md) |
+| Bring in your team and your client | [Sharing a project](sharing/sharing.md) and [People and groups](sharing/people.md) |
 | Read the plan's marks | [The marks](reference/marks.md) |
 
 ## How these pages are written

@@ -8,7 +8,7 @@ A new account starts with two projects already there:
 
 - **Northwind pricing review**, a demo engagement with a bit of everything:
   finished work, work in progress, work that's late, drafts, a team in three
-  groups and a status report. Its team is in your [Groups](../sharing/groups.md)
+  groups and a status report. Its team is in your [People](../sharing/people.md)
   too.
 - **Website relaunch**, a small sample plan with phases, links and a launch.
 

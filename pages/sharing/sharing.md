@@ -21,7 +21,7 @@ email with a link to it.
 
 You can only share with people already in your account, unless an account
 manager has switched on **Let project owners invite new people** on the
-[Groups](groups.md) page. Then you can invite someone new by email from here,
+[People](people.md) page. Then you can invite someone new by email from here,
 and they join your account when they accept.
 
 ## Share with a group

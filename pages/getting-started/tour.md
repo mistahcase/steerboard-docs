@@ -1,7 +1,7 @@
 # A tour of the screens
 
 A project has four screens, in the bar at the top: **Plan**, **Cards**,
-**People** and **Report**. They're four views of one plan. Change something in
+**Workload** and **Report**. They're four views of one plan. Change something in
 one and it has changed in all of them, for everyone with the project open.
 
 Switch between them with the tabs, or with <kbd>Alt</kbd>+<kbd>1</kbd> to
@@ -29,7 +29,7 @@ Under it, the toolbar holds the plan's name, its status in a few words, and
 the tools for the screen you're on.
 
 On a phone held upright the bar keeps the logo, **Feedback** and your account
-menu, which has **Projects**, **Groups**, **Settings** and **Docs**; the
+menu, which has **Projects**, **People**, **Settings** and **Docs**; the
 toolbar's tools are one row you can swipe sideways.
 
 ## Plan
@@ -49,13 +49,13 @@ The same work as cards in four columns: **Identified**, **Planned**,
 
 ![The cards](../img/cards.png)
 
-## People
+## Workload
 
 The team, in their groups, and what each person is working on over the next
 period: how many days they're booked, day by day, and each piece of work. See
-[People and workload](../people.md).
+[Workload](../workload.md).
 
-![People](../img/people.png)
+![Workload](../img/workload.png)
 
 ## Report
 

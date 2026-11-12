@@ -113,7 +113,7 @@
         "src/components/Presentation.tsx",
         "src/App.tsx"
       ],
-      "reviewed": "a55e0ae8d6c4f0f20318c8307e7a9b6477d845d1"
+      "reviewed": "975829a37f0eb5e3c5b176ca23373d069339d168"
     },
     "cards.md": {
       "covers": [
@@ -122,7 +122,7 @@
         "src/model/board.ts"
       ]
     },
-    "people.md": {
+    "workload.md": {
       "covers": [
         "src/components/PeoplePage.tsx",
         "src/components/WorkloadCard.tsx",
@@ -136,7 +136,8 @@
         "src/components/ReportActions.tsx",
         "src/model/report.ts",
         "src/report/onepager.ts"
-      ]
+      ],
+      "reviewed": "975829a37f0eb5e3c5b176ca23373d069339d168"
     },
     "report/present.md": {
       "covers": [
@@ -155,10 +156,13 @@
         "server/sharing.ts"
       ]
     },
-    "sharing/groups.md": {
+    "sharing/people.md": {
       "covers": [
-        "src/components/GroupsPage.tsx",
-        "server/directory.ts"
+        "src/components/AccountPeople.tsx",
+        "src/components/PersonPanel.tsx",
+        "src/components/AddPeople.tsx",
+        "server/directory.ts",
+        "server/people.ts"
       ]
     },
     "sharing/settings.md": {

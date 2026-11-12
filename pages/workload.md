@@ -1,10 +1,10 @@
-# People and workload
+# Workload
 
 Each project has a team: the people who can own work, sorted into groups such
-as your firm, the client and a vendor. **People** shows the team and what each
-person is working on.
+as your firm, the client and a vendor. **Workload** shows the team and what
+each person is working on.
 
-![The people screen](img/people.png)
+![The Workload screen](img/workload.png)
 
 ## The team
 
@@ -14,13 +14,13 @@ outside the delivery team (the client, a vendor) carries a small
 **Waiting on** tag.
 
 This screen is for following the work. The team is picked from your account's
-[groups and people](sharing/groups.md), so the same person is the same person
-on every project; someone new, and anyone's name, email and group, are set on
-the Groups page.
+[people](sharing/people.md), so the same person is the same person on every
+project; someone new, and anyone's name, email and group, are set on the
+**People** page in the header.
 
 | To | Do this |
 |---|---|
-| Add someone | Choose **Add to team**, pick them from your groups, then set their role on this project (it starts as their role on the Groups page) and how many days a week they can give it. Their group comes with them. |
+| Add someone | Choose **Add to team**, pick them from your groups, then set their role on this project (it starts as their job on the People page) and how many days a week they can give it. Their group comes with them. |
 | Change someone's role or days | Point at them and choose the pencil. |
 | Take someone off the team | Point at them, choose the pencil, then **Take off team…**. Their work stays, without an owner. |
 

@@ -86,14 +86,14 @@ nav:
       - Working days and holidays: plan/holidays.md
       - Keyboard: plan/keyboard.md
   - Cards: cards.md
-  - People and workload: people.md
+  - Workload: workload.md
   - The status report:
       - The report: report/index.md
       - Present and download: report/present.md
   - Project settings: project-settings.md
   - Sharing and the account:
       - Sharing a project: sharing/sharing.md
-      - Groups and people: sharing/groups.md
+      - People and groups: sharing/people.md
       - Settings: sharing/settings.md
   - Reference:
       - The marks: reference/marks.md
