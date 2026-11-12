@@ -38,8 +38,8 @@ sideways.
 
 The board: the plan drawn the way the plan slide draws it. Workstreams are
 lined off down the left with their leads; activities are boats along the
-rows; milestones are diamonds. You draw, move and stretch everything
-directly. See [The board](../plan/board.md).
+rows; milestones are diamonds. You add, move and stretch everything
+directly, and pull a box across free space to select several at once. See [The board](../plan/board.md).
 
 ![The plan](../img/plan.png)
 

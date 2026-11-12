@@ -15,6 +15,9 @@ names.
 - Something you add next to an item lands on that item's row.
 - When two items on a row overlap in time, one goes down a lane, so nothing is
   ever hidden. It stays in that lane until you drag it back up.
+- Pulling across free space draws a box that selects everything it touches:
+  see [select several](items.md#select-several). Hold <kbd>Alt</kbd> to draw
+  a new activity instead.
 - Dragging an item across others just moves it. Holding it still over another
   for a moment puts it inside that one, and dropping it in the box under a
   bracket puts it in that work package: see
