@@ -45,7 +45,7 @@ activity with something inside it is a work package.
 | Break an activity down | Right-click it and choose **Add a sub-activity**. The activity becomes a bracket, and the new activity inside it takes over its dates and progress, so the plan reads the same. Name it, then add more the same way. |
 | Add an activity to a work package | Right-click the bracket and choose **Add a sub-activity**. |
 | Put a bracket round items you have | Select them, right-click one and choose **Put in a new work package**. It works on a single item too. A bracket goes over them on a new row above, and you name it. |
-| Put an item in a work package | Drag it onto one of the package's rows, inside the box under its bracket. Or drag it over the bracket and hold it there for a moment, or select it and press <kbd>Tab</kbd>: it goes inside what's above it on the board. |
+| Put an item in a work package | Drag it into the box under the package's bracket. Or drag it over the bracket and hold it there for a moment, or select it and press <kbd>Tab</kbd>: it goes inside what's above it on the board. |
 | Take an item out | Drag it onto a row outside the box: above the bracket, or below the package's last row. Or select it and press <kbd>Shift</kbd>+<kbd>Tab</kbd>, or right-click it and choose **Take out one level**. |
 | Collapse a work package | Choose the small arrow before its bracket, or right-click the bracket and choose **Collapse**. It's shown as one bar and what's inside it leaves the board. The arrow before the bar, or **Expand**, opens it again. |
 | Unpack one | Right-click the bracket and choose **Unpack**. What was inside stays where it is, one level up. |
@@ -56,18 +56,24 @@ You can also pick an item's work package under **Work package** in the
 
 ### What's in a work package
 
-A work package owns the rows under its bracket, down to the last row that
-holds anything inside it. A faint box marks them, as wide as the bracket:
-what's in the box is in the package.
+A faint box under the bracket shows what a work package holds. It covers the
+package's rows, down to the last row with anything inside it, and it's as wide
+as the bracket. The box is the edge of the package:
 
-- Something you add or drop on one of those rows is in the package. On a new
-  row right after the last one, it's in the package if you drop it just above
-  the line, and outside if you drop it below. A new row at the bottom of the
-  board is never in a package.
-- Moving an item along its own row never changes what it's in, however far
-  you take it. The bracket stretches or closes up to follow.
+- Something you add or drop inside the box is in the package. On a new row
+  right after the last one, it's in the package if you drop it just above the
+  line, and outside if you drop it below.
+- Beside the box is outside, even on one of the package's rows. So is a new
+  row at the bottom of the board.
+- What's already in the package stays in it for as long as it's on the
+  package's rows. Move it in time, however far, and the bracket and the box
+  stretch or close up to follow.
 - While you drag, the tip says when letting go would put the item in a work
   package or take it out of one.
+
+To add to a work package past the end of its bracket, right-click the bracket
+and choose **Add a sub-activity**, or add the item anywhere and drag it into
+the box.
 
 A work package always spans what's inside it, from the earliest start to the latest
 end; its dates follow as you move the work. Its progress is its work's,

@@ -52,7 +52,8 @@ The plan slide draws the board as it is: workstreams down the left with their
 leads, each row in its lanes, under a two-tier time scale that fits the plan's
 length (weeks over days for a few weeks, up to years over quarters for a
 programme). Activities are pentagons in navy, what's done in green, late work
-in light blue outlined red or amber, drafts dashed. Work packages are brackets,
+in light blue outlined red or amber, drafts dashed. Work packages are brackets
+with a faint box round what they hold,
 milestones diamonds with their dates, holidays grey bands, and today a dashed
 line. A plan too tall for one slide carries on over more, a workstream at a
 time.

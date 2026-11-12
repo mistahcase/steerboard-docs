@@ -59,7 +59,7 @@
         "src/components/Toolbar.tsx",
         "src/model/items.ts"
       ],
-      "reviewed": "a55e0ae8d6c4f0f20318c8307e7a9b6477d845d1"
+      "reviewed": "288312c424ca04a7b4cbe87fcd1aa84358744d76"
     },
     "plan/workstreams.md": {
       "covers": [
@@ -84,7 +84,7 @@
         "src/model/items.ts",
         "src/components/Inspector.tsx"
       ],
-      "reviewed": "f7ad67ee16675e7418cec1b90511a090acb6afc9"
+      "reviewed": "288312c424ca04a7b4cbe87fcd1aa84358744d76"
     },
     "plan/agreed-dates.md": {
       "covers": [
@@ -140,7 +140,7 @@
         "src/model/report.ts",
         "src/report/onepager.ts"
       ],
-      "reviewed": "2162ed92e85e0a8a8b9f22788d81b025cbfd2fe7"
+      "reviewed": "288312c424ca04a7b4cbe87fcd1aa84358744d76"
     },
     "report/present.md": {
       "covers": [

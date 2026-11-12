@@ -18,7 +18,7 @@ this".
 | A green diamond with a check | A completed milestone. |
 | A hollow diamond | Where a moved milestone was agreed. |
 | A black bar with short hanging ends, a name beneath | A work package, over the work inside it. Dashed while it's a draft. |
-| A faint box under a bracket | The rows of that work package: what's in the box is in it. |
+| A faint box under a bracket | What that work package holds. Something put in the box joins it; beside the box is outside. |
 | A bar with a small round arrow before it | A collapsed work package: one bar for everything inside it. The arrow opens it. An open work package has the same arrow before its bracket, to collapse it. |
 | A fine dotted line with an arrow | A link: the next item waits for this one. |
 | A dashed black line down the board | Today. |

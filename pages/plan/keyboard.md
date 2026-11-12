@@ -10,7 +10,7 @@ Everything you can drag on the board you can also do from the keyboard.
 | <kbd>↑</kbd> <kbd>↓</kbd> | Go from item to item in reading order: rows top to bottom, each left to right. |
 | <kbd>←</kbd> <kbd>→</kbd> | Move the focused item a day. |
 | <kbd>Shift</kbd>+<kbd>←</kbd> <kbd>→</kbd> | Change an activity's end. |
-| <kbd>Alt</kbd>+<kbd>↑</kbd> <kbd>↓</kbd> | Put it on the row or lane above or below (a new row past the first or last). |
+| <kbd>Alt</kbd>+<kbd>↑</kbd> <kbd>↓</kbd> | Put it on the row or lane above or below (a new row past the first or last). It joins or leaves a [work package](workstreams.md#whats-in-a-work-package) as it goes into or out of the package's box. |
 | <kbd>Space</kbd> | Select the focused item. |
 | <kbd>Tab</kbd> on a selected item | Put it inside what's above it on the board, one level deeper. See [work packages](workstreams.md#work-packages). |
 | <kbd>Shift</kbd>+<kbd>Tab</kbd> on a selected item | Take it out one level. |
