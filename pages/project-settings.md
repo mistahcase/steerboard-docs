@@ -14,7 +14,7 @@ change what belongs to the plan, and owners the rest.
 | **Reporting** | When the last status report was issued, so the next one covers from then to today. **Issue report…** on the report moves it on; set it here to start the period on another day. And how often **A report is due**, with a reminder by email. See [below](#a-report-on-a-rhythm). |
 | **Emails** | What the project emails about its work. See [below](#emails-about-work). |
 | **Slides** | Who the report is for, your own logo, and a customer’s PowerPoint template to make the slides in. See [below](#your-own-slides). |
-| **Sharing** | Who can open the project and what they can do. See [Sharing a project](sharing/sharing.md). |
+| **People** | The project's team, and who can open the project and what they can do. See [Sharing a project](sharing/sharing.md). |
 
 ## A report on a rhythm
 

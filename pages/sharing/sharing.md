@@ -1,37 +1,73 @@
 # Sharing a project
 
-Choose **Share** in the bar at the top of a project. Only the project's owners
-can change who has access; everyone else sees **Who has access**.
+A project's people are in one place: who is on its team, and who can open it.
+Choose **Share** in the bar at the top of a project, or **Project settings**
+and then **People**.
 
-![Sharing a project](../img/share.png)
+![A project's people](../img/share.png)
+
+## Team and access
+
+These are two different things, and one table shows both.
+
+- The **team** is who owns the project's work. Anyone on the team can be given
+  activities and milestones, whether or not they sign in.
+- **Access** is who can open the project in Steerboard, and what they can do
+  there. It's for people who sign in.
+
+Someone can be on the team without access: a client's finance director who
+owns a decision but never signs in. And someone can have access without being
+on the team: a sponsor who only reads the report. The table lists them under
+**Following**.
 
 ## Roles
 
 | Role | Can |
 |---|---|
-| Owner | Everything, including sharing and deleting the project. |
+| Owner | Everything, including who has access, and archiving and deleting the project. |
 | Editor | Change the plan, the team and the report. |
 | Viewer | See every screen, present the report and download slides, without changing anything. |
 
-## Share with people
+Account managers, and the admins of the group that owns a project, can always
+manage it.
 
-Type the email address of someone in your account, pick their role and choose
-**Share**. They'll find the project on their **Projects** page, and get an
-email with a link to it.
+## Add people
 
-You can only share with people already in your account, unless an account
-manager has switched on **Let project owners invite new people** on the
-[People](people.md) page. Then you can invite someone new by email from here,
-and they join your account when they accept.
+Choose **Add people**. The list shows your account's people under their
+groups; type in the search box to find someone.
+
+1. Tick everyone you want.
+2. Leave **On the team, to own work** ticked to put them on the team.
+3. Pick their **Access here**. It applies to the ones who sign in.
+4. Choose **Add**.
+
+People already in your account who get access are emailed a link to the
+project.
+
+For someone who isn't in your account yet, choose **Someone new…**. You add
+them to the account and to this project in one go. See
+[People and groups](people.md#add-people).
+
+## Change what someone does
+
+Anyone who can edit the project changes the team:
+
+| To | Do this |
+|---|---|
+| Change someone's job on this project | Type in **Job on this project**. It starts as their job on the People page. |
+| Change how much time they have for it | Pick their **Days a week**. |
+| Take someone off the team | Choose their three dots, then **Take off the team**. Their work stays, without an owner. |
+| Put someone who follows on the team | Choose their three dots, then **Put on the team**. |
+
+The project's owners change access, under **Access here**: pick a role, or
+**No access**. If the person's group has a role on the project, the last
+choice says what the group gives them instead.
 
 ## Share with a group
 
-Under **Groups**, pick one of your account's groups and a role, and choose
-**Share**. Everyone in that group gets that role, including people who join
-the group later. The group that owns the project is listed first.
-
-The admins of the group that owns a project, and the account's managers, can
-always manage it.
+Choose **Share with a group…**, pick one of your account's groups and a role,
+and choose **Share**. Everyone in that group gets that role, including people
+who join the group later. To stop, choose the group's three dots.
 
 ## Working together
 
@@ -41,5 +77,5 @@ takes back your own changes.
 
 ## Invitations
 
-An invitation is a link. When email is set up it's emailed; the link is also
-shown, so you can send it yourself if it doesn't arrive. It works once.
+An invitation is a link. When email is set up it's emailed; you can also copy
+the link from the invitation's three dots and send it yourself. It works once.

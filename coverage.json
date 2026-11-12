@@ -152,7 +152,7 @@
     },
     "sharing/sharing.md": {
       "covers": [
-        "src/components/ShareDialog.tsx",
+        "src/components/ProjectPeople.tsx",
         "server/sharing.ts"
       ]
     },

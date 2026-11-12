@@ -14,8 +14,9 @@ Fill in:
 | **Company** | Your firm's name. It becomes the name of your account and of your first group. You can rename both later. |
 
 Then choose **Start the account**. You're signed in straight away, and you're
-the account's *account manager*: you can invite people, make groups and
-change the account's settings. The account starts with two projects to look
+the account's owner and its first *account manager*: you can add people,
+make groups and change the account's settings (see
+[People and groups](../sharing/people.md)). The account starts with two projects to look
 around in (see [Your first project](first-project.md)).
 
 ## Joining a colleague's account

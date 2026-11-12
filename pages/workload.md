@@ -13,16 +13,10 @@ colour that tints its people's initials everywhere in the project. A group
 outside the delivery team (the client, a vendor) carries a small
 **Waiting on** tag.
 
-This screen is for following the work. The team is picked from your account's
-[people](sharing/people.md), so the same person is the same person on every
-project; someone new, and anyone's name, email and group, are set on the
-**People** page in the header.
-
-| To | Do this |
-|---|---|
-| Add someone | Choose **Add to team**, pick them from your groups, then set their role on this project (it starts as their job on the People page) and how many days a week they can give it. Their group comes with them. |
-| Change someone's role or days | Point at them and choose the pencil. |
-| Take someone off the team | Point at them, choose the pencil, then **Take off team…**. Their work stays, without an owner. |
+This screen is for following the work. To change who is on the team, their
+job on the project or their days a week, choose **Manage…** above the list. It
+opens **Project settings** at **People**: see
+[Sharing a project](sharing/sharing.md).
 
 The days shown are the project's working days, as on the plan: no weekends.
 
