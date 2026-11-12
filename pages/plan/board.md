@@ -15,6 +15,9 @@ names.
 - Something you add next to an item lands on that item's row.
 - When two items on a row overlap in time, one goes down a lane, so nothing is
   ever hidden. It stays in that lane until you drag it back up.
+- Dragging an item across others just moves it. Holding it still over another
+  for a moment puts it inside that one: see
+  [work packages](workstreams.md#work-packages).
 - A row that a drag or a delete empties closes up by itself, unless it's its
   workstream's only row.
 - Below the last row there's always room to start a new one.
