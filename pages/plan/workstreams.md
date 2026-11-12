@@ -45,14 +45,29 @@ activity with something inside it is a work package.
 | Break an activity down | Right-click it and choose **Add a sub-activity**. The activity becomes a bracket, and the new activity inside it takes over its dates and progress, so the plan reads the same. Name it, then add more the same way. |
 | Add an activity to a work package | Right-click the bracket and choose **Add a sub-activity**. |
 | Put a bracket round items you have | Select them, right-click one and choose **Put in a new work package**. It works on a single item too. A bracket goes over them on a new row above, and you name it. |
-| Put an item inside another | Drag it over the other and hold it there for a moment. The other is ringed and the tip says what will happen; let go. Or select it and press <kbd>Tab</kbd>: it goes inside what's above it on the board. |
-| Take an item out one level | Select it and press <kbd>Shift</kbd>+<kbd>Tab</kbd>, or right-click it and choose **Take out one level**. |
-| Collapse a work package | Right-click the bracket and choose **Collapse**. It's shown as one bar and what's inside it leaves the board. Choose **Expand**, or the small arrow before the bar, to open it again. |
+| Put an item in a work package | Drag it onto one of the package's rows, inside the box under its bracket. Or drag it over the bracket and hold it there for a moment, or select it and press <kbd>Tab</kbd>: it goes inside what's above it on the board. |
+| Take an item out | Drag it onto a row outside the box: above the bracket, or below the package's last row. Or select it and press <kbd>Shift</kbd>+<kbd>Tab</kbd>, or right-click it and choose **Take out one level**. |
+| Collapse a work package | Choose the small arrow before its bracket, or right-click the bracket and choose **Collapse**. It's shown as one bar and what's inside it leaves the board. The arrow before the bar, or **Expand**, opens it again. |
 | Unpack one | Right-click the bracket and choose **Unpack**. What was inside stays where it is, one level up. |
 | Move everything in a work package | Drag the bracket. |
 
 You can also pick an item's work package under **Work package** in the
 [details panel](details.md).
+
+### What's in a work package
+
+A work package owns the rows under its bracket, down to the last row that
+holds anything inside it. A faint box marks them, as wide as the bracket:
+what's in the box is in the package.
+
+- Something you add or drop on one of those rows is in the package. On a new
+  row right after the last one, it's in the package if you drop it just above
+  the line, and outside if you drop it below. A new row at the bottom of the
+  board is never in a package.
+- Moving an item along its own row never changes what it's in, however far
+  you take it. The bracket stretches or closes up to follow.
+- While you drag, the tip says when letting go would put the item in a work
+  package or take it out of one.
 
 A work package always spans what's inside it, from the earliest start to the latest
 end; its dates follow as you move the work. Its progress is its work's,
@@ -67,5 +82,6 @@ A collapsed work package is collapsed for everyone, and on the plan slide and
 in presentation mode too. The cards, the workload and the report's tables
 still list the work inside it.
 
-Which work package an item is in is separate from which row it's on: moving
-an item to another row keeps its work package.
+A work package's own bracket can sit on any row. Its box starts at the
+bracket, so keep what it holds on the rows under it; **Arrange rows by work package**
+(right-click free space) puts a plan back in that shape.
