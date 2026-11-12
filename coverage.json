@@ -25,7 +25,7 @@
     },
     "getting-started/tour.md": {
       "covers": [
-        "src/components/ProjectWorkspace.tsx",
+        "src/components/ProjectBar.tsx",
         "src/components/ViewSwitch.tsx",
         "src/components/Shell.tsx"
       ]
@@ -165,6 +165,7 @@
         "src/components/PersonPanel.tsx",
         "src/components/AddPeople.tsx",
         "server/directory.ts",
+        "server/team.ts",
         "server/people.ts"
       ]
     },
