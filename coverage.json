@@ -44,7 +44,11 @@
         "src/model/rows.ts",
         "src/model/lanes.ts",
         "src/components/PlanZoom.tsx",
-        "src/components/Toolbar.tsx"
+        "src/components/Toolbar.tsx",
+        "src/gantt/drag.ts",
+        "src/gantt/boardMenu.tsx",
+        "src/gantt/BoardGrid.tsx",
+        "src/gantt/useBoardZoom.ts"
       ],
       "reviewed": "aaee35cc28039d805a34f63135ac347e47d010a6"
     },
@@ -57,7 +61,9 @@
         "src/gantt/gestures.ts",
         "src/gantt/names.ts",
         "src/components/Toolbar.tsx",
-        "src/model/items.ts"
+        "src/model/items.ts",
+        "src/gantt/drag.ts",
+        "src/gantt/boardMenu.tsx"
       ],
       "reviewed": "7ce97db0ce4b0b47d150f912a48e0c0c401c538c"
     },
@@ -66,7 +72,9 @@
         "src/model/workstreams.ts",
         "src/model/grouping.ts",
         "src/components/WorkstreamFilter.tsx",
-        "src/gantt/Gantt.tsx"
+        "src/gantt/Gantt.tsx",
+        "src/gantt/SectionColumn.tsx",
+        "src/gantt/boardMenu.tsx"
       ],
       "reviewed": "e2270077cc37920ed88473d4c860b732dfda7573"
     },
@@ -74,7 +82,8 @@
       "covers": [
         "src/gantt/connectors.ts",
         "src/model/operations.ts",
-        "src/components/LinkPicker.tsx"
+        "src/components/LinkPicker.tsx",
+        "src/gantt/useLinkPicking.ts"
       ],
       "reviewed": "aaee35cc28039d805a34f63135ac347e47d010a6"
     },
@@ -106,7 +115,8 @@
         "src/components/HolidayDialog.tsx",
         "src/model/calendar.ts",
         "src/model/holidays.ts",
-        "src/model/dates.ts"
+        "src/model/dates.ts",
+        "src/gantt/boardMenu.tsx"
       ]
     },
     "plan/keyboard.md": {
@@ -114,7 +124,8 @@
         "src/gantt/Gantt.tsx",
         "src/components/CardsBoard.tsx",
         "src/components/Presentation.tsx",
-        "src/App.tsx"
+        "src/App.tsx",
+        "src/gantt/itemKeys.ts"
       ],
       "reviewed": "f7ad67ee16675e7418cec1b90511a090acb6afc9"
     },
