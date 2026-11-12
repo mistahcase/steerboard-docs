@@ -13,7 +13,7 @@
         "src/components/AuthPages.tsx",
         "server/auth.ts"
       ],
-      "reviewed": "59afc0d77814ca92e1280813ff32c9db1fe16e25"
+      "reviewed": "f7ad67ee16675e7418cec1b90511a090acb6afc9"
     },
     "getting-started/first-project.md": {
       "covers": [
@@ -83,7 +83,8 @@
         "src/gantt/progress.ts",
         "src/model/items.ts",
         "src/components/Inspector.tsx"
-      ]
+      ],
+      "reviewed": "f7ad67ee16675e7418cec1b90511a090acb6afc9"
     },
     "plan/agreed-dates.md": {
       "covers": [
@@ -114,7 +115,7 @@
         "src/components/Presentation.tsx",
         "src/App.tsx"
       ],
-      "reviewed": "975829a37f0eb5e3c5b176ca23373d069339d168"
+      "reviewed": "f7ad67ee16675e7418cec1b90511a090acb6afc9"
     },
     "cards.md": {
       "covers": [
@@ -189,7 +190,7 @@
         "src/components/SlideSettings.tsx",
         "server/notify.ts"
       ],
-      "reviewed": "59afc0d77814ca92e1280813ff32c9db1fe16e25"
+      "reviewed": "f7ad67ee16675e7418cec1b90511a090acb6afc9"
     }
   }
 }
