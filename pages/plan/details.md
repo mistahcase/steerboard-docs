@@ -3,6 +3,10 @@
 Click an item to open its details on the right. Everything you can do on the
 board can also be done here, with the keyboard and in words.
 
+What you can change depends on your role on the project. Viewers read the
+panel. [Contributors](../sharing/sharing.md#contributors) can say where their
+own work stands and write its notes. Editors and owners change everything.
+
 ![The details panel](../img/plan-details.png)
 
 Under the name, first, is where it stands: **Draft**, **Planned**,
