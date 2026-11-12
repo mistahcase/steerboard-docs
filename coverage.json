@@ -91,7 +91,8 @@
         "src/model/delay.ts",
         "src/components/Commitment.tsx",
         "src/components/RebaselineDialog.tsx"
-      ]
+      ],
+      "reviewed": "2162ed92e85e0a8a8b9f22788d81b025cbfd2fe7"
     },
     "plan/details.md": {
       "covers": [
@@ -139,7 +140,7 @@
         "src/model/report.ts",
         "src/report/onepager.ts"
       ],
-      "reviewed": "975829a37f0eb5e3c5b176ca23373d069339d168"
+      "reviewed": "2162ed92e85e0a8a8b9f22788d81b025cbfd2fe7"
     },
     "report/present.md": {
       "covers": [
