@@ -31,8 +31,8 @@ agreed before it can start. Agreed work has its status there (**Not started**,
 | History | Changes to its agreed dates, with reasons, and corrected completion days. |
 
 Select several items and the panel offers what you can do to all of them at
-once, such as agreeing their dates, marking them done, or giving them to
-someone.
+once, such as agreeing their dates, marking them done, giving them to
+someone or deleting them. See [select several](items.md#select-several).
 
 Press <kbd>Escape</kbd> or the ×, or click anywhere on the plan that isn't
 an item, to close it. Viewers see the same panel, read-only.

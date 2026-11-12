@@ -25,3 +25,4 @@ this".
 | A grey band down the board | A holiday. |
 | A small coloured dot and a few words | A status, as on a status slide: "On track", "+3 days", "At risk", "Late". |
 | A blue ring, round white handles, a blue dot at an item's end | Selected (a draft's ring is dashed, like its outline). Drag the ends to change dates, the dot to link. |
+| A pale blue box that follows the pointer | A selection box: everything it touches is selected when you let go. |
