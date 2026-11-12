@@ -13,7 +13,7 @@
         "src/components/AuthPages.tsx",
         "server/auth.ts"
       ],
-      "reviewed": "a1bd83f502a254638972ed2ddff7dc952d391abd"
+      "reviewed": "59afc0d77814ca92e1280813ff32c9db1fe16e25"
     },
     "getting-started/first-project.md": {
       "covers": [
@@ -188,7 +188,8 @@
         "src/components/ProjectSettings.tsx",
         "src/components/SlideSettings.tsx",
         "server/notify.ts"
-      ]
+      ],
+      "reviewed": "59afc0d77814ca92e1280813ff32c9db1fe16e25"
     }
   }
 }

@@ -26,6 +26,7 @@ on the team: a sponsor who only reads the report. The table lists them under
 |---|---|
 | Owner | Everything, including who has access, and archiving and deleting the project. |
 | Editor | Change the plan, the team and the report. |
+| Contributor | See every screen, and say how their own work is going. See [below](#contributors). |
 | Viewer | See every screen, present the report and download slides, without changing anything. |
 
 Account managers, and the admins of the group that owns a project, can always
@@ -33,8 +34,27 @@ manage it.
 
 What someone can do on a project is never more than their
 [access level](people.md#access) in the account. A viewer can only be a
-viewer here. If you pick more for one, Steerboard says so; an account manager
-can make them a planner on the spot, which takes a seat.
+viewer here, and a contributor a viewer or a contributor. If you pick more
+for one, Steerboard says so; an account manager can move them up on the spot.
+Making someone a planner takes a seat; making them a contributor is free.
+
+## Contributors
+
+A contributor keeps their own part of the plan current. Put them on the team,
+give them the **Contributor** role, and make them the owner of their work.
+
+When they open the project, the bar at the top says **Your work only**. In the
+details of work they own they can:
+
+- start it, set how far along it is, and finish it;
+- write its **Notes**.
+
+Everything else in the panel is closed to them: dates, name, owner and
+dependencies. Work that's still pencilled in can't be started until an editor
+agrees its dates. Other people's work is read-only, as for a viewer. On the
+cards board they can drag the progress of their own started cards.
+
+Contributors don't take a seat.
 
 ## Add people
 

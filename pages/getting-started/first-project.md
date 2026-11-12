@@ -19,7 +19,9 @@ own plan. They're yours to change, and to delete when you're done with them.
 
 ## Start a project
 
-Choose **New project** and give it a name.
+Choose **New project** and give it a name. (Starting a project is for
+planners and account managers; viewers and contributors see the projects
+shared with them. See [People and groups](../sharing/people.md#access).)
 
 ![Starting a new project](../img/new-project.png)
 

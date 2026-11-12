@@ -24,8 +24,8 @@ signed in where you are; other devices are signed out.
 | Section | What it does |
 |---|---|
 | **Account name** | Everyone in the account sees it, and so do the people you invite. |
-| **Plan and billing** | The account's plan and what it allows: how many seats it has (planners and account managers each take one, and so does an invitation to become one; viewers are free), how many projects the account keeps (archived ones count), and how many items a project's plan can hold. |
-| **Who can add people** | Who may bring in people who sign in: account managers only, planners too as viewers, or planners at any level. See [People and groups](people.md#who-can-invite). |
+| **Plan and billing** | The account's plan and what it allows: how many seats it has (planners and account managers each take one, and so does an invitation to become one; viewers and contributors are free), how many projects the account keeps (archived ones count), and how many items a project's plan can hold. |
+| **Who can add people** | Who may bring in people who sign in: account managers only, planners too as viewers and contributors, or planners at any level. See [People and groups](people.md#who-can-invite). |
 | **Account owner** | Whose the account is, and **Hand over…** for handing it to another account manager. See [People and groups](people.md#the-account-owner). |
 | Single sign-on | Your company's email domains, a setup link for your IT to connect your identity provider, and whether everyone must use it. Account managers can always still use their password. |
 | Audit log | Who did what in the account, and when: sign-ins, invitations, roles, sharing, projects and billing. |
