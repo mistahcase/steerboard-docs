@@ -13,7 +13,7 @@
         "src/components/AuthPages.tsx",
         "server/auth.ts"
       ],
-      "reviewed": "f7ad67ee16675e7418cec1b90511a090acb6afc9"
+      "reviewed": "9ae24dd24079d6e9e1dc6ac8bccdde5bc1db1966"
     },
     "getting-started/first-project.md": {
       "covers": [
@@ -28,7 +28,8 @@
         "src/components/ProjectBar.tsx",
         "src/components/ViewSwitch.tsx",
         "src/components/Shell.tsx"
-      ]
+      ],
+      "reviewed": "9ae24dd24079d6e9e1dc6ac8bccdde5bc1db1966"
     },
     "getting-started/feedback.md": {
       "covers": [
@@ -50,7 +51,7 @@
         "src/gantt/BoardGrid.tsx",
         "src/gantt/useBoardZoom.ts"
       ],
-      "reviewed": "aaee35cc28039d805a34f63135ac347e47d010a6"
+      "reviewed": "9ae24dd24079d6e9e1dc6ac8bccdde5bc1db1966"
     },
     "plan/items.md": {
       "covers": [
@@ -65,7 +66,7 @@
         "src/gantt/drag.ts",
         "src/gantt/boardMenu.tsx"
       ],
-      "reviewed": "7ce97db0ce4b0b47d150f912a48e0c0c401c538c"
+      "reviewed": "9ae24dd24079d6e9e1dc6ac8bccdde5bc1db1966"
     },
     "plan/workstreams.md": {
       "covers": [
@@ -76,7 +77,7 @@
         "src/gantt/SectionColumn.tsx",
         "src/gantt/boardMenu.tsx"
       ],
-      "reviewed": "e2270077cc37920ed88473d4c860b732dfda7573"
+      "reviewed": "9ae24dd24079d6e9e1dc6ac8bccdde5bc1db1966"
     },
     "plan/links.md": {
       "covers": [
@@ -85,7 +86,7 @@
         "src/components/LinkPicker.tsx",
         "src/gantt/useLinkPicking.ts"
       ],
-      "reviewed": "aaee35cc28039d805a34f63135ac347e47d010a6"
+      "reviewed": "9ae24dd24079d6e9e1dc6ac8bccdde5bc1db1966"
     },
     "plan/progress.md": {
       "covers": [
@@ -93,7 +94,7 @@
         "src/model/items.ts",
         "src/components/Inspector.tsx"
       ],
-      "reviewed": "288312c424ca04a7b4cbe87fcd1aa84358744d76"
+      "reviewed": "9ae24dd24079d6e9e1dc6ac8bccdde5bc1db1966"
     },
     "plan/agreed-dates.md": {
       "covers": [
@@ -101,14 +102,15 @@
         "src/components/Commitment.tsx",
         "src/components/RebaselineDialog.tsx"
       ],
-      "reviewed": "2162ed92e85e0a8a8b9f22788d81b025cbfd2fe7"
+      "reviewed": "9ae24dd24079d6e9e1dc6ac8bccdde5bc1db1966"
     },
     "plan/details.md": {
       "covers": [
         "src/components/Inspector.tsx",
         "src/components/SelectionPanel.tsx",
         "src/components/OwnerField.tsx"
-      ]
+      ],
+      "reviewed": "9ae24dd24079d6e9e1dc6ac8bccdde5bc1db1966"
     },
     "plan/holidays.md": {
       "covers": [
@@ -117,7 +119,8 @@
         "src/model/holidays.ts",
         "src/model/dates.ts",
         "src/gantt/boardMenu.tsx"
-      ]
+      ],
+      "reviewed": "9ae24dd24079d6e9e1dc6ac8bccdde5bc1db1966"
     },
     "plan/keyboard.md": {
       "covers": [
@@ -127,14 +130,15 @@
         "src/App.tsx",
         "src/gantt/itemKeys.ts"
       ],
-      "reviewed": "f7ad67ee16675e7418cec1b90511a090acb6afc9"
+      "reviewed": "9ae24dd24079d6e9e1dc6ac8bccdde5bc1db1966"
     },
     "cards.md": {
       "covers": [
         "src/components/CardsBoard.tsx",
         "src/model/stages.ts",
         "src/model/board.ts"
-      ]
+      ],
+      "reviewed": "9ae24dd24079d6e9e1dc6ac8bccdde5bc1db1966"
     },
     "workload.md": {
       "covers": [
@@ -168,7 +172,8 @@
       "covers": [
         "src/components/ProjectPeople.tsx",
         "server/sharing.ts"
-      ]
+      ],
+      "reviewed": "9ae24dd24079d6e9e1dc6ac8bccdde5bc1db1966"
     },
     "sharing/people.md": {
       "covers": [
@@ -178,7 +183,8 @@
         "server/directory.ts",
         "server/team.ts",
         "server/people.ts"
-      ]
+      ],
+      "reviewed": "9ae24dd24079d6e9e1dc6ac8bccdde5bc1db1966"
     },
     "sharing/settings.md": {
       "covers": [
@@ -203,7 +209,7 @@
         "src/components/SlideSettings.tsx",
         "server/notify.ts"
       ],
-      "reviewed": "f7ad67ee16675e7418cec1b90511a090acb6afc9"
+      "reviewed": "9ae24dd24079d6e9e1dc6ac8bccdde5bc1db1966"
     }
   }
 }
