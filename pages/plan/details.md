@@ -18,7 +18,7 @@ agreed before it can start. Agreed work has its status there (**Not started**,
 | **Length** | In working days; − and + change it. |
 | **Workstream** | Moves the item to a row in another workstream. |
 | **Work package** | Puts the item in a work package, or takes it out of one. |
-| **Owner** | Who does it, picked from the project's team. A work package's owner is its lead. |
+| **Owner** | Who does it, picked from the project's team. A work package's owner is its lead. For someone who isn't on the team yet, choose **Someone not on the team…** at the end of the list: it opens the project's [people](../sharing/sharing.md#add-people) to add them. |
 | **Time on this** | How much of the owner's week it takes: full time, 3 days a week, a day a week, and so on (in shares of the week when the project's [working days](holidays.md) aren't five). |
 | **Agreed dates** | For agreed work: the agreed and planned dates, and how it's tracking. **Change agreed dates…** for a change of scope. |
 | **Completed on** | For finished work: the day it was finished, which can be corrected. |

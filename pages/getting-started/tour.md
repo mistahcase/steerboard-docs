@@ -22,7 +22,8 @@ From left to right:
 - Help (the question mark), which opens these docs in a new window at the
   page for the screen you're on.
 - [Project settings](../project-settings.md) (the sliders icon): the project's
-  name, reporting, holidays and sharing. Then **Share**, and your account menu. The
+  name, reporting, holidays and people. Then **Share**, which opens the
+  project's people, and your account menu. The
   account menu has **Docs** too.
 
 Under it, the toolbar holds the plan's name, its status in a few words, and
