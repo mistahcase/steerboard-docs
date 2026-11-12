@@ -22,12 +22,32 @@ Choose **People** in the header.
 | Level | For | They can |
 |---|---|---|
 | **No sign-in** | People who only need to be named: a client's finance director, a vendor's engineer. | Be on plans and own work. They never sign in. |
+| **Viewer** | Sponsors, steering committees, a client who follows along. | Open the projects shared with them, present the report and download slides. They never change a plan. |
 | **Planner** | Project managers, consultants. | Start projects, build and change plans, share them and issue reports. |
 | **Account manager** | Whoever runs Steerboard for your firm. | Everything a planner can, and manage people, groups, the account's settings and every project. |
 | **Account owner** | One of the account managers. | The account is theirs. See [below](#the-account-owner). |
 
-Everyone who signs in can see the list and add someone who doesn't sign in.
-The rest of this page is for account managers.
+A person's level is the most they can do on any project. A viewer looks, even
+on a project that's shared with their whole group for editing.
+
+Planners see the list and can add someone who doesn't sign in. Viewers don't
+have the People page: they see the people on the projects they can open. The
+rest of this page is for account managers.
+
+## Seats
+
+Only the people who change plans take a seat: planners and account managers,
+and an invitation to become one until it's accepted or cancelled. Viewers and
+people who don't sign in are free, so a plan can hold everyone it concerns.
+
+The line at the top of the People page says how many seats are used, how many
+people are free, and has **Manage seats**. To see who holds a seat, pick
+**Takes a seat** under **Access**.
+
+- Making a planner a viewer, or turning their access off, frees their seat at
+  once.
+- With no seat free, nobody can be made a planner or an account manager until
+  one is. Nobody loses a level they already have.
 
 ## Find people
 
@@ -51,8 +71,9 @@ Choose **Add people**.
 ![Adding people](../img/people-add.png)
 
 For **One person**, fill in their name, **Email**, **Job** and **Group**, and
-choose their **Access**. Under **Put them on** you can pick projects: they're
-on those teams at once. Then choose **Add**, or **Add and invite** for someone
+choose their **Access**. Each level says what it costs: free, or a seat and
+how many are left. Under **Put them on** you can pick projects: they're on
+those teams at once. Then choose **Add**, or **Add and invite** for someone
 who signs in. They're sent an invitation by email; if email isn't set up, you
 get a link to send them.
 
@@ -79,13 +100,13 @@ Choose a person to open their panel.
 | **Projects** | Every project they're on, with what they may do there. Change it in place, take them off with the cross, or choose **Add to a project…**. |
 
 To let someone who doesn't sign in start signing in, change their access from
-**No sign-in** to **Planner** or **Account manager**. They're invited at the
+**No sign-in** to **Viewer**, **Planner** or **Account manager**. They're invited at the
 address they have, and when they accept, the person already on your plans
 becomes them, with all their work.
 
 A person's menu in the table (the three dots) has the same actions:
-**Open**, **Make an account manager** or **Make a planner**, **Move to**
-another group, **Send the invitation again**, **Set a temporary password…**,
+**Open**, **Make a viewer**, **Make a planner** or
+**Make an account manager**, **Move to** another group, **Send the invitation again**, **Set a temporary password…**,
 **Turn access off** and **Remove from the account…**.
 
 ## Several people at once
@@ -130,8 +151,9 @@ it owns. Tick **Admin of** the group in a person's panel.
 
 Choose **Invitations** on the People page to see every invitation that hasn't
 been taken up yet, whether to the account or to one project. From there you
-can **Send again**, **Copy link** or **Cancel** each. An invitation holds a
-seat until it's accepted or cancelled.
+can **Send again**, **Copy link** or **Cancel** each. An invitation to plan
+holds a seat until it's accepted or cancelled; an invitation to look holds
+none.
 
 ## The account owner
 
@@ -144,7 +166,14 @@ owner is an account manager like any other.
 
 ## Who can invite
 
-Under **Settings**, **Let project owners invite new people** is off by
-default: only account managers bring people who sign in into the account, and
-project owners share with people already in it. Switched on, owners can invite
-by email when they share a project.
+Under **Settings**, **Who can add people** says who may bring in people who
+sign in:
+
+| Choice | Means |
+|---|---|
+| **Account managers only** | Planners share projects with people already in the account. |
+| **Planners too, as viewers** | Planners can also add viewers. Viewers are free, so it can't change the bill. Every account starts here. |
+| **Planners too, at any level** | Planners can also add other planners, who each take a seat while one is free. |
+
+Only account managers make someone an account manager. Every planner can
+always add someone who doesn't sign in.

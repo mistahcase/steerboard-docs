@@ -31,6 +31,11 @@ on the team: a sponsor who only reads the report. The table lists them under
 Account managers, and the admins of the group that owns a project, can always
 manage it.
 
+What someone can do on a project is never more than their
+[access level](people.md#access) in the account. A viewer can only be a
+viewer here. If you pick more for one, Steerboard says so; an account manager
+can make them a planner on the spot, which takes a seat.
+
 ## Add people
 
 Choose **Add people**. The list shows your account's people under their
