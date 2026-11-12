@@ -27,14 +27,24 @@ milestone and its name; the legend) is a PowerPoint group, so you can move it
 by hand as one. Moving things in PowerPoint doesn't change the plan.
 
 The slides use Calibri, so they look right on any machine, and the plan's navy
-as a thin band along the top. The Steerboard logo sits top right.
+as a thin band along the top. The Steerboard logo sits top right, unless the
+project has its own.
+
+## Your logo, your client, a customer's template
+
+Under **Slides** in [Project settings](../project-settings.md#your-own-slides)
+you can say who the report is for (it goes on the cover), put your own logo in
+place of Steerboard's, and upload a PowerPoint template. With a template,
+**Download .pptx** makes the deck in it: the template's own title slide and
+layout, with the report's content in the room each slide leaves.
 
 ## Slide size
 
 The part of the button showing **16:9** picks the slide size: 16:9, 16:10, A4
 or 4:3, to match the template the slides are going into. Everything is laid
 out again for the size you pick, and the choice is remembered in your browser.
-Presenting is always 16:9.
+Presenting is always 16:9. With a customer’s template there’s nothing to pick:
+the slides are the template’s size.
 
 ## The plan slide
 

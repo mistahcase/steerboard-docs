@@ -142,6 +142,7 @@
       "covers": [
         "src/components/Presentation.tsx",
         "src/report/pptx.ts",
+        "src/report/pptx-template.ts",
         "src/report/slides.ts",
         "src/report/plan-slide.ts",
         "src/report/template.ts"
@@ -180,6 +181,7 @@
     "project-settings.md": {
       "covers": [
         "src/components/ProjectSettings.tsx",
+        "src/components/SlideSettings.tsx",
         "server/notify.ts"
       ]
     }
