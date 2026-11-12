@@ -20,7 +20,8 @@
         "src/components/ProjectsPage.tsx",
         "src/model/demo.ts",
         "src/model/seed.ts"
-      ]
+      ],
+      "reviewed": "57e30ed44db3c615baebd762990582de70c541bc"
     },
     "getting-started/tour.md": {
       "covers": [
