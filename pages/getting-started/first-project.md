@@ -65,6 +65,15 @@ owner. Choose a heading to sort by it; by **Status**, the late ones come
 first. **Only late or at risk** leaves just the projects that need a look,
 as cards or as a table. **Cards** brings the cards back.
 
+**Timeline** draws your projects on one time scale, a line each: its bar, its
+milestones, how it stands and how much is done, with today marked. It's the
+status report's workstream timeline, one level up. Choose a project's name or
+a milestone to open it. **Download slide** saves the timeline as a PowerPoint
+slide, for a programme or portfolio meeting. The search and
+**Only late or at risk** choose which projects are on it.
+
+![The projects on a timeline](../img/programme.png)
+
 Each card's menu (the three dots) holds the rest: make a copy, download the
 project as a file, archive it when the work is over, or delete it. A deleted
 project can be restored from **Recently deleted** for 30 days.

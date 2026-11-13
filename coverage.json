@@ -19,6 +19,8 @@
       "covers": [
         "src/components/ProjectsPage.tsx",
         "src/components/ProjectsTable.tsx",
+        "src/components/ProgrammeView.tsx",
+        "src/model/programme.ts",
         "src/model/projects.ts",
         "src/model/demo.ts",
         "src/model/seed.ts",

@@ -14,6 +14,11 @@ reports**, on the Report screen, lists them with how the status and the finish
 have moved, and opens any of them to read, present and download again. See
 [Past reports](report/index.md#past-reports).
 
+**Your projects on a timeline.** On **Projects**, **Timeline** shows every
+project as a line on one time scale, with its milestones and status, and
+**Download slide** makes a PowerPoint slide of it. See
+[Your first project](getting-started/first-project.md#find-archive-and-delete-projects).
+
 **What a milestone depends on.** In a milestone's details, **What this depends
 on** lights up the linked work leading to it and says which steps have no
 room to spare. See [Links between work](plan/links.md#what-a-milestone-depends-on).
