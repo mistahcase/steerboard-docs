@@ -95,6 +95,8 @@
     "plan/links.md": {
       "covers": [
         "src/gantt/connectors.ts",
+        "src/components/DependsOn.tsx",
+        "src/model/leadsTo.ts",
         "src/model/operations.ts",
         "src/components/LinkPicker.tsx",
         "src/gantt/useLinkPicking.ts"

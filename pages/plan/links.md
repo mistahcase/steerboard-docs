@@ -28,6 +28,20 @@ can be anything.
 - B is never pulled earlier.
 - A link to or from a work package applies to everything in it.
 
+## What a milestone depends on
+
+Open a milestone's [details](details.md) and choose **What this depends on**.
+The linked work leading to it stays lit on the plan and everything else fades.
+The panel lists that work, nearest first, with the room each step has: the
+working days between its end and the start of what waits for it.
+
+Steps with no room to spare are marked, and a sentence names them: a day late
+there is a day late on the milestone. Finished work says done, since it can't
+run late any more. Choose a step to open it.
+
+Nothing moves: it's only a way of looking. Choose
+**Stop showing what this depends on**, or close the details, to end it.
+
 ## Remove a link
 
 Right-click its line and choose **Delete dependency**, or use the × beside it
