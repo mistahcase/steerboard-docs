@@ -14,6 +14,11 @@ reports**, on the Report screen, lists them with how the status and the finish
 have moved, and opens any of them to read, present and download again. See
 [Past reports](report/index.md#past-reports).
 
+**A link to the report, without signing in.** A project's owner can turn on a
+view-only link for people who only need to read the status report. No account
+needed, and you can give it a last day and a passcode. See
+[Sharing a project](sharing/sharing.md#a-link-that-opens-without-signing-in).
+
 **Issue and send.** When you issue a report you can tick who gets it by
 email: how the plan stands, your key messages and a link to that report. See
 [Issue the report](report/index.md#issue-the-report).

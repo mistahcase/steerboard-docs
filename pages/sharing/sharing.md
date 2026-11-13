@@ -94,6 +94,26 @@ Choose **Share with a group…**, pick one of your account's groups and a role,
 and choose **Share**. Everyone in that group gets that role, including people
 who join the group later. To stop, choose the group's three dots.
 
+## A link that opens without signing in
+
+Some people only need to read the status report. For them, a project's owner
+can turn on a link. Under **Who has access**, find
+**A link that opens without signing in** and choose **Turn on a link**, then
+**Copy link** and send it. Whoever has the link sees the report, view-only.
+They need no account, can change nothing, and see nothing else of the project.
+
+| Setting | What it does |
+|---|---|
+| **It shows** | **The report**, or **The report and the plan**: the plan too, drawn as on the plan slide. |
+| **Which report** | **Today’s, as the plan changes**, or **The latest issued report**, which stays as it was until you issue the next one. |
+| **Last day** | The link stops opening after that day. A new link works for 30 days; choose another day, or empty it for no last day. |
+| **Add a passcode…** | The page then asks for the passcode before it shows anything. Send it separately from the link. |
+
+The line at the bottom says how often the link has been opened. **Turn off the
+link** stops it at once for everyone who has it; a link you turn on later is a
+new one. Account managers can switch these links off for the whole account in
+[Settings](settings.md#account-account-managers).
+
 ## Working together
 
 Changes save as you make them. Other people's changes appear as they happen,

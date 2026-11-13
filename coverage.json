@@ -160,6 +160,7 @@
       "covers": [
         "src/components/ReportWords.tsx",
         "src/components/PastReports.tsx",
+        "src/components/ReportBody.tsx",
         "src/components/SendTo.tsx",
         "src/model/issued.ts",
         "src/model/reportWords.ts",
@@ -186,6 +187,10 @@
     "sharing/sharing.md": {
       "covers": [
         "src/components/ProjectPeople.tsx",
+        "src/components/ShareLink.tsx",
+        "src/components/SharedPage.tsx",
+        "src/model/link.ts",
+        "server/links.ts",
         "server/sharing.ts"
       ],
       "reviewed": "9ae24dd24079d6e9e1dc6ac8bccdde5bc1db1966"
