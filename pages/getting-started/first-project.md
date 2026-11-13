@@ -25,9 +25,26 @@ shared with them. See [People and groups](../sharing/people.md#access).)
 
 ![Starting a new project](../img/new-project.png)
 
+Under **Start from**, choose what the plan begins with:
+
+- **Blank**: an empty plan.
+- **Template**: one of four plans to reshape. A consulting engagement, a system
+  roll-out, a sourcing project (a tender), or a programme with steering
+  committees. Each says what it's for, how much is in it and how many weeks it
+  runs.
+- **A copy**: one of your own projects. With **Start it afresh** ticked, the
+  new project has that plan's workstreams, work, people and links, and
+  nothing of what happened: everything is a draft again, with no progress,
+  agreed dates or history. Unticked, it's a copy as it stands.
+
+A template and a fresh copy ask when. Pick any day under **Starts in the week
+of**: the plan starts on that week's Monday, and everything arrives as a
+draft.
+
 Under **Who can open it**, choose whether everyone in your group can edit it,
 only view it, or not see it until you share it. You can change this later from
-**Share**.
+**Share**. (A copy goes where **Make a copy** puts one: in the same group, for
+everyone in it to edit.)
 
 Choose **Create project** and the plan opens.
 

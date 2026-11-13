@@ -4,6 +4,12 @@ What has changed in Steerboard, newest first.
 
 ## November 2026
 
+**Start from a template, or from last year's project.** **New project** now
+asks what to start from: a blank plan, one of four templates (a consulting
+engagement, a system roll-out, a sourcing project, a programme), or a copy of
+one of your own projects with everything a draft again. See
+[Your first project](getting-started/first-project.md#start-a-project).
+
 **Who owns what, on the plan.** Choose **Show** in the plan's toolbar and tick
 **Owners**: each item's owner follows its name as initials, and the report's
 plan slide does the same. See [names](plan/items.md#names).

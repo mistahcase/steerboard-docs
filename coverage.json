@@ -19,7 +19,9 @@
       "covers": [
         "src/components/ProjectsPage.tsx",
         "src/model/demo.ts",
-        "src/model/seed.ts"
+        "src/model/seed.ts",
+        "src/model/templates.ts",
+        "src/gantt/BoardHints.tsx"
       ],
       "reviewed": "57e30ed44db3c615baebd762990582de70c541bc"
     },
