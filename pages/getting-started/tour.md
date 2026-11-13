@@ -1,11 +1,11 @@
 # A tour of the screens
 
-A project has four screens, in the bar at the top: **Plan**, **Cards**,
-**Workload** and **Report**. They're four views of one plan. Change something in
+A project has five screens, in the bar at the top: **Plan**, **List**,
+**Cards**, **Workload** and **Report**. They're five views of one plan. Change something in
 one and it has changed in all of them, for everyone with the project open.
 
 Switch between them with the tabs, or with <kbd>Alt</kbd>+<kbd>1</kbd> to
-<kbd>Alt</kbd>+<kbd>4</kbd>.
+<kbd>Alt</kbd>+<kbd>5</kbd>.
 
 ## The bar at the top
 
@@ -13,7 +13,7 @@ From left to right:
 
 - **Steerboard** and the group that owns the project. The logo takes you back
   to your projects.
-- The four screens.
+- The five screens.
 - The save state. Changes save as you make them, so it normally says
   **All changes saved**.
 - The avatars of anyone else who has the project open right now.

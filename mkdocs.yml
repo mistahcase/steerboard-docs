@@ -85,6 +85,7 @@ nav:
       - The details panel: plan/details.md
       - Working days and holidays: plan/holidays.md
       - Keyboard: plan/keyboard.md
+  - List: list.md
   - Cards: cards.md
   - Workload: workload.md
   - The status report:

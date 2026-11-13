@@ -14,6 +14,11 @@ reports**, on the Report screen, lists them with how the status and the finish
 have moved, and opens any of them to read, present and download again. See
 [Past reports](report/index.md#past-reports).
 
+**A list to type and paste into.** **List**, the new tab beside **Plan**, shows
+the plan as a line for each item: type names, dates and owners straight in,
+press Enter for the next line, sort by any column, and paste rows copied from
+Excel. See [List](list.md).
+
 **A link to the report, without signing in.** A project's owner can turn on a
 view-only link for people who only need to read the status report. No account
 needed, and you can give it a last day and a passcode. See

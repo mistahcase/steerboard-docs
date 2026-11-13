@@ -28,7 +28,7 @@ choose **Keyboard shortcuts** under the question mark at the top.
 
 | Keys | What they do |
 |---|---|
-| <kbd>Alt</kbd>+<kbd>1</kbd> to <kbd>4</kbd> | Plan, Cards, Workload, Report. |
+| <kbd>Alt</kbd>+<kbd>1</kbd> to <kbd>5</kbd> | Plan, List, Cards, Workload, Report. |
 | <kbd>?</kbd> | The shortcuts, on one sheet. |
 
 ## Cards

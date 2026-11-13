@@ -141,6 +141,13 @@
       ],
       "reviewed": "16db55e7b1908137bb9eba9eb02cd278d6b9b82f"
     },
+    "list.md": {
+      "covers": [
+        "src/components/ListView.tsx",
+        "src/model/list.ts",
+        "src/model/paste.ts"
+      ]
+    },
     "cards.md": {
       "covers": [
         "src/components/CardsBoard.tsx",
@@ -170,7 +177,7 @@
         "src/model/report.ts",
         "src/report/onepager.ts"
       ],
-      "reviewed": "16db55e7b1908137bb9eba9eb02cd278d6b9b82f"
+      "reviewed": "6b6c9001ffff37ab290a8de631162e01855d8b2e"
     },
     "report/present.md": {
       "covers": [
