@@ -13,7 +13,7 @@
         "src/components/AuthPages.tsx",
         "server/auth.ts"
       ],
-      "reviewed": "9ae24dd24079d6e9e1dc6ac8bccdde5bc1db1966"
+      "reviewed": "d11e61cf9accb5daea1398bfcd62661bcb8bedf8"
     },
     "getting-started/first-project.md": {
       "covers": [
@@ -35,7 +35,7 @@
         "src/components/ViewSwitch.tsx",
         "src/components/Shell.tsx"
       ],
-      "reviewed": "38136864448a2d8932ba4bc3c9c562850c73f566"
+      "reviewed": "d11e61cf9accb5daea1398bfcd62661bcb8bedf8"
     },
     "getting-started/feedback.md": {
       "covers": [
@@ -262,7 +262,7 @@
         "src/components/SlideSettings.tsx",
         "server/notify.ts"
       ],
-      "reviewed": "797033a6e48e4c3d1a09b86489b0122cd6f9a0ab"
+      "reviewed": "d11e61cf9accb5daea1398bfcd62661bcb8bedf8"
     }
   }
 }

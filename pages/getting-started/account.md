@@ -30,7 +30,8 @@ account, with the projects they've shared with you.
 
 Choose **Log in** at the top right of [steer-board.com](https://steer-board.com),
 or go straight to [steer-board.com/login](https://steer-board.com/login). Enter
-your email and password and choose **Sign in**.
+your email and password and choose **Sign in**. You land on your projects, or,
+if you're a contributor, on [My work](../my-work.md).
 
 If your company has set up single sign-on, entering your email sends you to
 your company's sign-in page instead.

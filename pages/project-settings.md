@@ -36,7 +36,7 @@ until they turn it on.
 |---|---|
 | **When work is given to someone** | A few minutes after they're made its owner, with everything that became theirs in one email. Not for work you take yourself, and not if it's taken back, finished or deleted in those minutes. |
 | **When someone’s work goes overdue** | Once, the morning after its agreed end has passed without it being done. |
-| **Each person’s week** | On the first working morning of the project's week: what's overdue, in progress, starting and due. Nothing to someone with nothing. |
+| **Each person’s week** | On the first working morning of the project's week: what's overdue, in progress, starting and due. Nothing to someone with nothing. Its button opens [My work](my-work.md). |
 
 They go to people on the project's team who sign in and can open it, at the
 address they sign in with. People who don't sign in get none. Anyone can stop

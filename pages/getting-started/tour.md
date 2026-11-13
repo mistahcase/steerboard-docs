@@ -35,10 +35,13 @@ From left to right:
 Under it, the toolbar holds the plan's name, its status in a few words, and
 the tools for the screen you're on.
 
-On a phone held upright the bar keeps the logo, **Feedback** and your account
-menu, which has **Projects**, **People** (for planners and account managers),
-**Settings** and **Docs**; the toolbar's tools are one row you can swipe
-sideways.
+On a phone held upright the bar keeps the logo, the bell, **Feedback** and
+your account menu, which has **Projects**, **My work**, **People** (for
+planners and account managers), **Settings** and **Docs**; the toolbar's tools
+are one row you can swipe sideways.
+
+Outside a project, the bar has **Projects**, [**My work**](../my-work.md)
+(what's yours across every project), **People** and **Settings**.
 
 ## Plan
 
