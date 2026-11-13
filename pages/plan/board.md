@@ -81,6 +81,10 @@ leave the plan.
 
 ## What the plan shows
 
+The two arrows beside the magnifier list what changed on the plan since the
+last report, and can draw where each moved item was: see
+[What changed](changes.md).
+
 **Show**, in the toolbar, has three things:
 
 - **Owners** writes each item's owner after its name, as initials. See
