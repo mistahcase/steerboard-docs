@@ -1,7 +1,7 @@
 # Progress
 
-An activity is **Not started**, **In progress** (with a percentage) or
-**Completed**. A milestone is completed or not.
+An activity is **Planned**, **In progress** (with a percentage) or
+**Done**. A milestone is planned or done.
 
 A draft can't start: agree its dates first (it's then **Planned**), and it can
 start. Until then it has no percentage tab, and its status can't be set.
@@ -16,7 +16,7 @@ start. Until then it has no percentage tab, and its status can't be set.
 
 Progress goes in steps of 10%.
 
-On the [cards](../cards.md), drag a card to **Started** or **Done**, or slide the
+On the [cards](../cards.md), drag a card to **In progress** or **Done**, or slide the
 progress bar on a started card.
 
 ## How it's drawn

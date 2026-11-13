@@ -12,8 +12,8 @@ own work stands and write its notes. Editors and owners change everything.
 Under the name, first, is where it stands: **Draft**, **Planned**,
 **In progress** or **Done**, how it's tracking (late or slipped, with by how
 much), and what's next. A draft has its **Agree** button there: it must be
-agreed before it can start. Agreed work has its status there (**Not started**,
-**In progress** or **Completed**) and a progress slider, in steps of 10%.
+agreed before it can start. Agreed work has its status there (**Planned**,
+**In progress** or **Done**) and a progress slider, in steps of 10%.
 
 | Field | What it does |
 |---|---|

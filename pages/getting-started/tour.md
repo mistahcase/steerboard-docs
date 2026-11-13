@@ -21,7 +21,7 @@ From left to right:
   like, without leaving your work. See [Feedback](feedback.md).
 - Help (the question mark), which opens these docs in a new window at the
   page for the screen you're on.
-- [Project settings](../project-settings.md) (the sliders icon): the project's
+- [Project settings](../project-settings.md) (**Settings**): the project's
   name, reporting, holidays and people. Then **Share**, which opens the
   project's people, and your account menu. The
   account menu has **Docs** too.
@@ -45,8 +45,8 @@ directly, and pull a box across free space to select several at once. See [The b
 
 ## Cards
 
-The same work as cards in four columns: **Identified**, **Planned**,
-**Started** and **Done**. Good for running the week's work. See
+The same work as cards in four columns: **Draft**, **Planned**,
+**In progress** and **Done**. Good for running the week's work. See
 [Cards](../cards.md).
 
 ![The cards](../img/cards.png)

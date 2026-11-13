@@ -11,7 +11,9 @@ A plan has two ways of organising work, and they do different jobs.
 
 ## Workstreams
 
-Every plan has at least one. A new plan starts with **Workstream 1**.
+Every plan has at least one. A new plan starts with **Workstream 1**. Work
+that is in no workstream has its own rows at the top, named **General**, as in
+the report.
 
 | To | Do this |
 |---|---|

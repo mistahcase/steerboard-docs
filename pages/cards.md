@@ -8,10 +8,10 @@ says, so the plan and the cards never disagree.
 
 | Column | What's in it |
 |---|---|
-| **Identified** | Drafts: pencilled in, dates not agreed yet. |
+| **Draft** | Pencilled in, dates not agreed yet. |
 | **Planned** | Dates agreed, not started. Delays are measured against them. |
-| **Started** | In progress, with how far along it is. |
-| **Done** | Completed, most recently finished first. |
+| **In progress** | Started, with how far along it is. |
+| **Done** | Finished, most recently first. |
 
 Each card shows its workstream, dates and length, progress, any delay
 ("+3 days", "Overdue 2 days"), whether it waits for something unfinished, and
@@ -23,13 +23,13 @@ the plan; to change the order, change the dates.
 Drag it to another column, and it makes the same change the plan would:
 
 - **Planned** agrees a draft's dates.
-- **Started** starts the work today, and puts it at the top of the column.
+- **In progress** starts the work today, and puts it at the top of the column.
 - **Done** marks it completed.
-- **Identified** puts unstarted work back to a draft.
+- **Draft** puts unstarted work back to a draft.
 
-Work with agreed dates can't go back to **Identified** (change its agreed
+Work with agreed dates can't go back to **Draft** (change its agreed
 dates instead), a draft goes to **Planned** before it can start or be done,
-and milestones skip **Started**, since they're done or not. While you drag, a
+and milestones skip **In progress**, since they're done or not. While you drag, a
 column a card can't go to is hatched, and says why.
 
 On a phone or tablet, swiping scrolls the board. To move a card, press and
@@ -41,7 +41,7 @@ moving to open its menu, which can move it too. Tap a card to open its details.
 
 Slide the progress bar on a started card to set how far along it is, in steps
 of 10%. The card stays where it is. Sliding it to 0% or 100% asks whether to
-move the card back to **Planned** (or **Identified**) or on to **Done**.
+move the card back to **Planned** (or **Draft**) or on to **Done**.
 [Contributors](sharing/sharing.md#contributors) can do this on their own
 started cards.
 

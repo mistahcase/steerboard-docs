@@ -1,7 +1,7 @@
 # Project settings
 
-Everything about a project is in one place: open a project and choose the
-sliders icon beside **Share**. Everyone with the project can look; editors
+Everything about a project is in one place: open a project and choose
+**Settings** beside **Share**. Everyone with the project can look; editors
 change what belongs to the plan, and owners the rest.
 
 ![Project settings](img/project-settings.png)

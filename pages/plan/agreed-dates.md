@@ -16,7 +16,7 @@ When the client agrees, agree the dates:
 - Or use **Agree** at the top of the [details panel](details.md).
 - Or select several drafts and agree them together.
 - On a work package's bracket, **Agree dates for everything inside**.
-- On the [cards](../cards.md), drag a card from **Identified** to **Planned**.
+- On the [cards](../cards.md), drag a card from **Draft** to **Planned**.
 
 The item turns solid, and its current dates are kept as its agreed dates. You
 can still move it freely; the agreed dates stay put.
