@@ -58,6 +58,13 @@ are, the card goes; its × puts it away sooner.
 The tabs above the cards are **Active**, **Archived** and **Recently deleted**.
 Use the search box to find a project or a group.
 
+With more than a handful of projects, choose **Table** beside those tabs. Each
+project is then a line: its status, how much is done, its next milestone, its
+finish against what was agreed, when its last report was issued, and its
+owner. Choose a heading to sort by it; by **Status**, the late ones come
+first. **Only late or at risk** leaves just the projects that need a look,
+as cards or as a table. **Cards** brings the cards back.
+
 Each card's menu (the three dots) holds the rest: make a copy, download the
 project as a file, archive it when the work is over, or delete it. A deleted
 project can be restored from **Recently deleted** for 30 days.

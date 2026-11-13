@@ -18,6 +18,8 @@
     "getting-started/first-project.md": {
       "covers": [
         "src/components/ProjectsPage.tsx",
+        "src/components/ProjectsTable.tsx",
+        "src/model/projects.ts",
         "src/model/demo.ts",
         "src/model/seed.ts",
         "src/model/templates.ts",

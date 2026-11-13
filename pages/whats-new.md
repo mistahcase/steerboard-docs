@@ -14,6 +14,11 @@ reports**, on the Report screen, lists them with how the status and the finish
 have moved, and opens any of them to read, present and download again. See
 [Past reports](report/index.md#past-reports).
 
+**Projects as a table.** On **Projects**, choose **Table** to see every
+project as a line you can sort, and **Only late or at risk** to see the ones
+that need you. A project's status there is now how it stands today. See
+[Your first project](getting-started/first-project.md#find-archive-and-delete-projects).
+
 **For you.** The bell in the bar at the top lists what Steerboard has to tell
 you: work given to you, updates that name you, your work that's overdue, and
 reports that are due. It works whether or not a project sends email. See
