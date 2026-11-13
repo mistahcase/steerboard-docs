@@ -159,6 +159,8 @@
     "report/index.md": {
       "covers": [
         "src/components/ReportWords.tsx",
+        "src/components/PastReports.tsx",
+        "src/model/issued.ts",
         "src/model/reportWords.ts",
         "src/components/ReportPage.tsx",
         "src/components/StatusSummary.tsx",

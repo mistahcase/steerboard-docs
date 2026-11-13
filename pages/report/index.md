@@ -60,8 +60,8 @@ the worst of its workstreams.
 
 ## Issue the report
 
-When you've sent the report, choose **Issue report…**. That closes the period,
-so the next report starts from today. Its key messages go with it, and so do
+When you've sent the report, choose **Issue report…**. That keeps the report
+as it is now and closes the period, so the next report starts from today. Its key messages go with it, and so do
 decisions that were made and risks that were closed; what's still open
 carries over to the next report.
 
@@ -69,6 +69,22 @@ A project can put the report on a rhythm (every week, two weeks or month) and
 remind its owners by email when one is due: see
 [Project settings](../project-settings.md#a-report-on-a-rhythm). The line under
 the project's name then says when the next one is due.
+
+## Past reports
+
+**Past reports**, beside the report's actions, lists every report that has
+been issued, newest first: its day, the status, how much was done, and the
+finish with how far it has moved since the report before. Above the list, a
+dot for each report shows how the status has run, and where the finish started
+and has got to.
+
+Choose a day to open that report as it was. You can read it, present it and
+download its slides; **Back to today’s report** returns. Everyone who can
+open the project can read them.
+
+A kept report never changes, whatever happens to the plan afterwards. Undoing
+an issue reopens the period and leaves the report in the list. A copy of a
+project starts with none.
 
 ## Only some workstreams
 

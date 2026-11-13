@@ -9,6 +9,11 @@ messages**, **Decisions needed** and **Risks**, a line each. They go on the
 slides right after the status summary. See
 [Your words](report/index.md#your-words).
 
+**Issued reports are kept.** Each report you issue is kept as it was. **Past
+reports**, on the Report screen, lists them with how the status and the finish
+have moved, and opens any of them to read, present and download again. See
+[Past reports](report/index.md#past-reports).
+
 **Start from a template, or from last year's project.** **New project** now
 asks what to start from: a blank plan, one of four templates (a consulting
 engagement, a system roll-out, a sourcing project, a programme), or a copy of
