@@ -81,7 +81,7 @@
         "src/gantt/drag.ts",
         "src/gantt/boardMenu.tsx"
       ],
-      "reviewed": "e5ec7e7e3e0c676c9060797dfb72b97602c64d18"
+      "reviewed": "04531cb83c6ab5f629864ff37a4b2be4191beae3"
     },
     "plan/workstreams.md": {
       "covers": [
