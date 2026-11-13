@@ -4,6 +4,11 @@ What has changed in Steerboard, newest first.
 
 ## November 2026
 
+**The plan's name on a laptop.** On a laptop-wide window the plan's toolbar had
+grown until the name was cut to a few letters. The buttons now give up their
+words first: **Filter** and **Show** are their icons there, and the name reads
+again.
+
 **Your words in the report.** Under the status you can now write **Key
 messages**, **Decisions needed** and **Risks**, a line each. They go on the
 slides right after the status summary. See

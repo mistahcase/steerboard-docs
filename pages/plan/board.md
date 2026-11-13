@@ -79,6 +79,9 @@ where it is, so the plan keeps its shape. The button turns blue and counts
 what's on; **Show all** clears everything. These two aren't kept when you
 leave the plan.
 
+On a laptop-wide window the toolbar's buttons give up their words so the
+plan's name keeps its room: **Filter** is its funnel and **Show** is its eye.
+
 ## What the plan shows
 
 The two arrows beside the magnifier list what changed on the plan since the
