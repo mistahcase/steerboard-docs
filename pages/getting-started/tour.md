@@ -19,8 +19,11 @@ From left to right:
 - The avatars of anyone else who has the project open right now.
 - **Feedback** (the speech bubble), to tell us what doesn't work or what you'd
   like, without leaving your work. See [Feedback](feedback.md).
-- Help (the question mark), which opens these docs in a new window at the
-  page for the screen you're on.
+- Help (the question mark), a menu: **Docs for this page** opens these docs in
+  a new window at the page for the screen you're on, **Keyboard shortcuts**
+  lists them (so does pressing <kbd>?</kbd>), **What’s new** opens
+  [what has changed](../whats-new.md), and **Send feedback** opens the
+  feedback box.
 - [Project settings](../project-settings.md) (**Settings**): the project's
   name, reporting, holidays and people. Then **Share**, which opens the
   project's people, and your account menu. The

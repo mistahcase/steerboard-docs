@@ -31,6 +31,11 @@ only view it, or not see it until you share it. You can change this later from
 
 Choose **Create project** and the plan opens.
 
+The first time you open an empty plan, a small card at the bottom left of the
+board lists three first steps: add an activity, draw one to size, and find the
+rest with a right-click. Each is ticked once you've done it. When all three
+are, the card goes; its × puts it away sooner.
+
 ## Find, archive and delete projects
 
 The tabs above the cards are **Active**, **Archived** and **Recently deleted**.

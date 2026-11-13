@@ -1,6 +1,8 @@
 # Keyboard
 
 Everything you can drag on the board you can also do from the keyboard.
+Press <kbd>?</kbd> anywhere outside a field for this list in the app, or
+choose **Keyboard shortcuts** under the question mark at the top.
 
 ## The board
 
@@ -26,6 +28,7 @@ Everything you can drag on the board you can also do from the keyboard.
 | Keys | What they do |
 |---|---|
 | <kbd>Alt</kbd>+<kbd>1</kbd> to <kbd>4</kbd> | Plan, Cards, Workload, Report. |
+| <kbd>?</kbd> | The shortcuts, on one sheet. |
 
 ## Cards
 

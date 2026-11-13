@@ -209,6 +209,9 @@
     "reference/glossary.md": {
       "covers": []
     },
+    "whats-new.md": {
+      "covers": []
+    },
     "project-settings.md": {
       "covers": [
         "src/components/ProjectSettings.tsx",
