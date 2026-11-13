@@ -31,7 +31,7 @@
         "src/components/ViewSwitch.tsx",
         "src/components/Shell.tsx"
       ],
-      "reviewed": "9ae24dd24079d6e9e1dc6ac8bccdde5bc1db1966"
+      "reviewed": "38136864448a2d8932ba4bc3c9c562850c73f566"
     },
     "getting-started/feedback.md": {
       "covers": [
@@ -59,7 +59,7 @@
         "src/gantt/BoardGrid.tsx",
         "src/gantt/useBoardZoom.ts"
       ],
-      "reviewed": "9ae24dd24079d6e9e1dc6ac8bccdde5bc1db1966"
+      "reviewed": "38136864448a2d8932ba4bc3c9c562850c73f566"
     },
     "plan/items.md": {
       "covers": [
@@ -158,6 +158,8 @@
     },
     "report/index.md": {
       "covers": [
+        "src/components/ReportWords.tsx",
+        "src/model/reportWords.ts",
         "src/components/ReportPage.tsx",
         "src/components/StatusSummary.tsx",
         "src/components/ReportActions.tsx",
@@ -209,7 +211,7 @@
         "src/gantt/key.ts",
         "src/gantt/BoardKey.tsx"
       ],
-      "reviewed": "0cccbf3429283a6e8e28150f215b795256daa19e"
+      "reviewed": "38136864448a2d8932ba4bc3c9c562850c73f566"
     },
     "reference/glossary.md": {
       "covers": []

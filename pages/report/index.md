@@ -2,8 +2,9 @@
 
 **Report** is the status report, written from the plan. It covers the period
 since the last report was issued (the last 7 days at first) and looks ahead to
-the next one. Nothing in it is typed by hand: change the plan and the report
-changes with it.
+the next one. It's worked out from the plan: change the plan and the report
+changes with it. What the plan can't say for itself, you write on it: see
+[Your words](#your-words).
 
 ![The report](../img/report.png)
 
@@ -22,6 +23,22 @@ The report opens with the page a status meeting starts from:
   waiting on someone outside the team, each listed once.
 
 Long lists show the first few and say how many more there are.
+
+## Your words
+
+Under the status, anyone who can edit the plan writes what the plan can't say.
+Each is one line: type it where it stands, and it's kept when you leave the
+field. Empty a line, or press its ×, to take it out.
+
+- **Key messages**: what the reader should take from this period.
+- **Decisions needed**: what you need decided, who decides, and by when. Tick
+  **Decided** once it's made.
+- **Risks**: what the dates don't show, with its owner and what's being done.
+  Tick **Closed** when it's over.
+
+They're on the slides too, right after the status summary. The status itself
+is still worked out from the plan: your words explain it, and never change it.
+Viewers and contributors read them.
 
 ## The detail
 
@@ -44,7 +61,9 @@ the worst of its workstreams.
 ## Issue the report
 
 When you've sent the report, choose **Issue report…**. That closes the period,
-so the next report starts from today.
+so the next report starts from today. Its key messages go with it, and so do
+decisions that were made and risks that were closed; what's still open
+carries over to the next report.
 
 A project can put the report on a rhythm (every week, two weeks or month) and
 remind its owners by email when one is due: see

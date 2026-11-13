@@ -4,6 +4,11 @@ What has changed in Steerboard, newest first.
 
 ## November 2026
 
+**Your words in the report.** Under the status you can now write **Key
+messages**, **Decisions needed** and **Risks**, a line each. They go on the
+slides right after the status summary. See
+[Your words](report/index.md#your-words).
+
 **Start from a template, or from last year's project.** **New project** now
 asks what to start from: a blank plan, one of four templates (a consulting
 engagement, a system roll-out, a sourcing project, a programme), or a copy of
