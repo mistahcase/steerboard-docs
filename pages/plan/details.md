@@ -28,7 +28,22 @@ agreed before it can start. Agreed work has its status there (**Planned**,
 | **Completed on** | For finished work: the day it was finished, which can be corrected. |
 | Starts after, Followed by | Its [links](links.md), with **Add** and ×. |
 | Notes | Anything worth keeping with the work. |
+| Updates | A few words on where it stands and why, each kept with your name and the day. See [Updates](#updates). |
 | History | Changes to its agreed dates, with reasons, and corrected completion days. |
+
+## Updates
+
+Under the notes, write where the work stands and why: "Waiting for client
+data, chased Tuesday". Press <kbd>Enter</kbd> or choose **Add update**. Each
+update is kept with your name and the day, newest first, and isn't rewritten
+afterwards; undo takes back one you just wrote.
+
+To name someone on the team, type @ and start their name, then choose it from
+the names offered. They're marked in the update.
+
+The latest update on work that's overdue or delayed goes beside it in the
+[status report](../report/index.md#the-detail), so the reason is next to the
+delay.
 
 Select several items and the panel offers what you can do to all of them at
 once, such as agreeing their dates, marking them done, giving them to

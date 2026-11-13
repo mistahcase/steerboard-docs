@@ -47,7 +47,8 @@ When they open the project, the bar at the top says **Your work only**. In the
 details of work they own they can:
 
 - start it, set how far along it is, and finish it;
-- write its **Notes**.
+- write its **Notes**, and [updates](../plan/details.md#updates) on where it
+  stands.
 
 Everything else in the panel is closed to them: dates, name, owner and
 dependencies. Work that's still pencilled in can't be started until an editor

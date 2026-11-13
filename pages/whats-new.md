@@ -14,6 +14,11 @@ reports**, on the Report screen, lists them with how the status and the finish
 have moved, and opens any of them to read, present and download again. See
 [Past reports](report/index.md#past-reports).
 
+**Updates on a piece of work.** Under an item's notes you can now write dated
+updates: where it stands and why. The latest one goes beside the item in the
+status report when it's overdue or delayed. See
+[Updates](plan/details.md#updates).
+
 **What changed since the last report.** The button with two arrows on the
 plan lists what moved, was added, finished or agreed since the last report, or
 since a day you pick, with who changed it. **Show on the plan** draws where

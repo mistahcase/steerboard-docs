@@ -116,6 +116,8 @@
     "plan/details.md": {
       "covers": [
         "src/components/Inspector.tsx",
+        "src/components/Updates.tsx",
+        "src/model/updates.ts",
         "src/components/SelectionPanel.tsx",
         "src/components/OwnerField.tsx"
       ],

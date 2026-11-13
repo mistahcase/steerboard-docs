@@ -47,6 +47,10 @@ overdue work with its owner; work that is delayed but isn't due yet; agreed
 work due next period; and upcoming drafts, labelled as not agreed yet. Drafts
 never appear as delays.
 
+Where someone has written an [update](../plan/details.md#updates) on work
+that's overdue or delayed, the latest one is beside it, with who wrote it and
+the day: under the item on the status page, and in the tables' last column.
+
 ## Overall status
 
 | Status | Means |
