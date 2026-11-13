@@ -55,6 +55,9 @@ dependencies. Work that's still pencilled in can't be started until an editor
 agrees its dates. Other people's work is read-only, as for a viewer. On the
 cards board they can drag the progress of their own started cards.
 
+When they sign in they land on [My work](../my-work.md), which lists their
+work on every project and lets them do the same from there.
+
 Contributors don't take a seat.
 
 ## Add people

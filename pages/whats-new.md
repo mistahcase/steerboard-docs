@@ -14,6 +14,11 @@ reports**, on the Report screen, lists them with how the status and the finish
 have moved, and opens any of them to read, present and download again. See
 [Past reports](report/index.md#past-reports).
 
+**My work.** A new page, beside **Projects**, lists what's yours across every
+project: overdue, in progress, starting this week. Start work, move its
+progress, finish it and write an update, from your phone. Contributors land
+there when they sign in. See [My work](my-work.md).
+
 **Projects as a table.** On **Projects**, choose **Table** to see every
 project as a line you can sort, and **Only late or at risk** to see the ones
 that need you. A project's status there is now how it stands today. See

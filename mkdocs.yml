@@ -89,6 +89,7 @@ nav:
   - List: list.md
   - Cards: cards.md
   - Workload: workload.md
+  - My work: my-work.md
   - The status report:
       - The report: report/index.md
       - Present and download: report/present.md

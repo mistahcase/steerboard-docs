@@ -155,6 +155,13 @@
         "server/changes.ts"
       ]
     },
+    "my-work.md": {
+      "covers": [
+        "src/components/MyWorkPage.tsx",
+        "src/model/myWork.ts",
+        "server/mywork.ts"
+      ]
+    },
     "list.md": {
       "covers": [
         "src/components/ListView.tsx",
