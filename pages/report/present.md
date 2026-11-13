@@ -48,6 +48,9 @@ the slides are the template’s size.
 
 ## The plan slide
 
+With **Owners** ticked under **Show** on the plan, the slide writes each
+owner's initials after the name, as the board does.
+
 The plan slide draws the board as it is: workstreams down the left with their
 leads, each row in its lanes, under a two-tier time scale that fits the plan's
 length (weeks over days for a few weeks, up to years over quarters for a

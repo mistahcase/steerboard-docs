@@ -75,6 +75,11 @@ Every name shows somewhere it can be read, and never over anything else:
 inside the item when it fits, otherwise beside it, otherwise shortened with
 "…". Point at an item to see its whole name.
 
+To see who owns what, choose **Show** in the toolbar and tick **Owners**. Each
+item's owner then follows its name as initials, as in "Elasticity model (PN)";
+a work package shows its lead. The choice is kept in your browser, and the
+report's [plan slide](../report/present.md#the-plan-slide) follows it.
+
 ## Undo
 
 <kbd>Ctrl</kbd>+<kbd>Z</kbd> undoes and <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>Z</kbd>
