@@ -26,7 +26,12 @@ can be anything.
   after the day B starts. Then B is pushed to start the day after A ends, and
   anything waiting on B is pushed in turn if it needs to be.
 - B is never pulled earlier.
-- A link to or from a work package applies to everything in it.
+- B can't be put before the day after A ends. Moved or typed earlier, it stops
+  at the first day it can start; a start pulled earlier stops there too, and
+  its end stays where it was.
+- A link to or from a work package applies to everything in it. In a package
+  that waits, a piece moved too early is held the same way, and the rest of
+  the package stays where it is.
 
 ## What a milestone depends on
 

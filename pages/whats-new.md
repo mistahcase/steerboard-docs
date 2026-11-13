@@ -4,6 +4,15 @@ What has changed in Steerboard, newest first.
 
 ## November 2026
 
+**Moving work keeps its percentage.** Work in progress that was past its
+agreed end jumped to 99% when it was moved later. Its percentage now stays
+what it was, wherever it's moved.
+
+**Linked work stops where it can start.** Work that waits for other work can't
+be pulled before it: its start now stops at the first day it can begin, and
+its end stays put. In a work package that waits, only the piece you moved is
+held; the rest of the package no longer moves with it.
+
 **The plan's name on a laptop.** On a laptop-wide window the plan's toolbar had
 grown until the name was cut to a few letters. The buttons now give up their
 words first: **Filter** and **Show** are their icons there, and the name reads

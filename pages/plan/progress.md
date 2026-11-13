@@ -29,7 +29,8 @@ A completed milestone is a green diamond with a check.
 
 ## Changing the length keeps what's done
 
-Making an activity that's in progress longer or shorter keeps the work already
+Moving an activity that's in progress doesn't change its percentage. Making it
+longer or shorter keeps the work already
 done on the same days, so the percentage changes instead. 80% of a 10-day
 activity stretched to 15 days becomes 53%.
 
