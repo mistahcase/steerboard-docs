@@ -46,6 +46,7 @@
         "src/model/lanes.ts",
         "src/components/PlanZoom.tsx",
         "src/components/ShowMenu.tsx",
+        "src/gantt/BoardKey.tsx",
         "src/gantt/geometry.ts",
         "src/components/Toolbar.tsx",
         "src/gantt/drag.ts",
@@ -199,7 +200,9 @@
       "covers": [
         "src/styles/app.css",
         "src/styles/tokens.css",
-        "src/gantt/Strip.tsx"
+        "src/gantt/Strip.tsx",
+        "src/gantt/key.ts",
+        "src/gantt/BoardKey.tsx"
       ],
       "reviewed": "96fc102a286fd9491105c98d9cd5f12829ecf8c3"
     },

@@ -5,6 +5,10 @@ how the work stands: navy and black draw the work; green, amber and red mean
 done or on track, at risk, and late; the bright blue means "you're touching
 this".
 
+On the plan itself, choose **Show** and tick **Key**: a small list at the
+bottom right of the board names the marks that plan is drawn with. Point at
+one to read what it means.
+
 | Mark | Means |
 |---|---|
 | A navy boat: square at the start, pointed at the end | An activity with agreed dates. |

@@ -59,6 +59,19 @@ or pinch on a trackpad.
 The size changes how big the plan is; Days, Weeks, Months and Quarters change
 how much time a column is. Both are remembered in your browser.
 
+## What the plan shows
+
+**Show**, in the toolbar, has three things:
+
+- **Owners** writes each item's owner after its name, as initials. See
+  [names](items.md#names).
+- **Key** puts a small list at the bottom right of the board: the marks this
+  plan is drawn with, and what each is called. Point at one to read what it
+  means; its × closes it. See [The marks](../reference/marks.md).
+- **Size**, as above.
+
+All three are kept in your browser. Viewers have them too.
+
 ## Looking around
 
 Scroll, drag the time scale, or hold the right mouse button and pull. A
