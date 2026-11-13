@@ -103,7 +103,7 @@
         "src/model/items.ts",
         "src/components/Inspector.tsx"
       ],
-      "reviewed": "797033a6e48e4c3d1a09b86489b0122cd6f9a0ab"
+      "reviewed": "ba5ee0300c0a956ce8cdcf08913e0fcb30bf6579"
     },
     "plan/agreed-dates.md": {
       "covers": [
@@ -111,7 +111,7 @@
         "src/components/Commitment.tsx",
         "src/components/RebaselineDialog.tsx"
       ],
-      "reviewed": "9ae24dd24079d6e9e1dc6ac8bccdde5bc1db1966"
+      "reviewed": "ba5ee0300c0a956ce8cdcf08913e0fcb30bf6579"
     },
     "plan/details.md": {
       "covers": [
@@ -237,7 +237,7 @@
         "src/gantt/key.ts",
         "src/gantt/BoardKey.tsx"
       ],
-      "reviewed": "6df83ab3d4a8fe15b61c353d7caa1c09114ffeb9"
+      "reviewed": "ba5ee0300c0a956ce8cdcf08913e0fcb30bf6579"
     },
     "reference/glossary.md": {
       "covers": []
