@@ -10,6 +10,12 @@ engagement, a system roll-out, a sourcing project, a programme), or a copy of
 one of your own projects with everything a draft again. See
 [Your first project](getting-started/first-project.md#start-a-project).
 
+**Find, and a fuller filter.** Press <kbd>Ctrl</kbd>+<kbd>F</kbd> on the plan,
+type part of a name and press <kbd>Enter</kbd> to go to it. **Filter** now
+also shows one person's work, or only what's overdue, slipped, a draft or
+done; the rest fades where it is. See
+[Find and filter](plan/board.md#find-and-filter).
+
 **Who owns what, on the plan.** Choose **Show** in the plan's toolbar and tick
 **Owners**: each item's owner follows its name as initials, and the report's
 plan slide does the same. See [names](plan/items.md#names).

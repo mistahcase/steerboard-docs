@@ -42,7 +42,8 @@ the plan and give them to someone from the details panel.
 ## See one person's work on the plan
 
 Click a person, then **Show on plan**. Everyone else's work fades on the plan
-until you clear the chip in the toolbar.
+until you clear the chip in the toolbar. The plan's **Filter** does the same
+under **Whose work**.
 
 ## Waiting on others
 

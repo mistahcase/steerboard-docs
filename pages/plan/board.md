@@ -59,6 +59,26 @@ or pinch on a trackpad.
 The size changes how big the plan is; Days, Weeks, Months and Quarters change
 how much time a column is. Both are remembered in your browser.
 
+## Find and filter
+
+To go to an item by name, press <kbd>Ctrl</kbd>+<kbd>F</kbd> or choose the
+magnifier in the toolbar, and type part of its name. The list shows what
+matches, with its workstream and dates. <kbd>Enter</kbd> or a click takes the
+board there and opens the item; the arrow keys move through the list.
+
+**Filter**, in the toolbar, shows only some of the plan:
+
+- The workstreams to show. See
+  [Workstreams](workstreams.md#show-only-some-workstreams).
+- **Whose work**: everyone's, **My work**, or one person's.
+- **How it stands**: **Overdue**, **Slipped**, **Draft** or **Done**, any of
+  them together.
+
+With whose work or how it stands chosen, the rest of the plan fades and stays
+where it is, so the plan keeps its shape. The button turns blue and counts
+what's on; **Show all** clears everything. These two aren't kept when you
+leave the plan.
+
 ## What the plan shows
 
 **Show**, in the toolbar, has three things:

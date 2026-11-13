@@ -19,6 +19,7 @@ choose **Keyboard shortcuts** under the question mark at the top.
 | <kbd>Enter</kbd> | Rename it. |
 | <kbd>Delete</kbd> | Delete it. With several selected, all of them. |
 | <kbd>Escape</kbd> | Cancel a drag, deselect, or close the details panel. |
+| <kbd>Ctrl</kbd>+<kbd>F</kbd> | Find an item by name, and go to it. |
 | <kbd>Ctrl</kbd>+<kbd>Z</kbd> | Undo. |
 | <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>Z</kbd> | Redo. |
 | <kbd>Ctrl</kbd>+<kbd>+</kbd> <kbd>−</kbd> <kbd>0</kbd> | Zoom in, out, or back to 100%. |

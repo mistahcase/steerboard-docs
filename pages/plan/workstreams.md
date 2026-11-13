@@ -30,12 +30,13 @@ track, amber at risk, red late. It's empty while nothing in it is agreed yet.
 
 ### Show only some workstreams
 
-The workstream filter in the toolbar says what it shows (**All workstreams**,
-a name, or a number). Untick the ones to hide, or choose **Only** to show just
-one. The choice holds on every screen, including the report and its slides,
+The filter in the toolbar says what it shows: **Filter** on the plan and the
+cards (**All workstreams** on the other screens), a name, or a number. Untick
+the workstreams to hide, or choose **Only** to show just one. The choice holds on every screen, including the report and its slides,
 and it's in the address, so a link shows the same. While it shows only some,
 the filter button turns blue, so a narrowed view is never mistaken for the
-whole plan.
+whole plan. On the plan the same filter also shows one person's work, or work
+that stands a certain way: see [Find and filter](board.md#find-and-filter).
 
 ## Work packages
 
