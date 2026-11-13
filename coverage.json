@@ -139,7 +139,7 @@
         "src/App.tsx",
         "src/gantt/itemKeys.ts"
       ],
-      "reviewed": "797033a6e48e4c3d1a09b86489b0122cd6f9a0ab"
+      "reviewed": "16db55e7b1908137bb9eba9eb02cd278d6b9b82f"
     },
     "cards.md": {
       "covers": [
@@ -160,6 +160,7 @@
       "covers": [
         "src/components/ReportWords.tsx",
         "src/components/PastReports.tsx",
+        "src/components/SendTo.tsx",
         "src/model/issued.ts",
         "src/model/reportWords.ts",
         "src/components/ReportPage.tsx",
@@ -168,7 +169,7 @@
         "src/model/report.ts",
         "src/report/onepager.ts"
       ],
-      "reviewed": "0cccbf3429283a6e8e28150f215b795256daa19e"
+      "reviewed": "16db55e7b1908137bb9eba9eb02cd278d6b9b82f"
     },
     "report/present.md": {
       "covers": [

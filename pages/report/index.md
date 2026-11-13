@@ -65,6 +65,13 @@ as it is now and closes the period, so the next report starts from today. Its ke
 decisions that were made and risks that were closed; what's still open
 carries over to the next report.
 
+Where your Steerboard sends email, the dialog has **Send it to**: everyone
+else who can open the project, to tick or leave. Those you tick each get an
+email with how the plan stands, the key messages, a few words from you if you
+write any, and a link to the report as you issued it. The people it went to
+last time are ticked again; nobody is ticked the first time, and nothing is
+sent unless you tick someone.
+
 A project can put the report on a rhythm (every week, two weeks or month) and
 remind its owners by email when one is due: see
 [Project settings](../project-settings.md#a-report-on-a-rhythm). The line under
@@ -80,7 +87,8 @@ and has got to.
 
 Choose a day to open that report as it was. You can read it, present it and
 download its slides; **Back to today’s report** returns. Everyone who can
-open the project can read them.
+open the project can read them. **Send it…**, on the line above an opened
+report, sends that one by email, to people you tick as when issuing.
 
 A kept report never changes, whatever happens to the plan afterwards. Undoing
 an issue reopens the period and leaves the report in the list. A copy of a

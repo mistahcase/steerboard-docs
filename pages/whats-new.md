@@ -14,6 +14,10 @@ reports**, on the Report screen, lists them with how the status and the finish
 have moved, and opens any of them to read, present and download again. See
 [Past reports](report/index.md#past-reports).
 
+**Issue and send.** When you issue a report you can tick who gets it by
+email: how the plan stands, your key messages and a link to that report. See
+[Issue the report](report/index.md#issue-the-report).
+
 **A PDF, and the plan as a picture.** The arrow beside **Download .pptx** now
 also saves the slides as a PDF, and the plan as a picture to download or to
 copy and paste into an email. See
