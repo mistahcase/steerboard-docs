@@ -1,6 +1,6 @@
 # Activities and milestones
 
-An *activity* (an action) is work that takes time. It's drawn as a boat:
+An *activity* is work that takes time. It's drawn as a boat:
 square at the start, pointed at the end. A *milestone* is a moment, such as a
 sign-off or a steering committee. It's drawn as a diamond.
 
@@ -8,7 +8,7 @@ sign-off or a steering committee. It's drawn as a diamond.
 
 | To add | Do this |
 |---|---|
-| An activity | Right-click free space on a row and choose **New action here**. Or hold <kbd>Alt</kbd> and draw across free space on a row. Or drag **Action** from the toolbar onto the board, or click it to add one on a new row at the bottom. |
+| An activity | Right-click free space on a row and choose **New activity here**. Or hold <kbd>Alt</kbd> and draw across free space on a row. Or drag **Action** from the toolbar onto the board, or click it to add one on a new row at the bottom. |
 | A milestone | Right-click a spot on a row and choose **New milestone here**, or drag **Milestone** from the toolbar onto the board. |
 | A new row | Right-click in the space below the rows (or hold <kbd>Alt</kbd> and draw there), or drop something on the line between two rows (a blue line shows where). |
 
@@ -31,7 +31,7 @@ until you [agree its dates](agreed-dates.md), and it can't start until then.
 | Move it to another row | Drag it up or down. The row lights up and an outline shows where it lands. Drop it on the line between two rows for a new row there. |
 | Change an activity's dates | Drag either end. Milestones have a single date. |
 | Rename it | Double-click it, or select it and press <kbd>Enter</kbd>. The name becomes editable where it is. |
-| Delete it | Right-click it and choose **Delete action** (or **Delete milestone**), drop it on the bin that appears while you drag, or press <kbd>Delete</kbd>. |
+| Delete it | Right-click it and choose **Delete activity** (or **Delete milestone**), drop it on the bin that appears while you drag, or press <kbd>Delete</kbd>. |
 
 What you drag is what you get: the edge you hold follows the pointer column by
 column, a tip shows the dates, and when you let go it stays where it was

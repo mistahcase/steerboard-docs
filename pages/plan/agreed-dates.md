@@ -1,7 +1,7 @@
 # Agreed dates and delays
 
 Steerboard keeps the dates you agreed with the client apart from the dates
-you're planning to now. That's how it can tell, by itself, what has slipped.
+you're planning to now. That's how it can tell, by itself, what is delayed.
 
 ## Drafts
 
@@ -43,11 +43,11 @@ inside it.
 ### When the plan is at risk or late
 
 A piece of work always shows its own delay. Its workstream, its work package
-and the plan as a whole are **At risk** when any agreed work has slipped, and
+and the plan as a whole are **At risk** when any agreed work is delayed, and
 **Late** when any is overdue. Under **Tracking** in
 [Project settings](../project-settings.md) a project can let a little pass:
 
-- **At risk when agreed work has slipped by** more than so many working days.
+- **At risk when agreed work is delayed by** more than so many working days.
 - **Late when agreed work is overdue by** more than so many working days.
   Until then, overdue work makes it at risk.
 

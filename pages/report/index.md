@@ -19,7 +19,7 @@ The report opens with the page a status meeting starts from:
   in dashes, the part past the agreed end in amber or red, milestones as
   diamonds (an empty one where a moved milestone was agreed), and today.
 - **Completed** on the left and **Coming up** on the right.
-- **Issues and risks** along the bottom: overdue work, slipped work, and work
+- **Issues and risks** along the bottom: overdue work, delayed work, and work
   waiting on someone outside the team, each listed once.
 
 Long lists show the first few and say how many more there are.
@@ -43,7 +43,7 @@ Viewers and contributors read them.
 ## The detail
 
 Then, in full: the workstreams; work completed this period, on time or late;
-overdue work with its owner; work that has slipped but isn't due yet; agreed
+overdue work with its owner; work that is delayed but isn't due yet; agreed
 work due next period; and upcoming drafts, labelled as not agreed yet. Drafts
 never appear as delays.
 

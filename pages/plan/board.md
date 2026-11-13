@@ -71,7 +71,7 @@ board there and opens the item; the arrow keys move through the list.
 - The workstreams to show. See
   [Workstreams](workstreams.md#show-only-some-workstreams).
 - **Whose work**: everyone's, **My work**, or one person's.
-- **How it stands**: **Overdue**, **Slipped**, **Draft** or **Done**, any of
+- **How it stands**: **Overdue**, **Delayed**, **Draft** or **Done**, any of
   them together.
 
 With whose work or how it stands chosen, the rest of the plan fades and stays

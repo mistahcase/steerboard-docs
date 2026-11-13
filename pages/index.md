@@ -37,7 +37,7 @@ These pages explain how to use it. If you're new, start with
 Words in **bold** are what you see on screen: a button, a menu item, a field or
 a tab, written exactly as the app writes it.
 
-"The plan" means one project's plan. An *activity* (also called an action) is
+"The plan" means one project's plan. An *activity* is
 work that takes time; a *milestone* is a moment, such as a sign-off.
 
 Keys are shown like <kbd>Ctrl</kbd>+<kbd>Z</kbd>. On a Mac, use

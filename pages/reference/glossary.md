@@ -6,7 +6,7 @@ projects. Nothing crosses from one account to another.
 **Account manager.** Someone who runs the account: invites people, makes
 groups and changes the account's settings.
 
-**Action, activity.** Work that takes time, drawn as a boat.
+**Activity.** Work that takes time, drawn as a boat.
 
 **Agreed dates.** An item's dates as agreed with the client. Delays are
 measured against them. In the details panel: **Agreed dates**.

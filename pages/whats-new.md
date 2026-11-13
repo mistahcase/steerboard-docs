@@ -17,7 +17,7 @@ one of your own projects with everything a draft again. See
 
 **Find, and a fuller filter.** Press <kbd>Ctrl</kbd>+<kbd>F</kbd> on the plan,
 type part of a name and press <kbd>Enter</kbd> to go to it. **Filter** now
-also shows one person's work, or only what's overdue, slipped, a draft or
+also shows one person's work, or only what's overdue, delayed, a draft or
 done; the rest fades where it is. See
 [Find and filter](plan/board.md#find-and-filter).
 
@@ -37,7 +37,9 @@ marks your plan is drawn with and what each is called. See
 **One set of words for where work stands.** It's **Draft**, **Planned**,
 **In progress** and **Done** everywhere: on the cards, in the details panel
 and in the menus. The cards' first and third columns were called Identified
-and Started.
+and Started. A piece of work is an activity everywhere (**New activity** said
+action), and work planned later than agreed is **Delayed** everywhere (the
+report said slipped).
 
 **Help in one place.** The question mark at the top is now a menu: the docs
 for the screen you're on, the keyboard shortcuts (press <kbd>?</kbd> anywhere),

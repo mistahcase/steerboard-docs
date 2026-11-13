@@ -19,6 +19,8 @@ everything in it:
 
 - A title slide, then the status on one page, drawn with real text boxes and
   shapes.
+- [Your words](index.md#your-words), when you've written any: key messages,
+  decisions needed and risks, as tables.
 - The plan as a think-cell style Gantt chart, drawn as on the board.
 - The detail as real tables. Long lists carry on onto extra slides.
 
