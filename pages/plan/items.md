@@ -53,7 +53,8 @@ With several selected you can:
 - Drag one of them sideways to move them all in time. Each stays on its own
   row, and the tip says how many are moving and how far. <kbd>←</kbd> and
   <kbd>→</kbd> move them all a working day.
-- Agree their dates, mark them done, give them to someone or delete them, from
+- Agree their dates, mark them done, give them to someone, move them to a
+  workstream or delete them, from
   the details panel.
 - Right-click one of them for the same, or for **Put in a new work package**
   to put a bracket over them.

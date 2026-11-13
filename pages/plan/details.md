@@ -32,7 +32,9 @@ agreed before it can start. Agreed work has its status there (**Planned**,
 
 Select several items and the panel offers what you can do to all of them at
 once, such as agreeing their dates, marking them done, giving them to
-someone or deleting them. See [select several](items.md#select-several).
+someone, moving them to a workstream or deleting them. See
+[select several](items.md#select-several). Lines ticked on the
+[List](../list.md) are the same selection.
 
 Press <kbd>Escape</kbd> or the ×, or click anywhere on the plan that isn't
 an item, to close it. Viewers see the same panel, read-only.

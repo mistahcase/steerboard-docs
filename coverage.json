@@ -59,7 +59,7 @@
         "src/gantt/BoardGrid.tsx",
         "src/gantt/useBoardZoom.ts"
       ],
-      "reviewed": "38136864448a2d8932ba4bc3c9c562850c73f566"
+      "reviewed": "754ba00771657806f1ff174a7cb0451211b7dc41"
     },
     "plan/items.md": {
       "covers": [
@@ -75,7 +75,7 @@
         "src/gantt/drag.ts",
         "src/gantt/boardMenu.tsx"
       ],
-      "reviewed": "0cccbf3429283a6e8e28150f215b795256daa19e"
+      "reviewed": "754ba00771657806f1ff174a7cb0451211b7dc41"
     },
     "plan/workstreams.md": {
       "covers": [
@@ -119,7 +119,7 @@
         "src/components/SelectionPanel.tsx",
         "src/components/OwnerField.tsx"
       ],
-      "reviewed": "9ae24dd24079d6e9e1dc6ac8bccdde5bc1db1966"
+      "reviewed": "754ba00771657806f1ff174a7cb0451211b7dc41"
     },
     "plan/holidays.md": {
       "covers": [
@@ -177,7 +177,7 @@
         "src/model/report.ts",
         "src/report/onepager.ts"
       ],
-      "reviewed": "6b6c9001ffff37ab290a8de631162e01855d8b2e"
+      "reviewed": "754ba00771657806f1ff174a7cb0451211b7dc41"
     },
     "report/present.md": {
       "covers": [
