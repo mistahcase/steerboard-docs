@@ -6,7 +6,8 @@ us from where you are, without leaving your work.
 ![The feedback panel](../img/feedback.png)
 
 1. Choose **Feedback** (the speech bubble) in the bar at the top. It's there on
-   every page, and in every project.
+   every page, and in every project. **Send feedback** under the question mark
+   opens the same panel.
 2. Pick what it's about: **A problem**, **An idea** or **Other**.
 3. Write it down and choose **Send**, or press <kbd>Ctrl</kbd>+<kbd>Enter</kbd>.
 
