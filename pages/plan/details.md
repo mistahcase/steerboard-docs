@@ -27,6 +27,7 @@ agreed before it can start. Agreed work has its status there (**Planned**,
 | **Agreed dates** | For agreed work: the agreed and planned dates, and how it's tracking. **Change agreed dates…** for a change of scope. |
 | **Completed on** | For finished work: the day it was finished, which can be corrected. |
 | Starts after, Followed by | Its [links](links.md), with **Add** and ×. |
+| **What this depends on** | On a milestone, under its name: lights up the linked work leading to it, and lists the steps with the room each has. See [What a milestone depends on](links.md#what-a-milestone-depends-on). |
 | Notes | Anything worth keeping with the work. |
 | Updates | A few words on where it stands and why, each kept with your name and the day. See [Updates](#updates). |
 | History | Changes to its agreed dates, with reasons, and corrected completion days. |

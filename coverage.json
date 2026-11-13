@@ -63,7 +63,7 @@
         "src/gantt/BoardGrid.tsx",
         "src/gantt/useBoardZoom.ts"
       ],
-      "reviewed": "6df83ab3d4a8fe15b61c353d7caa1c09114ffeb9"
+      "reviewed": "14fba0586e73e854b4a80d1fc1d61c49617e144a"
     },
     "plan/items.md": {
       "covers": [
@@ -79,7 +79,7 @@
         "src/gantt/drag.ts",
         "src/gantt/boardMenu.tsx"
       ],
-      "reviewed": "6df83ab3d4a8fe15b61c353d7caa1c09114ffeb9"
+      "reviewed": "14fba0586e73e854b4a80d1fc1d61c49617e144a"
     },
     "plan/workstreams.md": {
       "covers": [
@@ -90,7 +90,7 @@
         "src/gantt/SectionColumn.tsx",
         "src/gantt/boardMenu.tsx"
       ],
-      "reviewed": "6df83ab3d4a8fe15b61c353d7caa1c09114ffeb9"
+      "reviewed": "14fba0586e73e854b4a80d1fc1d61c49617e144a"
     },
     "plan/links.md": {
       "covers": [
@@ -109,7 +109,7 @@
         "src/model/items.ts",
         "src/components/Inspector.tsx"
       ],
-      "reviewed": "ba5ee0300c0a956ce8cdcf08913e0fcb30bf6579"
+      "reviewed": "14fba0586e73e854b4a80d1fc1d61c49617e144a"
     },
     "plan/agreed-dates.md": {
       "covers": [
@@ -127,7 +127,7 @@
         "src/components/SelectionPanel.tsx",
         "src/components/OwnerField.tsx"
       ],
-      "reviewed": "754ba00771657806f1ff174a7cb0451211b7dc41"
+      "reviewed": "14fba0586e73e854b4a80d1fc1d61c49617e144a"
     },
     "plan/holidays.md": {
       "covers": [
@@ -147,7 +147,7 @@
         "src/App.tsx",
         "src/gantt/itemKeys.ts"
       ],
-      "reviewed": "6df83ab3d4a8fe15b61c353d7caa1c09114ffeb9"
+      "reviewed": "14fba0586e73e854b4a80d1fc1d61c49617e144a"
     },
     "plan/changes.md": {
       "covers": [
@@ -250,7 +250,7 @@
         "src/gantt/key.ts",
         "src/gantt/BoardKey.tsx"
       ],
-      "reviewed": "ba5ee0300c0a956ce8cdcf08913e0fcb30bf6579"
+      "reviewed": "14fba0586e73e854b4a80d1fc1d61c49617e144a"
     },
     "reference/glossary.md": {
       "covers": []
