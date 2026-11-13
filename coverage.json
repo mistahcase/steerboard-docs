@@ -81,7 +81,7 @@
         "src/gantt/drag.ts",
         "src/gantt/boardMenu.tsx"
       ],
-      "reviewed": "14fba0586e73e854b4a80d1fc1d61c49617e144a"
+      "reviewed": "e5ec7e7e3e0c676c9060797dfb72b97602c64d18"
     },
     "plan/workstreams.md": {
       "covers": [
@@ -252,7 +252,7 @@
         "src/gantt/key.ts",
         "src/gantt/BoardKey.tsx"
       ],
-      "reviewed": "14fba0586e73e854b4a80d1fc1d61c49617e144a"
+      "reviewed": "e5ec7e7e3e0c676c9060797dfb72b97602c64d18"
     },
     "reference/glossary.md": {
       "covers": []
