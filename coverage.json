@@ -45,6 +45,8 @@
         "src/model/rows.ts",
         "src/model/lanes.ts",
         "src/components/PlanZoom.tsx",
+        "src/components/ShowMenu.tsx",
+        "src/gantt/geometry.ts",
         "src/components/Toolbar.tsx",
         "src/gantt/drag.ts",
         "src/gantt/boardMenu.tsx",

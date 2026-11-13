@@ -33,9 +33,11 @@ arrangement back.
 
 ## The time scale
 
-Choose **Days**, **Weeks** or **Months** in the toolbar for how much time a
-column shows. Months are labelled in bold, then weeks by their number with
-the Monday's date.
+Choose **Days**, **Weeks**, **Months** or **Quarters** in the toolbar for how
+much time a column shows. Months are labelled in bold, then weeks by their
+number with the Monday's date. On **Quarters** a year or two fits on one
+screen: the quarters run along the top ("Q4 2026") and their months are the
+columns.
 
 - The board shows working days only. Saturday and Sunday take no room, so
   every week is five columns wide (or as many as the project's
@@ -43,15 +45,19 @@ the Monday's date.
 - Today is a dashed line down the board.
 - [Holidays](holidays.md) are grey bands, named at the top.
 
-## Zoom
+## Fit and size
 
-The zoom control beside **Days**, **Weeks** and **Months** makes everything
-on the plan bigger or smaller, from 50% to 200%. Click the percentage to go
-back to 100%. You can also hold <kbd>Ctrl</kbd> and scroll, or pinch on a
-trackpad.
+**Fit**, beside the time scale, shows the whole plan: it picks the time scale
+and the size at which the plan fits across the screen, and puts its start at
+the left. A long plan goes to months or quarters; a short one stays on days.
 
-Zoom changes how big the plan is; Days, Weeks and Months change how much time
-a column is. Both are remembered in your browser.
+To set the size yourself, open **Show**. The slider beside **Size** makes
+everything on the plan bigger or smaller, from 50% to 200%. Click the
+percentage to go back to 100%. You can also hold <kbd>Ctrl</kbd> and scroll,
+or pinch on a trackpad.
+
+The size changes how big the plan is; Days, Weeks, Months and Quarters change
+how much time a column is. Both are remembered in your browser.
 
 ## Looking around
 
