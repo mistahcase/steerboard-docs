@@ -14,6 +14,11 @@ reports**, on the Report screen, lists them with how the status and the finish
 have moved, and opens any of them to read, present and download again. See
 [Past reports](report/index.md#past-reports).
 
+**A PDF, and the plan as a picture.** The arrow beside **Download .pptx** now
+also saves the slides as a PDF, and the plan as a picture to download or to
+copy and paste into an email. See
+[Present and download](report/present.md#a-pdf-and-the-plan-as-a-picture).
+
 **Start from a template, or from last year's project.** **New project** now
 asks what to start from: a blank plan, one of four templates (a consulting
 engagement, a system roll-out, a sourcing project, a programme), or a copy of

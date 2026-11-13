@@ -32,6 +32,22 @@ The slides use Calibri, so they look right on any machine, and the plan's navy
 as a thin band along the top. The Steerboard logo sits top right, unless the
 project has its own.
 
+## A PDF, and the plan as a picture
+
+The arrow beside **Download .pptx** has the slide sizes, and three more ways to
+take the report with you:
+
+- **Save as PDF…** opens your browser's print dialog with the slides, a page
+  each at the slide's own size. Choose "Save as PDF" there, or a printer.
+- **Download the plan as a picture** saves a .png of the plan, drawn as on the
+  plan slide. It's whole however tall the plan is: what the deck spreads over
+  several slides is one picture.
+- **Copy the plan as a picture** puts the same picture on the clipboard, ready
+  to paste into an email or a chat.
+
+A [past report](index.md#past-reports) you've opened is saved the same way, as
+it was.
+
 ## Your logo, your client, a customer's template
 
 Under **Slides** in [Project settings](../project-settings.md#your-own-slides)

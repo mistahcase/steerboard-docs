@@ -23,7 +23,7 @@
         "src/model/templates.ts",
         "src/gantt/BoardHints.tsx"
       ],
-      "reviewed": "57e30ed44db3c615baebd762990582de70c541bc"
+      "reviewed": "797033a6e48e4c3d1a09b86489b0122cd6f9a0ab"
     },
     "getting-started/tour.md": {
       "covers": [
@@ -86,7 +86,7 @@
         "src/gantt/SectionColumn.tsx",
         "src/gantt/boardMenu.tsx"
       ],
-      "reviewed": "9ae24dd24079d6e9e1dc6ac8bccdde5bc1db1966"
+      "reviewed": "797033a6e48e4c3d1a09b86489b0122cd6f9a0ab"
     },
     "plan/links.md": {
       "covers": [
@@ -103,7 +103,7 @@
         "src/model/items.ts",
         "src/components/Inspector.tsx"
       ],
-      "reviewed": "9ae24dd24079d6e9e1dc6ac8bccdde5bc1db1966"
+      "reviewed": "797033a6e48e4c3d1a09b86489b0122cd6f9a0ab"
     },
     "plan/agreed-dates.md": {
       "covers": [
@@ -129,7 +129,7 @@
         "src/model/dates.ts",
         "src/gantt/boardMenu.tsx"
       ],
-      "reviewed": "9ae24dd24079d6e9e1dc6ac8bccdde5bc1db1966"
+      "reviewed": "797033a6e48e4c3d1a09b86489b0122cd6f9a0ab"
     },
     "plan/keyboard.md": {
       "covers": [
@@ -139,7 +139,7 @@
         "src/App.tsx",
         "src/gantt/itemKeys.ts"
       ],
-      "reviewed": "9ae24dd24079d6e9e1dc6ac8bccdde5bc1db1966"
+      "reviewed": "797033a6e48e4c3d1a09b86489b0122cd6f9a0ab"
     },
     "cards.md": {
       "covers": [
@@ -147,7 +147,7 @@
         "src/model/stages.ts",
         "src/model/board.ts"
       ],
-      "reviewed": "9ae24dd24079d6e9e1dc6ac8bccdde5bc1db1966"
+      "reviewed": "797033a6e48e4c3d1a09b86489b0122cd6f9a0ab"
     },
     "workload.md": {
       "covers": [
@@ -176,6 +176,7 @@
         "src/report/pptx.ts",
         "src/report/pptx-template.ts",
         "src/report/slides.ts",
+        "src/report/picture.ts",
         "src/report/plan-slide.ts",
         "src/report/template.ts"
       ],
@@ -213,7 +214,7 @@
         "src/gantt/key.ts",
         "src/gantt/BoardKey.tsx"
       ],
-      "reviewed": "38136864448a2d8932ba4bc3c9c562850c73f566"
+      "reviewed": "797033a6e48e4c3d1a09b86489b0122cd6f9a0ab"
     },
     "reference/glossary.md": {
       "covers": []
@@ -227,7 +228,7 @@
         "src/components/SlideSettings.tsx",
         "server/notify.ts"
       ],
-      "reviewed": "9ae24dd24079d6e9e1dc6ac8bccdde5bc1db1966"
+      "reviewed": "797033a6e48e4c3d1a09b86489b0122cd6f9a0ab"
     }
   }
 }
