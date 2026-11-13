@@ -141,6 +141,14 @@
       ],
       "reviewed": "16db55e7b1908137bb9eba9eb02cd278d6b9b82f"
     },
+    "plan/changes.md": {
+      "covers": [
+        "src/components/ChangesDialog.tsx",
+        "src/model/whatChanged.ts",
+        "server/past.ts",
+        "server/changes.ts"
+      ]
+    },
     "list.md": {
       "covers": [
         "src/components/ListView.tsx",

@@ -14,6 +14,11 @@ reports**, on the Report screen, lists them with how the status and the finish
 have moved, and opens any of them to read, present and download again. See
 [Past reports](report/index.md#past-reports).
 
+**What changed since the last report.** The button with two arrows on the
+plan lists what moved, was added, finished or agreed since the last report, or
+since a day you pick, with who changed it. **Show on the plan** draws where
+each moved item was. See [What changed](plan/changes.md).
+
 **A list to type and paste into.** **List**, the new tab beside **Plan**, shows
 the plan as a line for each item: type names, dates and owners straight in,
 press Enter for the next line, sort by any column, and paste rows copied from
