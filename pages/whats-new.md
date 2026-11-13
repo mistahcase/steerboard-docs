@@ -14,6 +14,11 @@ reports**, on the Report screen, lists them with how the status and the finish
 have moved, and opens any of them to read, present and download again. See
 [Past reports](report/index.md#past-reports).
 
+**For you.** The bell in the bar at the top lists what Steerboard has to tell
+you: work given to you, updates that name you, your work that's overdue, and
+reports that are due. It works whether or not a project sends email. See
+[A tour of the screens](getting-started/tour.md#the-bar-at-the-top).
+
 **Updates on a piece of work.** Under an item's notes you can now write dated
 updates: where it stands and why. The latest one goes beside the item in the
 status report when it's overdue or delayed. See

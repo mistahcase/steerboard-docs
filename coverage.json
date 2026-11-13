@@ -27,6 +27,8 @@
     },
     "getting-started/tour.md": {
       "covers": [
+        "src/components/ForYou.tsx",
+        "src/model/forYou.ts",
         "src/components/ProjectBar.tsx",
         "src/components/ViewSwitch.tsx",
         "src/components/Shell.tsx"

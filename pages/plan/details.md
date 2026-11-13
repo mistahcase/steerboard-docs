@@ -39,7 +39,8 @@ update is kept with your name and the day, newest first, and isn't rewritten
 afterwards; undo takes back one you just wrote.
 
 To name someone on the team, type @ and start their name, then choose it from
-the names offered. They're marked in the update.
+the names offered. They're marked in the update, and if they sign in they're
+told under the bell, **For you**, in the bar at the top.
 
 The latest update on work that's overdue or delayed goes beside it in the
 [status report](../report/index.md#the-detail), so the reason is next to the

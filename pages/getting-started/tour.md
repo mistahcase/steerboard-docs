@@ -17,6 +17,9 @@ From left to right:
 - The save state. Changes save as you make them, so it normally says
   **All changes saved**.
 - The avatars of anyone else who has the project open right now.
+- The bell, **For you**: work given to you, updates that name you, your work
+  that's overdue, and status reports that are due on projects you own. A number
+  on it says how many are new since you last looked. Choose one to go to it.
 - **Feedback** (the speech bubble), to tell us what doesn't work or what you'd
   like, without leaving your work. See [Feedback](feedback.md).
 - Help (the question mark), a menu: **Docs for this page** opens these docs in
