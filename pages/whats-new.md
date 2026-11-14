@@ -4,6 +4,15 @@ What has changed in Steerboard, newest first.
 
 ## November 2026
 
+**Contributors and viewers see only what they can do.** A contributor was
+shown **New project**, the **People** page and **Make a copy**, and was told
+no when they tried. Those are for planners and account managers, and are no
+longer shown to anyone else.
+
+**Files keep the project's name.** A project downloaded as a file is saved
+under its name as it's written, in any letters: "Prisanalyse for Ørsted", not
+"Prisanalyse for _rsted".
+
 **Names stay tidy.** A name is kept on one line and to a sensible length: 200
 letters for an activity or a milestone, 120 for a plan. Emptied, it stays the
 name it was.
