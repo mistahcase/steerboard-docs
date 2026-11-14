@@ -139,7 +139,7 @@
         "src/model/dates.ts",
         "src/gantt/boardMenu.tsx"
       ],
-      "reviewed": "797033a6e48e4c3d1a09b86489b0122cd6f9a0ab"
+      "reviewed": "3da39154e394927df06abef7f67a0a75d07078ac"
     },
     "plan/keyboard.md": {
       "covers": [
@@ -202,7 +202,7 @@
         "src/model/report.ts",
         "src/report/onepager.ts"
       ],
-      "reviewed": "275cfcacac0d117cbcfbd2cf8727f4f05daa0ab4"
+      "reviewed": "3da39154e394927df06abef7f67a0a75d07078ac"
     },
     "report/present.md": {
       "covers": [
