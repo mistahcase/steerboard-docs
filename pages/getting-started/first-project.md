@@ -78,9 +78,9 @@ Each card's menu (the three dots) holds the rest: make a copy, download the
 project as a file, archive it when the work is over, or delete it. A deleted
 project can be restored from **Recently deleted** for 30 days.
 
-An account keeps up to 20 projects on the Standard plan, archived ones
-included; deleting one you no longer need makes room. See
-[What a plan allows](../sharing/settings.md#what-a-plan-allows).
+An account keeps as many projects as its tier has room for, archived ones
+included: 20 while Steerboard is in early access. Deleting one you no longer
+need makes room. See [The subscription](../sharing/settings.md#the-subscription).
 
 ## Next
 

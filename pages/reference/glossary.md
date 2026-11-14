@@ -50,8 +50,18 @@ the next one ahead.
 
 **Row.** A line on the board, holding as many items as fit side by side.
 
+**Seat.** What a planner or an account manager takes in the account's
+subscription. Viewers, contributors and people who don't sign in take none.
+
 **Status report.** The report on how the project stands, written from the
 plan: the **Report** screen, its slides, and each report you issue.
+
+**Subscription.** What the account has with Steerboard: its tier, and the
+seats it pays for. In Settings: **Subscription**.
+
+**Tier.** A level of subscription: how many seats, people and projects the
+account has room for, and what it includes. A tier is never called a plan: a
+plan is a project's plan.
 
 **Work package.** A bracket over some work, rolling up its dates, progress
 and status. Put work in one from the right-click menu on the plan.

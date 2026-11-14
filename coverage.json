@@ -241,7 +241,8 @@
     "sharing/settings.md": {
       "covers": [
         "src/components/SettingsPage.tsx",
-        "src/components/AccountCards.tsx"
+        "src/components/AccountCards.tsx",
+        "src/components/SubscriptionCard.tsx"
       ],
       "reviewed": "275cfcacac0d117cbcfbd2cf8727f4f05daa0ab4"
     },

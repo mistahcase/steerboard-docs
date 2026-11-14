@@ -42,10 +42,16 @@ They go to people on the project's team who sign in and can open it, at the
 address they sign in with. People who don't sign in get none. Anyone can stop
 their own under **Settings**, with **Email me about my work**.
 
+Emails are part of the account's [subscription](sharing/settings.md#the-subscription).
+On a tier without them the boxes can't be ticked, a report isn't sent by email
+when it's issued, and a project that had some turned on sends none.
+
 ## Your own slides
 
 Under **Slides**, anyone who can edit the project sets how its status report's
-slides look.
+slides look. The logo and the template are part of the account's
+[subscription](sharing/settings.md#the-subscription): on a tier without them
+they show locked, and the slides are Steerboard's own.
 
 | | |
 |---|---|
