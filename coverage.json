@@ -252,7 +252,7 @@
         "src/gantt/key.ts",
         "src/gantt/BoardKey.tsx"
       ],
-      "reviewed": "e5ec7e7e3e0c676c9060797dfb72b97602c64d18"
+      "reviewed": "2a980dadac60453abc85958c809dbd3a2a73edf5"
     },
     "reference/glossary.md": {
       "covers": []
