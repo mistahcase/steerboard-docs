@@ -8,7 +8,8 @@ What has changed in Steerboard, newest first.
 account managers: the account's tier, and how many of its seats, projects and
 people are used. Steerboard is in early access, so every account still has
 everything and nothing is charged. A new account starts on Early access too,
-and the sign-up page says so.
+and the sign-up page says so. The prices that apply once early access ends are
+on the home page.
 
 **Contributors and viewers see only what they can do.** A contributor was
 shown **New project**, the **People** page and **Make a copy**, and was told
