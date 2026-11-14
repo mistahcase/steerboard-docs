@@ -65,7 +65,7 @@
         "src/gantt/BoardGrid.tsx",
         "src/gantt/useBoardZoom.ts"
       ],
-      "reviewed": "275cfcacac0d117cbcfbd2cf8727f4f05daa0ab4"
+      "reviewed": "c9420e35e6be95e609fc41471155725385f46988"
     },
     "plan/items.md": {
       "covers": [
@@ -92,7 +92,7 @@
         "src/gantt/SectionColumn.tsx",
         "src/gantt/boardMenu.tsx"
       ],
-      "reviewed": "275cfcacac0d117cbcfbd2cf8727f4f05daa0ab4"
+      "reviewed": "c9420e35e6be95e609fc41471155725385f46988"
     },
     "plan/links.md": {
       "covers": [
@@ -149,7 +149,7 @@
         "src/App.tsx",
         "src/gantt/itemKeys.ts"
       ],
-      "reviewed": "14fba0586e73e854b4a80d1fc1d61c49617e144a"
+      "reviewed": "c9420e35e6be95e609fc41471155725385f46988"
     },
     "plan/changes.md": {
       "covers": [
@@ -254,7 +254,7 @@
         "src/gantt/key.ts",
         "src/gantt/BoardKey.tsx"
       ],
-      "reviewed": "2a980dadac60453abc85958c809dbd3a2a73edf5"
+      "reviewed": "c9420e35e6be95e609fc41471155725385f46988"
     },
     "reference/glossary.md": {
       "covers": []
