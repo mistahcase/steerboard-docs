@@ -7,7 +7,8 @@ What has changed in Steerboard, newest first.
 **The account's subscription.** Settings has a **Subscription** card for
 account managers: the account's tier, and how many of its seats, projects and
 people are used. Steerboard is in early access, so every account still has
-everything and nothing is charged.
+everything and nothing is charged. A new account starts on Early access too,
+and the sign-up page says so.
 
 **Contributors and viewers see only what they can do.** A contributor was
 shown **New project**, the **People** page and **Make a copy**, and was told

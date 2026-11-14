@@ -19,6 +19,10 @@ make groups and change the account's settings (see
 [People and groups](../sharing/people.md)). The account starts with two projects to look
 around in (see [Your first project](first-project.md)).
 
+The sign-up page says what your account starts on. For now that's Early
+access: everything is included and nothing is charged. See
+[The subscription](../sharing/settings.md#the-subscription).
+
 ## Joining a colleague's account
 
 Don't sign up on your own if your firm already uses Steerboard: you'd start a
