@@ -4,6 +4,10 @@ What has changed in Steerboard, newest first.
 
 ## November 2026
 
+**Moving several looks like moving one.** Several items dragged together now
+follow the pointer, each with an outline where it will land. Before, they
+jumped a day at a time with no outline.
+
 **The account's subscription.** Settings has a **Subscription** card for
 account managers: the account's tier, and how many of its seats, projects and
 people are used. Steerboard is in early access, so every account still has

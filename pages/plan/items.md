@@ -50,9 +50,11 @@ items one by one.
 
 With several selected you can:
 
-- Drag one of them sideways to move them all in time. Each stays on its own
-  row, and the tip says how many are moving and how far. <kbd>←</kbd> and
-  <kbd>→</kbd> move them all a working day.
+- Drag one of them sideways to move them all in time. They follow the pointer
+  together, as one item does, and an outline shows where each lands. Each stays
+  on its own row, and the tip gives the dates of the one you hold, how many are
+  moving and how far.
+  <kbd>←</kbd> and <kbd>→</kbd> move them all a working day.
 - Agree their dates, mark them done, give them to someone, move them to a
   workstream or delete them, from
   the details panel.
