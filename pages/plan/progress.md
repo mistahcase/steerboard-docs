@@ -36,7 +36,7 @@ activity stretched to 15 days becomes 53%.
 
 ## Correcting a completion day
 
-When something is marked completed, Steerboard notes the day. If it actually
+When something is marked completed, Steerboard notes the day. If it
 finished another day, change **Completed on** in the details panel, or drag
 the end of the finished boat. The correction is kept in its history.
 

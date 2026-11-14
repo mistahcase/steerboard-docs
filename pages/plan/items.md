@@ -8,7 +8,7 @@ sign-off or a steering committee. It's drawn as a diamond.
 
 | To add | Do this |
 |---|---|
-| An activity | Right-click free space on a row and choose **New activity here**. Or hold <kbd>Alt</kbd> and draw across free space on a row. Or drag **Action** from the toolbar onto the board, or click it to add one on a new row at the bottom. |
+| An activity | Right-click free space on a row and choose **New activity here**. Or hold <kbd>Alt</kbd> and draw across free space on a row. Or drag **Activity** from the toolbar onto the board, or click it to add one on a new row at the bottom. |
 | A milestone | Right-click a spot on a row and choose **New milestone here**, or drag **Milestone** from the toolbar onto the board. |
 | A new row | Right-click in the space below the rows (or hold <kbd>Alt</kbd> and draw there), or drop something on the line between two rows (a blue line shows where). |
 
@@ -87,5 +87,5 @@ report's [plan slide](../report/present.md#the-plan-slide) follows it.
 ## Undo
 
 <kbd>Ctrl</kbd>+<kbd>Z</kbd> undoes and <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>Z</kbd>
-redoes, or use the arrows in the toolbar. Undo only takes back your own
-changes, never someone else's.
+redoes, or use the arrows in the toolbar. Undo takes back only your own
+changes.

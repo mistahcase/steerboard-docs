@@ -87,8 +87,9 @@ whether it can be added, and if not, why: no email address, already in your
 account, or the same address twice. The button then adds the lines that can
 be.
 
-An email address is who someone is. No two people in an account share one,
-and an address that signs in to another Steerboard account can't be added.
+People are told apart by their email address. No two people in an account
+share one, and an address that signs in to another Steerboard account can't
+be added.
 
 ## One person
 
@@ -122,7 +123,7 @@ how many it left as they were.
 
 ## When someone leaves
 
-There are two ways, and they differ.
+There are two ways:
 
 - **Turn access off** keeps the person, their work and their place on every
   team. They can't sign in until you choose **Turn access back on**.

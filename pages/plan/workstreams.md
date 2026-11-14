@@ -1,6 +1,6 @@
 # Workstreams and work packages
 
-A plan has two ways of organising work, and they do different jobs.
+A plan organises work in two ways:
 
 - Workstreams are sections of the board, lined off as on a think-cell
   plan: a column of names down the left and a thin black rule across where each
@@ -32,7 +32,7 @@ track, amber at risk, red late. It's empty while nothing in it is agreed yet.
 
 The filter in the toolbar says what it shows: **Filter** on the plan and the
 cards (**All workstreams** on the other screens), a name, or a number. Untick
-the workstreams to hide, or choose **Only** to show just one. The choice holds on every screen, including the report and its slides,
+the workstreams to hide, or choose **Only** to show only that one. The choice holds on every screen, including the report and its slides,
 and it's in the address, so a link shows the same. While it shows only some,
 the filter button turns blue, so a narrowed view is never mistaken for the
 whole plan. On the plan the same filter also shows one person's work, or work

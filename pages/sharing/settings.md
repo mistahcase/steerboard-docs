@@ -44,4 +44,4 @@ seats, 1,000 people, 20 projects and 1,000 items on a project. **Plan and billin
 When something would go past a limit, Steerboard says so and doesn't do it:
 the invitation isn't sent, the project isn't created, or the change to the
 plan isn't saved. A project already over its limit can still be changed and
-made smaller, just not bigger.
+made smaller, but not bigger.

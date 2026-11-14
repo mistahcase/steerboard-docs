@@ -44,7 +44,7 @@ Steps with no room to spare are marked, and a sentence names them: a day late
 there is a day late on the milestone. Finished work says done, since it can't
 run late any more. Choose a step to open it.
 
-Nothing moves: it's only a way of looking. Choose
+This changes only what's shown: nothing on the plan moves. Choose
 **Stop showing what this depends on**, or close the details, to end it.
 
 ## Remove a link

@@ -8,7 +8,7 @@ and then **People**.
 
 ## Team and access
 
-These are two different things, and one table shows both.
+One table shows two different things:
 
 - The **team** is who owns the project's work. Anyone on the team can be given
   activities and milestones, whether or not they sign in.

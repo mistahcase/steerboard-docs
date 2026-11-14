@@ -1,7 +1,7 @@
 # What changed
 
-"What's different from last week?" The button with two arrows beside
-**Filter** and the magnifier, on the plan, answers it: **What changed on the plan**.
+The button with two arrows beside **Filter** and the magnifier, on the plan,
+lists what's different since last time: **What changed on the plan**.
 
 ![What changed](../img/changes.png)
 

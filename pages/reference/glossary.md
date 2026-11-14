@@ -8,8 +8,14 @@ groups and changes the account's settings.
 
 **Activity.** Work that takes time, drawn as a boat.
 
+**Access level.** What someone may do in the whole account: account manager,
+planner, contributor or viewer. It's the most they can do on any project.
+
 **Agreed dates.** An item's dates as agreed with the client. Delays are
 measured against them. In the details panel: **Agreed dates**.
+
+**Client.** Whoever the project reports to and agrees its dates with: a
+customer, a sponsor or a steering committee.
 
 **Draft.** Work whose dates aren't agreed yet. Drawn with a dashed outline;
 never late.
@@ -20,6 +26,8 @@ Amber.
 **Group.** A firm or team on your engagements: your
 consultancy, a client, a vendor. People belong to groups; projects' teams are
 picked from them.
+
+**Item.** An activity or a milestone.
 
 **Lane.** When items on one row overlap in time, one goes down a lane, so
 nothing is hidden.
@@ -34,13 +42,16 @@ nothing is hidden.
 
 **Owner (of work).** The person who does it.
 
-**Owner, editor, viewer.** What someone can do on a project: everything, change
-the plan, or only look.
+**Owner, editor, contributor, viewer.** What someone can do on a project:
+everything, change the plan, say how their own work is going, or only look.
 
 **Period.** What a status report covers: since the last report was issued, and
 the next one ahead.
 
 **Row.** A line on the board, holding as many items as fit side by side.
+
+**Status report.** The report on how the project stands, written from the
+plan: the **Report** screen, its slides, and each report you issue.
 
 **Work package.** A bracket over some work, rolling up its dates, progress
 and status. Put work in one from the right-click menu on the plan.

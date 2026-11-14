@@ -1,7 +1,7 @@
 # The marks
 
-Steerboard draws with the plan slide's own vocabulary. Colour only ever means
-how the work stands: navy and black draw the work; green, amber and red mean
+Steerboard draws with the marks a plan slide uses. Colour is used for one
+thing, how the work stands: navy and black draw the work; green, amber and red mean
 done or on track, at risk, and late; the bright blue means "you're touching
 this".
 

@@ -1,12 +1,12 @@
 # Steerboard docs
 
-Steerboard is a planning tool for projects that report to stakeholders, from
-consulting engagements to internal programmes. It draws the plan the way the
-plan slide does (activities as boats along rows, milestones as diamonds,
-workstreams lined off down the left) and follows the project as it unfolds:
-the team works on it together, dates are agreed with your stakeholders,
-delays show themselves against what was agreed, and the status report is
-written from the plan.
+Steerboard is a planning tool for projects that report to a client or a
+steering committee, from consulting engagements to internal programmes. It
+draws the plan the way the plan slide does: activities as boats along rows,
+milestones as diamonds, workstreams lined off down the left. Then it follows
+the project as it unfolds. The team works on the plan together, dates are
+agreed with your client, a delay shows by itself against what was agreed, and
+the status report is written from the plan.
 
 These pages explain how to use it. If you're new, start with
 [Create an account](getting-started/account.md) and

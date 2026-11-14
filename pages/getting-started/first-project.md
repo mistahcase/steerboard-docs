@@ -10,9 +10,9 @@ A new account starts with two projects already there:
   finished work, work in progress, work that's late, drafts, a team in three
   groups and a status report. Its team is in your [People](../sharing/people.md)
   too.
-- **Website relaunch**, a small sample plan with phases, links and a launch.
+- **Website relaunch**, a small sample plan with workstreams, links and a launch.
 
-They're the quickest way to see what each screen does before you build your
+Use them to see what each screen does before you build your
 own plan. They're yours to change, and to delete when you're done with them.
 
 ![The projects page](../img/projects.png)
@@ -37,7 +37,7 @@ Under **Start from**, choose what the plan begins with:
   nothing of what happened: everything is a draft again, with no progress,
   agreed dates or history. Unticked, it's a copy as it stands.
 
-A template and a fresh copy ask when. Pick any day under **Starts in the week
+A template and a fresh copy need a start date. Pick any day under **Starts in the week
 of**: the plan starts on that week's Monday, and everything arrives as a
 draft.
 
@@ -62,7 +62,7 @@ With more than a handful of projects, choose **Table** beside those tabs. Each
 project is then a line: its status, how much is done, its next milestone, its
 finish against what was agreed, when its last report was issued, and its
 owner. Choose a heading to sort by it; by **Status**, the late ones come
-first. **Only late or at risk** leaves just the projects that need a look,
+first. **Only late or at risk** leaves only the projects that need a look,
 as cards or as a table. **Cards** brings the cards back.
 
 **Timeline** draws your projects on one time scale, a line each: its bar, its

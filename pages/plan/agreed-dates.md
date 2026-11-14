@@ -53,8 +53,8 @@ and the plan as a whole are **At risk** when any agreed work is delayed, and
 
 ## Change agreed dates
 
-Agreed dates are never undone by moving the work. When the scope genuinely
-changes, change them: right-click the work and choose
+Agreed dates are never undone by moving the work. When the scope changes,
+change them: right-click the work and choose
 **Change agreed dates…**, or use the button in the details panel. You can give
 a reason. The change, and the reason, are kept in the item's history, and the
 report shows them.

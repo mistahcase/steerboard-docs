@@ -1,8 +1,8 @@
 # Present and download
 
 The report becomes slides in two ways, both from the same report:
-**Present** shows them full screen, and **Download .pptx** gives you an
-editable PowerPoint deck.
+**Present** shows them full screen, and **Download .pptx** gives you the slides as a
+PowerPoint file you can edit.
 
 ![Presenting the status summary](../img/present.png)
 
@@ -14,7 +14,7 @@ Choose **Present** on the **Report** screen. Move with the arrow keys,
 
 ## Download .pptx
 
-Choose **Download .pptx**. The deck is native PowerPoint, so you can edit
+Choose **Download .pptx**. The file is native PowerPoint, so you can edit
 everything in it:
 
 - A title slide, then the status on one page, drawn with real text boxes and
@@ -40,7 +40,7 @@ take the report with you:
 - **Save as PDF…** opens your browser's print dialog with the slides, a page
   each at the slide's own size. Choose "Save as PDF" there, or a printer.
 - **Download the plan as a picture** saves a .png of the plan, drawn as on the
-  plan slide. It's whole however tall the plan is: what the deck spreads over
+  plan slide. It's whole however tall the plan is: what the report spreads over
   several slides is one picture.
 - **Copy the plan as a picture** puts the same picture on the clipboard, ready
   to paste into an email or a chat.
@@ -48,12 +48,12 @@ take the report with you:
 A [past report](index.md#past-reports) you've opened is saved the same way, as
 it was.
 
-## Your logo, your client, a customer's template
+## Your logo, your client, a client's template
 
 Under **Slides** in [Project settings](../project-settings.md#your-own-slides)
 you can say who the report is for (it goes on the cover), put your own logo in
 place of Steerboard's, and upload a PowerPoint template. With a template,
-**Download .pptx** makes the deck in it: the template's own title slide and
+**Download .pptx** makes the slides in it: the template's own title slide and
 layout, with the report's content in the room each slide leaves.
 
 ## Slide size
@@ -61,7 +61,7 @@ layout, with the report's content in the room each slide leaves.
 The part of the button showing **16:9** picks the slide size: 16:9, 16:10, A4
 or 4:3, to match the template the slides are going into. Everything is laid
 out again for the size you pick, and the choice is remembered in your browser.
-Presenting is always 16:9. With a customer’s template there’s nothing to pick:
+Presenting is always 16:9. With a client’s template there’s nothing to pick:
 the slides are the template’s size.
 
 ## The plan slide
@@ -72,7 +72,7 @@ owner's initials after the name, as the board does.
 The plan slide draws the board as it is: workstreams down the left with their
 leads, each row in its lanes, under a two-tier time scale that fits the plan's
 length (weeks over days for a few weeks, up to years over quarters for a
-programme). Activities are pentagons in navy, what's done in green, late work
+programme). Activities are boats in navy, what's done in green, late work
 in light blue outlined red or amber, drafts dashed. Work packages are brackets
 with a faint box round what they hold,
 milestones diamonds with their dates, holidays grey bands, and today a dashed

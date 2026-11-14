@@ -18,7 +18,8 @@ job on the project or their days a week, choose **Manage…** above the list. It
 opens **Project settings** at **People**: see
 [Sharing a project](sharing/sharing.md).
 
-The days shown are the project's working days, as on the plan: no weekends.
+The days shown are the project's working days, as on the plan, so weekends
+are left out.
 
 ## Who's working on what
 

@@ -1,7 +1,7 @@
 # A tour of the screens
 
 A project has five screens, in the bar at the top: **Plan**, **List**,
-**Cards**, **Workload** and **Report**. They're five views of one plan. Change something in
+**Cards**, **Workload** and **Report**. They all show the same plan. Change something in
 one and it has changed in all of them, for everyone with the project open.
 
 Switch between them with the tabs, or with <kbd>Alt</kbd>+<kbd>1</kbd> to
@@ -45,7 +45,7 @@ Outside a project, the bar has **Projects**, [**My work**](../my-work.md)
 
 ## Plan
 
-The board: the plan drawn the way the plan slide draws it. Workstreams are
+The board is the plan drawn the way the plan slide draws it. Workstreams are
 lined off down the left with their leads; activities are boats along the
 rows; milestones are diamonds. You add, move and stretch everything
 directly, and pull a box across free space to select several at once. See [The board](../plan/board.md).
@@ -55,14 +55,14 @@ directly, and pull a box across free space to select several at once. See [The b
 ## Cards
 
 The same work as cards in four columns: **Draft**, **Planned**,
-**In progress** and **Done**. Good for running the week's work. See
+**In progress** and **Done**. It's the screen for running the week's work. See
 [Cards](../cards.md).
 
 ![The cards](../img/cards.png)
 
 ## Workload
 
-The team, in their groups, and what each person is working on over the next
+The team in their groups, and what each person is working on over the next
 period: how many days they're booked, day by day, and each piece of work. See
 [Workload](../workload.md).
 
@@ -70,7 +70,7 @@ period: how many days they're booked, day by day, and each piece of work. See
 
 ## Report
 
-The status report, written from the plan: the status on one page, then the
+The status report is written from the plan: the status on one page, then the
 detail. Present it full screen or download it as PowerPoint slides. See
 [The report](../report/index.md).
 
@@ -79,4 +79,4 @@ detail. Present it full screen or download it as PowerPoint slides. See
 ## Links keep what's on screen
 
 A project's address says which screen, lanes and item are showing, so a link
-you send or a page you reload opens the same view.
+you send or a page you reload opens where you were.

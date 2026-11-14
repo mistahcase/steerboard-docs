@@ -13,7 +13,7 @@ change what belongs to the plan, and owners the rest.
 | **Tracking** | When a workstream, a work package and the plan as a whole count as at risk or late. See [Agreed dates and delays](plan/agreed-dates.md#when-the-plan-is-at-risk-or-late). |
 | **Reporting** | When the last status report was issued, so the next one covers from then to today. **Issue report…** on the report moves it on; set it here to start the period on another day. And how often **A report is due**, with a reminder by email. See [below](#a-report-on-a-rhythm). |
 | **Emails** | What the project emails about its work. See [below](#emails-about-work). |
-| **Slides** | Who the report is for, your own logo, and a customer’s PowerPoint template to make the slides in. See [below](#your-own-slides). |
+| **Slides** | Who the report is for, your own logo, and a client’s PowerPoint template to make the slides in. See [below](#your-own-slides). |
 | **People** | The project's team, and who can open the project and what they can do. See [Sharing a project](sharing/sharing.md). |
 
 ## A report on a rhythm
@@ -51,16 +51,16 @@ slides look.
 |---|---|
 | **Client** and **Reference** | Who the report is for, and a project or engagement number. Both go on the cover, under the period. |
 | **Logo** | **Upload a logo…** takes a PNG or JPEG of up to 500 KB. It takes the place of Steerboard's logo on every slide, downloaded and in presentation mode, as big as fits where the logo goes. **Replace logo…** and **Remove logo** change it. |
-| **PowerPoint template** | **Upload a template…** takes a customer's or your firm's .pptx or .potx of up to 9.5 MB. The downloaded slides are then made in it. |
+| **PowerPoint template** | **Upload a template…** takes a client's or your firm's .pptx or .potx of up to 9.5 MB. The downloaded slides are then made in it. |
 
-### A customer's template
+### A client's template
 
 Steerboard reads the template as you upload it and says what it found: its
 slide size, its title slide, and the layout the slides will be made on. That
 is the emptiest layout with a title, usually the one called "Title only". If
 another suits better, pick it under **Slides are made on**.
 
-In the downloaded deck every slide is then one of the template's own. The
+In the downloaded slides every one is then one of the template's own. The
 cover is on its title slide and the rest on the layout you chose, with each
 slide's title in the template's own place and type, and Steerboard's content
 scaled into the room under it. The template's sample slides are left out. Its
