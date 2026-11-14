@@ -76,6 +76,9 @@ Every name shows somewhere it can be read, and never over anything else:
 inside the item when it fits, otherwise beside it, otherwise shortened with
 "…". Point at an item to see its whole name.
 
+A name is kept on one line, up to 200 letters. Cleared, it stays the name it
+was.
+
 To see who owns what, choose **Show** in the toolbar and tick **Owners**. Each
 item's owner then follows its name as initials, as in "Elasticity model (PN)";
 a work package shows its lead. The choice is kept in your browser, and the

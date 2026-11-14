@@ -4,6 +4,13 @@ What has changed in Steerboard, newest first.
 
 ## November 2026
 
+**Names stay tidy.** A name is kept on one line and to a sensible length: 200
+letters for an activity or a milestone, 120 for a plan. Emptied, it stays the
+name it was.
+
+**Escape closes what's open, at once.** A window that was still loading when
+it opened (What changed, say) didn't close on Escape. It does now.
+
 **Moving work keeps its percentage.** Work in progress that was past its
 agreed end jumped to 99% when it was moved later. Its percentage now stays
 what it was, wherever it's moved.
