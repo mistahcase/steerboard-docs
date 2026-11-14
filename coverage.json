@@ -27,7 +27,7 @@
         "src/model/templates.ts",
         "src/gantt/BoardHints.tsx"
       ],
-      "reviewed": "797033a6e48e4c3d1a09b86489b0122cd6f9a0ab"
+      "reviewed": "275cfcacac0d117cbcfbd2cf8727f4f05daa0ab4"
     },
     "getting-started/tour.md": {
       "covers": [
@@ -37,7 +37,7 @@
         "src/components/ViewSwitch.tsx",
         "src/components/Shell.tsx"
       ],
-      "reviewed": "d11e61cf9accb5daea1398bfcd62661bcb8bedf8"
+      "reviewed": "275cfcacac0d117cbcfbd2cf8727f4f05daa0ab4"
     },
     "getting-started/feedback.md": {
       "covers": [
@@ -65,7 +65,7 @@
         "src/gantt/BoardGrid.tsx",
         "src/gantt/useBoardZoom.ts"
       ],
-      "reviewed": "14fba0586e73e854b4a80d1fc1d61c49617e144a"
+      "reviewed": "275cfcacac0d117cbcfbd2cf8727f4f05daa0ab4"
     },
     "plan/items.md": {
       "covers": [
@@ -92,7 +92,7 @@
         "src/gantt/SectionColumn.tsx",
         "src/gantt/boardMenu.tsx"
       ],
-      "reviewed": "14fba0586e73e854b4a80d1fc1d61c49617e144a"
+      "reviewed": "275cfcacac0d117cbcfbd2cf8727f4f05daa0ab4"
     },
     "plan/links.md": {
       "covers": [
@@ -111,7 +111,7 @@
         "src/model/items.ts",
         "src/components/Inspector.tsx"
       ],
-      "reviewed": "14fba0586e73e854b4a80d1fc1d61c49617e144a"
+      "reviewed": "275cfcacac0d117cbcfbd2cf8727f4f05daa0ab4"
     },
     "plan/agreed-dates.md": {
       "covers": [
@@ -202,7 +202,7 @@
         "src/model/report.ts",
         "src/report/onepager.ts"
       ],
-      "reviewed": "97bc25d1666957f80253220f26dcb54e824675ab"
+      "reviewed": "275cfcacac0d117cbcfbd2cf8727f4f05daa0ab4"
     },
     "report/present.md": {
       "covers": [
@@ -242,7 +242,8 @@
       "covers": [
         "src/components/SettingsPage.tsx",
         "src/components/AccountCards.tsx"
-      ]
+      ],
+      "reviewed": "275cfcacac0d117cbcfbd2cf8727f4f05daa0ab4"
     },
     "reference/marks.md": {
       "covers": [
