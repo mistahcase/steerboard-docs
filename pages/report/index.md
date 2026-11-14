@@ -69,7 +69,8 @@ as it is now and closes the period, so the next report starts from today. Its ke
 decisions that were made and risks that were closed; what's still open
 carries over to the next report.
 
-Where your Steerboard sends email, the dialog has **Send it to**: everyone
+Where your Steerboard sends email and the account's [subscription](../sharing/settings.md#the-subscription)
+includes emails, the dialog has **Send it to**: everyone
 else who can open the project, to tick or leave. Those you tick each get an
 email with how the plan stands, the key messages, a few words from you if you
 write any, and a link to the report as you issued it. The people it went to

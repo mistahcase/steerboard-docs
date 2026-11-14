@@ -13,7 +13,7 @@
         "src/components/AuthPages.tsx",
         "server/auth.ts"
       ],
-      "reviewed": "d11e61cf9accb5daea1398bfcd62661bcb8bedf8"
+      "reviewed": "26cf55eba0c6d5a1ebd343810a72a0aefd4407d3"
     },
     "getting-started/first-project.md": {
       "covers": [
@@ -225,7 +225,7 @@
         "server/links.ts",
         "server/sharing.ts"
       ],
-      "reviewed": "9ae24dd24079d6e9e1dc6ac8bccdde5bc1db1966"
+      "reviewed": "26cf55eba0c6d5a1ebd343810a72a0aefd4407d3"
     },
     "sharing/people.md": {
       "covers": [
@@ -236,7 +236,7 @@
         "server/team.ts",
         "server/people.ts"
       ],
-      "reviewed": "9ae24dd24079d6e9e1dc6ac8bccdde5bc1db1966"
+      "reviewed": "26cf55eba0c6d5a1ebd343810a72a0aefd4407d3"
     },
     "sharing/settings.md": {
       "covers": [
