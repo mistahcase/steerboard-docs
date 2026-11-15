@@ -13,7 +13,7 @@
         "src/components/AuthPages.tsx",
         "server/auth.ts"
       ],
-      "reviewed": "f48388efbbe1bee3541150d367f5f35312a8e5f1"
+      "reviewed": "02591129a195e9815eb48dcf9a40c5c55578f1b3"
     },
     "getting-started/first-project.md": {
       "covers": [
@@ -27,7 +27,7 @@
         "src/model/templates.ts",
         "src/gantt/BoardHints.tsx"
       ],
-      "reviewed": "c45b5652421aa16e75b772ec8b096f7803c9130f"
+      "reviewed": "02591129a195e9815eb48dcf9a40c5c55578f1b3"
     },
     "getting-started/tour.md": {
       "covers": [
@@ -37,7 +37,7 @@
         "src/components/ViewSwitch.tsx",
         "src/components/Shell.tsx"
       ],
-      "reviewed": "275cfcacac0d117cbcfbd2cf8727f4f05daa0ab4"
+      "reviewed": "02591129a195e9815eb48dcf9a40c5c55578f1b3"
     },
     "getting-started/feedback.md": {
       "covers": [
@@ -81,7 +81,7 @@
         "src/gantt/drag.ts",
         "src/gantt/boardMenu.tsx"
       ],
-      "reviewed": "f48388efbbe1bee3541150d367f5f35312a8e5f1"
+      "reviewed": "02591129a195e9815eb48dcf9a40c5c55578f1b3"
     },
     "plan/workstreams.md": {
       "covers": [
@@ -92,7 +92,7 @@
         "src/gantt/SectionColumn.tsx",
         "src/gantt/boardMenu.tsx"
       ],
-      "reviewed": "c9420e35e6be95e609fc41471155725385f46988"
+      "reviewed": "02591129a195e9815eb48dcf9a40c5c55578f1b3"
     },
     "plan/links.md": {
       "covers": [
@@ -129,7 +129,7 @@
         "src/components/SelectionPanel.tsx",
         "src/components/OwnerField.tsx"
       ],
-      "reviewed": "14fba0586e73e854b4a80d1fc1d61c49617e144a"
+      "reviewed": "02591129a195e9815eb48dcf9a40c5c55578f1b3"
     },
     "plan/holidays.md": {
       "covers": [
@@ -139,7 +139,7 @@
         "src/model/dates.ts",
         "src/gantt/boardMenu.tsx"
       ],
-      "reviewed": "3da39154e394927df06abef7f67a0a75d07078ac"
+      "reviewed": "02591129a195e9815eb48dcf9a40c5c55578f1b3"
     },
     "plan/keyboard.md": {
       "covers": [
@@ -165,7 +165,8 @@
         "src/components/MyWorkPage.tsx",
         "src/model/myWork.ts",
         "server/mywork.ts"
-      ]
+      ],
+      "reviewed": "02591129a195e9815eb48dcf9a40c5c55578f1b3"
     },
     "list.md": {
       "covers": [
@@ -173,7 +174,7 @@
         "src/model/list.ts",
         "src/model/paste.ts"
       ],
-      "reviewed": "c45b5652421aa16e75b772ec8b096f7803c9130f"
+      "reviewed": "02591129a195e9815eb48dcf9a40c5c55578f1b3"
     },
     "cards.md": {
       "covers": [
@@ -181,7 +182,7 @@
         "src/model/stages.ts",
         "src/model/board.ts"
       ],
-      "reviewed": "797033a6e48e4c3d1a09b86489b0122cd6f9a0ab"
+      "reviewed": "02591129a195e9815eb48dcf9a40c5c55578f1b3"
     },
     "workload.md": {
       "covers": [
@@ -204,7 +205,7 @@
         "src/model/report.ts",
         "src/report/onepager.ts"
       ],
-      "reviewed": "c45b5652421aa16e75b772ec8b096f7803c9130f"
+      "reviewed": "02591129a195e9815eb48dcf9a40c5c55578f1b3"
     },
     "report/present.md": {
       "covers": [
