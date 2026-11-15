@@ -13,7 +13,7 @@
         "src/components/AuthPages.tsx",
         "server/auth.ts"
       ],
-      "reviewed": "02591129a195e9815eb48dcf9a40c5c55578f1b3"
+      "reviewed": "83e6ea023ee1248da7f6d3f6bb918353a6490548"
     },
     "getting-started/first-project.md": {
       "covers": [
@@ -65,7 +65,7 @@
         "src/gantt/BoardGrid.tsx",
         "src/gantt/useBoardZoom.ts"
       ],
-      "reviewed": "f48388efbbe1bee3541150d367f5f35312a8e5f1"
+      "reviewed": "83e6ea023ee1248da7f6d3f6bb918353a6490548"
     },
     "plan/items.md": {
       "covers": [
@@ -81,7 +81,7 @@
         "src/gantt/drag.ts",
         "src/gantt/boardMenu.tsx"
       ],
-      "reviewed": "02591129a195e9815eb48dcf9a40c5c55578f1b3"
+      "reviewed": "83e6ea023ee1248da7f6d3f6bb918353a6490548"
     },
     "plan/workstreams.md": {
       "covers": [
@@ -92,7 +92,7 @@
         "src/gantt/SectionColumn.tsx",
         "src/gantt/boardMenu.tsx"
       ],
-      "reviewed": "02591129a195e9815eb48dcf9a40c5c55578f1b3"
+      "reviewed": "83e6ea023ee1248da7f6d3f6bb918353a6490548"
     },
     "plan/links.md": {
       "covers": [
@@ -149,7 +149,7 @@
         "src/App.tsx",
         "src/gantt/itemKeys.ts"
       ],
-      "reviewed": "c45b5652421aa16e75b772ec8b096f7803c9130f"
+      "reviewed": "83e6ea023ee1248da7f6d3f6bb918353a6490548"
     },
     "plan/changes.md": {
       "covers": [
@@ -182,7 +182,7 @@
         "src/model/stages.ts",
         "src/model/board.ts"
       ],
-      "reviewed": "02591129a195e9815eb48dcf9a40c5c55578f1b3"
+      "reviewed": "83e6ea023ee1248da7f6d3f6bb918353a6490548"
     },
     "workload.md": {
       "covers": [
@@ -205,7 +205,7 @@
         "src/model/report.ts",
         "src/report/onepager.ts"
       ],
-      "reviewed": "02591129a195e9815eb48dcf9a40c5c55578f1b3"
+      "reviewed": "83e6ea023ee1248da7f6d3f6bb918353a6490548"
     },
     "report/present.md": {
       "covers": [
@@ -257,7 +257,7 @@
         "src/gantt/key.ts",
         "src/gantt/BoardKey.tsx"
       ],
-      "reviewed": "f48388efbbe1bee3541150d367f5f35312a8e5f1"
+      "reviewed": "83e6ea023ee1248da7f6d3f6bb918353a6490548"
     },
     "reference/glossary.md": {
       "covers": []
