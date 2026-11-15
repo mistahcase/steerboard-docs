@@ -4,6 +4,17 @@ What has changed in Steerboard, newest first.
 
 ## November 2026
 
+**The logo is whole on every screen.** On a phone the header read "Steerboa",
+and on a tablet less. The mark and the name are one drawing now, and the bar
+makes room for it: on a tablet a project's screens take a line of their own
+under the bar, and on a phone **Send feedback** is in your account menu.
+
+**Nothing cut short on a phone, a tablet or a laptop.** A workstream's menu
+could stay see-through on an iPhone. On a tablet the **Show** menu opened off
+the screen, and held on its side it cut the plan's name and its status. The
+plan's dates were cut mid-word on a laptop. The report's workstream names, the
+projects' search field and the sign-in page are fixed on a phone too.
+
 **New tiers and prices.** The tiers on the home page are now Personal, Team
 and Business. Personal costs nothing and is for you and three colleagues on
 your email domain. Team is for work with clients, who join free. Business adds

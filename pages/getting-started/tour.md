@@ -38,7 +38,8 @@ the tools for the screen you're on.
 On a phone held upright the bar keeps the logo, the bell, **Feedback** and
 your account menu, which has **Projects**, **My work**, **People** (for
 planners and account managers), **Settings** and **Docs**; the toolbar's tools
-are one row you can swipe sideways.
+are one row you can swipe sideways. In a project the bar is fuller, so there
+your account menu has **Send feedback** in place of the button.
 
 Outside a project, the bar has **Projects**, [**My work**](../my-work.md)
 (what's yours across every project), **People** and **Settings**.
