@@ -59,9 +59,9 @@ plan: the **Report** screen, its slides, and each report you issue.
 **Subscription.** What the account has with Steerboard: its tier, and the
 seats it pays for. In Settings: **Subscription**.
 
-**Tier.** A level of subscription: how many seats, people and projects the
-account has room for, and what it includes. A tier is never called a plan: a
-plan is a project's plan.
+**Tier.** A level of subscription: how many planners, and on some tiers how
+many others and projects, the account has room for, and what it includes. A
+tier is never called a plan: a plan is a project's plan.
 
 **Work package.** A bracket over some work, rolling up its dates, progress
 and status. Put work in one from the right-click menu on the plan.

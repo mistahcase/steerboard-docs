@@ -4,6 +4,14 @@ What has changed in Steerboard, newest first.
 
 ## November 2026
 
+**New tiers and prices.** The tiers on the home page are now Personal, Team
+and Business. Personal costs nothing and is for you and three colleagues on
+your email domain. Team is for work with clients, who join free. Business adds
+every project on one timeline, single sign-on, the audit log and the data
+export. A seat on Team is €12 a month billed yearly, on Business €22.
+Steerboard is still in early access, so every account has everything and
+nothing is charged.
+
 **Fit uses the whole screen.** **Fit** now fits the activities and milestones
 and keeps no room for the names beside them, so the plan is drawn bigger, most
 of all on a phone. A name beside the last item can run off the edge.
