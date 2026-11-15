@@ -59,3 +59,13 @@ choose **Keyboard shortcuts** under the question mark at the top.
 | <kbd>Escape</kbd> | Close the menu. |
 
 On a Mac, use <kbd>Cmd</kbd> where this page says <kbd>Ctrl</kbd>.
+
+## Screen readers and contrast themes
+
+Every screen has a heading, and the browser's tab is named after the screen
+and the project that's open. An activity or a milestone on the board is read
+as its name, its dates and how it stands.
+
+In a Windows contrast theme the plan, the cards and the report keep their
+colours, since a colour there says what's done, late or still a draft. The
+rest of Steerboard follows your theme.

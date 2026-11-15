@@ -4,6 +4,16 @@ What has changed in Steerboard, newest first.
 
 ## November 2026
 
+**Captions on the films.** The two films on the home page have captions now:
+switch them on in the player.
+
+**Each tab says where it is.** The browser's tab is named after the screen and
+the project that's open, so several Steerboard tabs can be told apart.
+
+**Easier with a screen reader or a contrast theme.** Buttons, activities and
+cards are named by what they show, each screen has a heading, and the plan
+keeps its colours in a Windows contrast theme.
+
 **Dialogs and menus are the browser's own.** They look as they did. A dialog
 now holds the page behind it still, and the back gesture on a phone closes it.
 A menu opened from a workstream's name stays with the name while you scroll.
