@@ -41,6 +41,10 @@ planners and account managers), **Settings** and **Docs**; the toolbar's tools
 are one row you can swipe sideways. In a project the bar is fuller, so there
 your account menu has **Send feedback** in place of the button.
 
+If you've set bigger text on an Android phone or tablet, or in your browser,
+Steerboard's text follows it. The plan's own drawing keeps its size: **Size**,
+under **Show**, makes all of it bigger.
+
 Outside a project, the bar has **Projects**, [**My work**](../my-work.md)
 (what's yours across every project), **People** and **Settings**.
 

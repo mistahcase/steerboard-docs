@@ -4,6 +4,18 @@ What has changed in Steerboard, newest first.
 
 ## November 2026
 
+**Dialogs and menus are the browser's own.** They look as they did. A dialog
+now holds the page behind it still, and the back gesture on a phone closes it.
+A menu opened from a workstream's name stays with the name while you scroll.
+
+**Text follows your text size.** If you've set bigger text on an Android phone
+or tablet, or in your browser, Steerboard's text follows it. The plan's own
+drawing keeps its size: **Size**, under **Show**, makes it bigger. iPhones
+don't pass their text size on to web pages yet.
+
+**Sign-in says what's wrong sooner.** An email address or a password that
+can't be right is said under the field as you leave it.
+
 **Menus answer the arrow keys.** In your account's menu, Help and a project's
 own menu, the arrows move between the items and Escape closes the menu. And if
 you type in Japanese, Chinese or Korean, Enter no longer saves a field while
