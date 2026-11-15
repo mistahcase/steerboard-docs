@@ -82,6 +82,12 @@ remind its owners by email when one is due: see
 [Project settings](../project-settings.md#a-report-on-a-rhythm). The line under
 the project's name then says when the next one is due.
 
+Issuing reports is part of some tiers. On a tier without it, **Issue report…**
+can't be pressed and **Past reports** says it isn't part of the subscription.
+The report on screen still covers its period, which you move on under
+**Last report issued on** in the project's settings. See
+[The subscription](../sharing/settings.md#the-subscription).
+
 ## Past reports
 
 **Past reports**, beside the report's actions, lists every report that has

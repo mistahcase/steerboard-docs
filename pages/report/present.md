@@ -30,7 +30,8 @@ by hand as one. Moving things in PowerPoint doesn't change the plan.
 
 The slides use Calibri, so they look right on any machine, and the plan's navy
 as a thin band along the top. The Steerboard logo sits top right, unless the
-project has its own.
+project has its own. On a tier without your own slides, each slide also says
+"Made with Steerboard" in its footer.
 
 ## A PDF, and the plan as a picture
 
@@ -47,6 +48,9 @@ take the report with you:
 
 A [past report](index.md#past-reports) you've opened is saved the same way, as
 it was.
+
+**Save as PDF…** comes with issuing reports. On a tier without that, it says
+it isn't part of the subscription. The pictures of the plan are on every tier.
 
 ## Your logo, your client, a client's template
 

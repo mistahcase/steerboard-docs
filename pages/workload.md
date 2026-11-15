@@ -2,7 +2,8 @@
 
 Each project has a team: the people who can own work, sorted into groups such
 as your firm, the client and a vendor. **Workload** shows the team and what
-each person is working on.
+each person is working on. On a tier without it, the tab says it isn't part of
+the subscription.
 
 ![The Workload screen](img/workload.png)
 

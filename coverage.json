@@ -13,7 +13,7 @@
         "src/components/AuthPages.tsx",
         "server/auth.ts"
       ],
-      "reviewed": "26cf55eba0c6d5a1ebd343810a72a0aefd4407d3"
+      "reviewed": "c45b5652421aa16e75b772ec8b096f7803c9130f"
     },
     "getting-started/first-project.md": {
       "covers": [
@@ -27,7 +27,7 @@
         "src/model/templates.ts",
         "src/gantt/BoardHints.tsx"
       ],
-      "reviewed": "f1617107412b5273b2f74de9ef4b479133a981a5"
+      "reviewed": "c45b5652421aa16e75b772ec8b096f7803c9130f"
     },
     "getting-started/tour.md": {
       "covers": [
@@ -65,7 +65,7 @@
         "src/gantt/BoardGrid.tsx",
         "src/gantt/useBoardZoom.ts"
       ],
-      "reviewed": "c9420e35e6be95e609fc41471155725385f46988"
+      "reviewed": "c45b5652421aa16e75b772ec8b096f7803c9130f"
     },
     "plan/items.md": {
       "covers": [
@@ -81,7 +81,7 @@
         "src/gantt/drag.ts",
         "src/gantt/boardMenu.tsx"
       ],
-      "reviewed": "04531cb83c6ab5f629864ff37a4b2be4191beae3"
+      "reviewed": "c45b5652421aa16e75b772ec8b096f7803c9130f"
     },
     "plan/workstreams.md": {
       "covers": [
@@ -149,7 +149,7 @@
         "src/App.tsx",
         "src/gantt/itemKeys.ts"
       ],
-      "reviewed": "c9420e35e6be95e609fc41471155725385f46988"
+      "reviewed": "c45b5652421aa16e75b772ec8b096f7803c9130f"
     },
     "plan/changes.md": {
       "covers": [
@@ -157,7 +157,8 @@
         "src/model/whatChanged.ts",
         "server/past.ts",
         "server/changes.ts"
-      ]
+      ],
+      "reviewed": "c45b5652421aa16e75b772ec8b096f7803c9130f"
     },
     "my-work.md": {
       "covers": [
@@ -171,7 +172,8 @@
         "src/components/ListView.tsx",
         "src/model/list.ts",
         "src/model/paste.ts"
-      ]
+      ],
+      "reviewed": "c45b5652421aa16e75b772ec8b096f7803c9130f"
     },
     "cards.md": {
       "covers": [
@@ -202,7 +204,7 @@
         "src/model/report.ts",
         "src/report/onepager.ts"
       ],
-      "reviewed": "3da39154e394927df06abef7f67a0a75d07078ac"
+      "reviewed": "c45b5652421aa16e75b772ec8b096f7803c9130f"
     },
     "report/present.md": {
       "covers": [
@@ -214,7 +216,7 @@
         "src/report/plan-slide.ts",
         "src/report/template.ts"
       ],
-      "reviewed": "97bc25d1666957f80253220f26dcb54e824675ab"
+      "reviewed": "c45b5652421aa16e75b772ec8b096f7803c9130f"
     },
     "sharing/sharing.md": {
       "covers": [
@@ -225,7 +227,7 @@
         "server/links.ts",
         "server/sharing.ts"
       ],
-      "reviewed": "26cf55eba0c6d5a1ebd343810a72a0aefd4407d3"
+      "reviewed": "c45b5652421aa16e75b772ec8b096f7803c9130f"
     },
     "sharing/people.md": {
       "covers": [
@@ -236,7 +238,7 @@
         "server/team.ts",
         "server/people.ts"
       ],
-      "reviewed": "26cf55eba0c6d5a1ebd343810a72a0aefd4407d3"
+      "reviewed": "c45b5652421aa16e75b772ec8b096f7803c9130f"
     },
     "sharing/settings.md": {
       "covers": [
@@ -268,7 +270,7 @@
         "src/components/SlideSettings.tsx",
         "server/notify.ts"
       ],
-      "reviewed": "d11e61cf9accb5daea1398bfcd62661bcb8bedf8"
+      "reviewed": "c45b5652421aa16e75b772ec8b096f7803c9130f"
     }
   }
 }

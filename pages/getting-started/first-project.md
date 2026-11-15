@@ -37,6 +37,10 @@ Under **Start from**, choose what the plan begins with:
   nothing of what happened: everything is a draft again, with no progress,
   agreed dates or history. Unticked, it's a copy as it stands.
 
+Copying a project is part of some tiers. On a tier without it, **A copy** and
+**Make a copy** say it isn't part of the subscription. The templates are on
+every tier.
+
 A template and a fresh copy need a start date. Pick any day under **Starts in the week
 of**: the plan starts on that week's Monday, and everything arrives as a
 draft.
@@ -71,6 +75,9 @@ status report's workstream timeline, one level up. Choose a project's name or
 a milestone to open it. **Download slide** saves the timeline as a PowerPoint
 slide, for a programme or portfolio meeting. The search and
 **Only late or at risk** choose which projects are on it.
+
+**Table** and **Timeline** are part of some tiers. On a tier without them
+they say so in place of the projects, and **Cards** shows them.
 
 ![The projects on a timeline](../img/programme.png)
 

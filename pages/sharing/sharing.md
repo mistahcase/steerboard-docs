@@ -118,6 +118,10 @@ link** stops it at once for everyone who has it; a link you turn on later is a
 new one. Account managers can switch these links off for the whole account in
 [Settings](settings.md#account-account-managers).
 
+The link comes with issuing reports. On a tier without that, a link can't be
+turned on, and one that was on doesn't open until the account is on a tier
+that has it again. It can still be turned off.
+
 ## Working together
 
 Changes save as you make them. Other people's changes appear as they happen,

@@ -8,6 +8,8 @@ lists what's different since last time: **What changed on the plan**.
 Under **Since**, choose **The last report** or **A day…** and pick the day.
 With no report issued yet, it counts from a day, a week ago to begin with.
 
+On a tier without it, the button says it isn't part of the subscription.
+
 The changes are listed by kind:
 
 | Kind | What it says |
