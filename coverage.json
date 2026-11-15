@@ -13,7 +13,7 @@
         "src/components/AuthPages.tsx",
         "server/auth.ts"
       ],
-      "reviewed": "83e6ea023ee1248da7f6d3f6bb918353a6490548"
+      "reviewed": "1b1ca5a087c041c6a17d0aa467eb6da35d947f34"
     },
     "getting-started/first-project.md": {
       "covers": [
@@ -37,7 +37,7 @@
         "src/components/ViewSwitch.tsx",
         "src/components/Shell.tsx"
       ],
-      "reviewed": "02591129a195e9815eb48dcf9a40c5c55578f1b3"
+      "reviewed": "1b1ca5a087c041c6a17d0aa467eb6da35d947f34"
     },
     "getting-started/feedback.md": {
       "covers": [
@@ -65,7 +65,7 @@
         "src/gantt/BoardGrid.tsx",
         "src/gantt/useBoardZoom.ts"
       ],
-      "reviewed": "83e6ea023ee1248da7f6d3f6bb918353a6490548"
+      "reviewed": "1b1ca5a087c041c6a17d0aa467eb6da35d947f34"
     },
     "plan/items.md": {
       "covers": [
@@ -81,7 +81,7 @@
         "src/gantt/drag.ts",
         "src/gantt/boardMenu.tsx"
       ],
-      "reviewed": "83e6ea023ee1248da7f6d3f6bb918353a6490548"
+      "reviewed": "1b1ca5a087c041c6a17d0aa467eb6da35d947f34"
     },
     "plan/workstreams.md": {
       "covers": [
@@ -111,7 +111,7 @@
         "src/model/items.ts",
         "src/components/Inspector.tsx"
       ],
-      "reviewed": "275cfcacac0d117cbcfbd2cf8727f4f05daa0ab4"
+      "reviewed": "1b1ca5a087c041c6a17d0aa467eb6da35d947f34"
     },
     "plan/agreed-dates.md": {
       "covers": [
@@ -129,7 +129,7 @@
         "src/components/SelectionPanel.tsx",
         "src/components/OwnerField.tsx"
       ],
-      "reviewed": "02591129a195e9815eb48dcf9a40c5c55578f1b3"
+      "reviewed": "1b1ca5a087c041c6a17d0aa467eb6da35d947f34"
     },
     "plan/holidays.md": {
       "covers": [
@@ -166,7 +166,7 @@
         "src/model/myWork.ts",
         "server/mywork.ts"
       ],
-      "reviewed": "02591129a195e9815eb48dcf9a40c5c55578f1b3"
+      "reviewed": "1b1ca5a087c041c6a17d0aa467eb6da35d947f34"
     },
     "list.md": {
       "covers": [
@@ -182,7 +182,7 @@
         "src/model/stages.ts",
         "src/model/board.ts"
       ],
-      "reviewed": "83e6ea023ee1248da7f6d3f6bb918353a6490548"
+      "reviewed": "1b1ca5a087c041c6a17d0aa467eb6da35d947f34"
     },
     "workload.md": {
       "covers": [
@@ -205,7 +205,7 @@
         "src/model/report.ts",
         "src/report/onepager.ts"
       ],
-      "reviewed": "83e6ea023ee1248da7f6d3f6bb918353a6490548"
+      "reviewed": "1b1ca5a087c041c6a17d0aa467eb6da35d947f34"
     },
     "report/present.md": {
       "covers": [
@@ -257,7 +257,7 @@
         "src/gantt/key.ts",
         "src/gantt/BoardKey.tsx"
       ],
-      "reviewed": "83e6ea023ee1248da7f6d3f6bb918353a6490548"
+      "reviewed": "1b1ca5a087c041c6a17d0aa467eb6da35d947f34"
     },
     "reference/glossary.md": {
       "covers": []
