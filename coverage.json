@@ -13,7 +13,7 @@
         "src/components/AuthPages.tsx",
         "server/auth.ts"
       ],
-      "reviewed": "c45b5652421aa16e75b772ec8b096f7803c9130f"
+      "reviewed": "f48388efbbe1bee3541150d367f5f35312a8e5f1"
     },
     "getting-started/first-project.md": {
       "covers": [
@@ -65,7 +65,7 @@
         "src/gantt/BoardGrid.tsx",
         "src/gantt/useBoardZoom.ts"
       ],
-      "reviewed": "c45b5652421aa16e75b772ec8b096f7803c9130f"
+      "reviewed": "f48388efbbe1bee3541150d367f5f35312a8e5f1"
     },
     "plan/items.md": {
       "covers": [
@@ -81,7 +81,7 @@
         "src/gantt/drag.ts",
         "src/gantt/boardMenu.tsx"
       ],
-      "reviewed": "c45b5652421aa16e75b772ec8b096f7803c9130f"
+      "reviewed": "f48388efbbe1bee3541150d367f5f35312a8e5f1"
     },
     "plan/workstreams.md": {
       "covers": [
@@ -227,7 +227,7 @@
         "server/links.ts",
         "server/sharing.ts"
       ],
-      "reviewed": "c45b5652421aa16e75b772ec8b096f7803c9130f"
+      "reviewed": "f48388efbbe1bee3541150d367f5f35312a8e5f1"
     },
     "sharing/people.md": {
       "covers": [
@@ -238,7 +238,7 @@
         "server/team.ts",
         "server/people.ts"
       ],
-      "reviewed": "c45b5652421aa16e75b772ec8b096f7803c9130f"
+      "reviewed": "f48388efbbe1bee3541150d367f5f35312a8e5f1"
     },
     "sharing/settings.md": {
       "covers": [
@@ -256,7 +256,7 @@
         "src/gantt/key.ts",
         "src/gantt/BoardKey.tsx"
       ],
-      "reviewed": "daaabd26e84a9f13af0e60f2d44f47dd9a35b17e"
+      "reviewed": "f48388efbbe1bee3541150d367f5f35312a8e5f1"
     },
     "reference/glossary.md": {
       "covers": []
