@@ -4,6 +4,11 @@ What has changed in Steerboard, newest first.
 
 ## November 2026
 
+**Menus answer the arrow keys.** In your account's menu, Help and a project's
+own menu, the arrows move between the items and Escape closes the menu. And if
+you type in Japanese, Chinese or Korean, Enter no longer saves a field while
+you're still choosing a word.
+
 **The logo is whole on every screen.** On a phone the header read "Steerboa",
 and on a tablet less. The mark and the name are one drawing now, and the bar
 makes room for it: on a tablet a project's screens take a line of their own

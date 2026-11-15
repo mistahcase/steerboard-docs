@@ -49,4 +49,13 @@ choose **Keyboard shortcuts** under the question mark at the top.
 | <kbd>←</kbd>, <kbd>Page Up</kbd> | Previous slide. |
 | <kbd>Escape</kbd> | Leave the presentation. |
 
+## Menus
+
+| Keys | What they do |
+|---|---|
+| <kbd>↓</kbd> on a menu's button | Open the menu and go to its first item. |
+| <kbd>↑</kbd> <kbd>↓</kbd> | Move between the items. |
+| <kbd>Home</kbd>, <kbd>End</kbd> | Go to the first or the last item. |
+| <kbd>Escape</kbd> | Close the menu. |
+
 On a Mac, use <kbd>Cmd</kbd> where this page says <kbd>Ctrl</kbd>.
