@@ -4,6 +4,12 @@ What has changed in Steerboard, newest first.
 
 ## November 2026
 
+**One rule for corners.** Everything on a project's screens is square now: the
+plan, the list, the cards, the workload and the report, with the buttons and
+fields that sit on them. The bars at the top, an item's details, menus, dialogs
+and settings are slightly round, all by the same amount. Before, corners came
+in some twenty sizes.
+
 **Moving several looks like moving one.** Several items dragged together now
 follow the pointer, each with an outline where it will land. Before, they
 jumped a day at a time with no outline.
