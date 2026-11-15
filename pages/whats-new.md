@@ -4,6 +4,10 @@ What has changed in Steerboard, newest first.
 
 ## November 2026
 
+**Fit uses the whole screen.** **Fit** now fits the activities and milestones
+and keeps no room for the names beside them, so the plan is drawn bigger, most
+of all on a phone. A name beside the last item can run off the edge.
+
 **One rule for corners.** Everything on a project's screens is square now: the
 plan, the list, the cards, the workload and the report, with the buttons and
 fields that sit on them. The bars at the top, an item's details, menus, dialogs

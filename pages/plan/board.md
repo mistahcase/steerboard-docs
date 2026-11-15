@@ -50,6 +50,8 @@ columns.
 **Fit**, beside the time scale, shows the whole plan: it picks the time scale
 and the size at which the plan fits across the screen, and puts its start at
 the left. A long plan goes to months or quarters; a short one stays on days.
+What it fits is the activities and milestones. A name beside the last of them
+can run off the edge; scroll sideways to read it.
 
 To set the size yourself, open **Show**. The slider beside **Size** makes
 everything on the plan bigger or smaller, from 50% to 200%. Click the
