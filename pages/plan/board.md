@@ -83,6 +83,7 @@ leave the plan.
 
 On a laptop-wide window the toolbar's buttons give up their words so the
 plan's name keeps its room: **Filter** is its funnel and **Show** is its eye.
+Narrower than that, on a tablet say, the tools go under the name.
 
 ## What the plan shows
 
