@@ -4,8 +4,12 @@ What has changed in Steerboard, newest first.
 
 ## November 2026
 
-**Captions on the films.** The two films on the home page have captions now:
-switch them on in the player.
+**Subtitles on the films.** What the narrator says is written on the picture
+of both films on the home page, so they play with the sound off. Under the
+player, **The tour in words** has all of it to read.
+
+**More tools to the side on a phone.** The plan's tools are one row you swipe
+sideways. The row now fades at the edge where there's more.
 
 **Each tab says where it is.** The browser's tab is named after the screen and
 the project that's open, so several Steerboard tabs can be told apart.
