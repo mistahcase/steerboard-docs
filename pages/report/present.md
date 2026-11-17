@@ -28,8 +28,9 @@ What makes up one thing (an activity's bar, its done part and its name; a
 milestone and its name; the legend) is a PowerPoint group, so you can move it
 by hand as one. Moving things in PowerPoint doesn't change the plan.
 
-The slides use Calibri, so they look right on any machine, and the plan's navy
-as a thin band along the top. The Steerboard logo sits top right, unless the
+The slides use Arial, which every computer with PowerPoint has, so they look
+the same wherever they're opened, and the plan's navy as a thin band along
+the top. The Steerboard logo sits top right, unless the
 project has its own. On a tier without your own slides, each slide also says
 "Made with Steerboard" in its footer.
 

@@ -73,8 +73,13 @@ scaled into the room under it. The template's sample slides are left out. Its
 masters, colours, fonts, logo and footers stay, and Steerboard's band, logo
 and footer aren't drawn.
 
-- The content keeps Calibri and the plan's colours, so a plan reads the same
-  in every template.
+- The content is set in the template's own font when it's one Steerboard
+  knows the widths of: Arial, Calibri, Aptos, Segoe UI, Verdana, Tahoma,
+  Georgia, Times New Roman and others like them. It's laid out so it still
+  fits on a computer that doesn't have the font. In any other font the
+  content is set in Arial. The line under the template's name says which.
+- The content keeps the plan's colours, so a plan reads the same in every
+  template.
 - There's no slide size to choose: the template has its own.
 - A file with macros (.pptm, .potm) can't be used. Save it as a .pptx first.
 - A template too big to upload usually fits once its sample slides and the

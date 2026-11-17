@@ -4,6 +4,11 @@ What has changed in Steerboard, newest first.
 
 ## November 2026
 
+**The slides are in Arial.** Every computer with PowerPoint has it, so a
+downloaded deck looks the same wherever it's opened, and names are fitted by
+how wide their letters are. A deck made in your template keeps the
+template's own font where Steerboard knows its widths.
+
 **Programmes.** A project's menu on Projects has **Programme…**: put projects
 that belong together in one, and they're listed under its name.
 
