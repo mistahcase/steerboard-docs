@@ -82,8 +82,8 @@ A name is kept on one line, up to 200 letters. Cleared, it stays the name it
 was.
 
 To see who owns what, choose **Show** in the toolbar and tick **Owners**. Each
-item's owner then follows its name as initials, as in "Elasticity model (PN)";
-a work package shows its lead. The choice is kept in your browser, and the
+item's owner is then a small label to its right, their initials in a box;
+a work package shows its lead. Where two items sit too close for the label, pointing at the item says whose it is. The choice is kept in your browser, and the
 report's [plan slide](../report/present.md#the-plan-slide) follows it.
 
 ## Undo

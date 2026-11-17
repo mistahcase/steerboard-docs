@@ -93,7 +93,7 @@ last report, and can draw where each moved item was: see
 
 **Show**, in the toolbar, has three things:
 
-- **Owners** writes each item's owner after its name, as initials. See
+- **Owners** puts each item's owner beside it, as initials. See
   [names](items.md#names).
 - **Key** puts a small list at the bottom right of the board: the marks this
   plan is drawn with, and what each is called. Point at one to read what it

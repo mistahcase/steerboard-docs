@@ -28,7 +28,8 @@ From left to right:
   [what has changed](../whats-new.md), and **Send feedback** opens the
   feedback box.
 - [Project settings](../project-settings.md) (**Settings**): the project's
-  name, reporting, holidays and people. Then **Share**, which opens the
+  name, reporting, holidays and people. Then **Share**, which shares the
+  project with someone by name or email address and leads to the
   project's people, and your account menu. The
   account menu has **Docs** too.
 

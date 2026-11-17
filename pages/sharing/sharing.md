@@ -1,8 +1,15 @@
 # Sharing a project
 
-A project's people are in one place: who is on its team, and who can open it.
-Choose **Share** in the bar at the top of a project, or **Project settings**
-and then **People**.
+To share a project with someone, choose **Share** in the bar at the top (its
+owners have it). Type a name from your account or anyone's email address,
+choose what they may do, and choose **Share**. Someone in your account has the
+project at once and is told by email. Anyone else is invited to your account
+first. Under that, the dialog lists who has access, and **Copy a link to this
+view** copies the address of the view you're on, for people who have access.
+
+A project's people are also in one place: who is on its team, and who can open
+it. Choose **Manage people and access…** in that dialog, or **Project
+settings** and then **People**.
 
 ![A project's people](../img/share.png)
 

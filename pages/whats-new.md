@@ -4,6 +4,29 @@ What has changed in Steerboard, newest first.
 
 ## November 2026
 
+**Programmes.** A project's menu on Projects has **Programme…**: put projects
+that belong together in one, and they're listed under its name.
+
+**Templates of your own.** **Save as a template** in a project's menu keeps
+its plan to start projects from. They're in **Settings** under **Templates**,
+and in **New project**.
+
+**Share.** **Share** now opens one place to share a project with someone, by
+name or email address, and to copy a link to the view you're on.
+
+**The report.** Three headed parts, on white. **Period** sets how far it
+looks back and ahead, to a milestone if you like. Its filter has **Changed
+since**. Every list of work says whose it is.
+
+**Tracking, your way.** **Project settings**, **Tracking**: whether new work
+has its dates agreed as it's added, whether delays and overdue work are
+tracked, and how they're drawn.
+
+**Smaller things.** Owners on the plan are a label beside each item. What
+changed is drawn in each item's own shape, with a line to where it is now.
+The list has **Import…** and **Export**. On a phone held on its side, the bars
+are one line each and fold away. Buttons are rounded everywhere.
+
 **Subtitles on the films.** What the narrator says is written on the picture
 of both films on the home page, so they play with the sound off. Under the
 player, **The tour in words** has all of it to read.
