@@ -10,7 +10,7 @@ change what belongs to the plan, and owners the rest.
 |---|---|
 | **General** | The project's name; how its dates are written (**Dates are written**: in one language and order for everyone, on every view and on the slides, or as each person's browser writes them); the group it belongs to; and what happens to it: **Make a copy** (for planners and account managers, as a copy is a new project), **Download as a file** (saved under the project's name), and for its owners **Archive** and **Delete…**. |
 | **Calendar** | **Working days**: the days of the week the project works. And its holidays. See [Working days and holidays](plan/holidays.md). |
-| **Tracking** | When a workstream, a work package and the plan as a whole count as at risk or late. See [Agreed dates and delays](plan/agreed-dates.md#when-the-plan-is-at-risk-or-late). |
+| **Tracking** | Whether new work has its dates agreed as it's added, whether delays and overdue work are tracked and how they're drawn, and when a workstream, a work package and the plan as a whole count as at risk or late. See [Agreed dates and delays](plan/agreed-dates.md#when-the-plan-is-at-risk-or-late). |
 | **Reporting** | When the last status report was issued, so the next one covers from then to today. **Issue report…** on the report moves it on; set it here to start the period on another day. And how often **A report is due**, with a reminder by email. See [below](#a-report-on-a-rhythm). |
 | **Emails** | What the project emails about its work. See [below](#emails-about-work). |
 | **Slides** | Who the report is for, your own logo, and a client’s PowerPoint template to make the slides in. See [below](#your-own-slides). |

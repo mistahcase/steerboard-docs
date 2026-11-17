@@ -51,6 +51,19 @@ and the plan as a whole are **At risk** when any agreed work is delayed, and
 - **Late when agreed work is overdue by** more than so many working days.
   Until then, overdue work makes it at risk.
 
+## How a project tracks its work
+
+**Tracking** also has a tick for each of these, for the whole project and
+everyone on it:
+
+| Tick | What it does |
+|---|---|
+| **Agree dates as work is added** | New work is measured against its dates from the start. Left off, new work starts as a draft until its dates are agreed. |
+| **Track delays** | Work planned to end later than agreed shows in amber. Taken off, nothing is delayed, on the plan or in the report. |
+| **Track overdue work** | Work past its agreed end and not done shows in red, and work finished after it is reported late. Taken off, nothing is overdue. |
+| **Overdue work runs on to today** | An activity that isn't done once its agreed end has passed is drawn on to today. Taken off, it stays where it's planned, and still says it's overdue. |
+| **Work finished late ends where it was finished** | An activity finished after its end is drawn on to that day. Taken off, it keeps its planned length. |
+
 ## Change agreed dates
 
 Agreed dates are never undone by moving the work. When the scope changes,
