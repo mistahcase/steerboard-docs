@@ -65,7 +65,7 @@
         "src/gantt/BoardGrid.tsx",
         "src/gantt/useBoardZoom.ts"
       ],
-      "reviewed": "1b1ca5a087c041c6a17d0aa467eb6da35d947f34"
+      "reviewed": "3c008e43437a14fab07d0f451057fde83eb1156a"
     },
     "plan/items.md": {
       "covers": [
@@ -81,7 +81,7 @@
         "src/gantt/drag.ts",
         "src/gantt/boardMenu.tsx"
       ],
-      "reviewed": "1b1ca5a087c041c6a17d0aa467eb6da35d947f34"
+      "reviewed": "3c008e43437a14fab07d0f451057fde83eb1156a"
     },
     "plan/workstreams.md": {
       "covers": [
@@ -205,7 +205,7 @@
         "src/model/report.ts",
         "src/report/onepager.ts"
       ],
-      "reviewed": "1b1ca5a087c041c6a17d0aa467eb6da35d947f34"
+      "reviewed": "3c008e43437a14fab07d0f451057fde83eb1156a"
     },
     "report/present.md": {
       "covers": [
@@ -257,7 +257,7 @@
         "src/gantt/key.ts",
         "src/gantt/BoardKey.tsx"
       ],
-      "reviewed": "1b1ca5a087c041c6a17d0aa467eb6da35d947f34"
+      "reviewed": "3c008e43437a14fab07d0f451057fde83eb1156a"
     },
     "reference/glossary.md": {
       "covers": []
@@ -271,7 +271,7 @@
         "src/components/SlideSettings.tsx",
         "server/notify.ts"
       ],
-      "reviewed": "c45b5652421aa16e75b772ec8b096f7803c9130f"
+      "reviewed": "3c008e43437a14fab07d0f451057fde83eb1156a"
     }
   }
 }
