@@ -43,8 +43,9 @@ and an invitation to become one until it's accepted or cancelled. Viewers,
 contributors and people who don't sign in are free, so a plan can hold
 everyone it concerns and be kept current by the people doing the work.
 
-The line at the top of the People page says how many seats are used, how many
-people are free, and has **Manage seats**. To see who holds a seat, pick
+The line at the top of the People page says how many seats are used and how
+many people are free. Where the tier has a number of seats, it has
+**Manage seats** too. To see who holds a seat, pick
 **Takes a seat** under **Access**.
 
 - Making a planner a viewer or a contributor, or turning their access off,

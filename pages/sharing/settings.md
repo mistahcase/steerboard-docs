@@ -19,12 +19,19 @@ send you yours. Untick it to get none.
 Enter your current password and a new one of at least 10 characters. You stay
 signed in where you are; other devices are signed out.
 
+## Templates
+
+For planners: the plans your account keeps to start projects from, beside
+Steerboard's four. **Open** one to change it like any plan, or **Delete** it.
+To make one, see
+[Templates of your own](../getting-started/first-project.md#templates-of-your-own).
+
 ## Account (account managers)
 
 | Section | What it does |
 |---|---|
 | **Account name** | Everyone in the account sees it, and so do the people you invite. |
-| **Subscription** | The account's tier and what it holds: its seats (planners and account managers each take one, and so does an invitation to become one), the others who sign in where the tier counts them, and its projects (archived ones count). See [The subscription](#the-subscription). |
+| **Subscription** | The account's tier and what it holds: its seats (planners and account managers each take one, and so does an invitation to become one), viewers and contributors where the tier counts them, and its projects (archived ones count). See [The subscription](#the-subscription). |
 | **Who can add people** | Who may bring in people who sign in: account managers only, planners too as viewers and contributors, or planners at any level. See [People and groups](people.md#who-can-invite). |
 | **Links without signing in** | Whether a project's owner can turn on a view-only link to its status report: see [Sharing a project](sharing.md#a-link-that-opens-without-signing-in). Untick **Projects can have a view-only link** and no project can turn one on, and links that were on stop opening until it's ticked again. |
 | **Account owner** | Whose the account is, and **Hand over…** for handing it to another account manager. See [People and groups](people.md#the-account-owner). |

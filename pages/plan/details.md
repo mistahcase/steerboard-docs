@@ -20,16 +20,16 @@ agreed before it can start. Agreed work has its status there (**Planned**,
 | Name | Click the title to rename it. |
 | **Starts** and **Ends** | The planned dates. Typing a start after the end moves the whole item there, keeping its length. A weekend date moves to the next working day. |
 | **Length** | In working days; − and + change it. |
-| **Workstream** | Moves the item to a row in another workstream. |
-| **Work package** | Puts the item in a work package, or takes it out of one. It moves onto the package's rows, or off them. |
+| **Agreed dates** | For agreed work: the agreed and planned dates, and how it's tracking. **Change agreed dates…** for a change of scope. |
 | **Owner** | Who does it, picked from the project's team. A work package's owner is its lead. For someone who isn't on the team yet, choose **Someone not on the team…** at the end of the list: it opens the project's [people](../sharing/sharing.md#add-people) to add them. |
 | **Time on this** | How much of the owner's week it takes: full time, 3 days a week, a day a week, and so on (in shares of the week when the project's [working days](holidays.md) aren't five). |
-| **Agreed dates** | For agreed work: the agreed and planned dates, and how it's tracking. **Change agreed dates…** for a change of scope. |
-| **Completed on** | For finished work: the day it was finished, which can be corrected. |
+| **Workstream** | Moves the item to a row in another workstream. |
+| **Work package** | Puts the item in a work package, or takes it out of one. It moves onto the package's rows, or off them. |
+| **Completed on** | For finished work, above its dates: the day it was finished, which can be corrected. |
 | Starts after, Followed by | Its [links](links.md), with **Add** and ×. |
-| **What this depends on** | On a milestone, under its name: lights up the linked work leading to it, and lists the steps with the room each has. See [What a milestone depends on](links.md#what-a-milestone-depends-on). |
-| Notes | Anything worth keeping with the work. |
+| **What this depends on** | On a milestone, under its links: lights up the linked work leading to it, and lists the steps with the room each has. See [What a milestone depends on](links.md#what-a-milestone-depends-on). |
 | Updates | A few words on where it stands and why, each kept with your name and the day. See [Updates](#updates). |
+| Notes | Anything worth keeping with the work. |
 | History | Changes to its agreed dates, with reasons, and corrected completion days. |
 
 ## Updates
