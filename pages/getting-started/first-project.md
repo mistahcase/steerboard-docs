@@ -28,18 +28,28 @@ shared with them. See [People and groups](../sharing/people.md#access).)
 Under **Start from**, choose what the plan begins with:
 
 - **Blank**: an empty plan.
-- **Template**: one of four plans to reshape. A consulting engagement, a system
-  roll-out, a sourcing project (a tender), or a programme with steering
-  committees. Each says what it's for, how much is in it and how many weeks it
-  runs.
+- **Template**: one of your account's own templates, or one of Steerboard's
+  four plans to reshape. A consulting engagement, a system roll-out, a sourcing
+  project (a tender), or a programme with steering committees. Each says what
+  it's for, how much is in it and how many weeks it runs.
 - **A copy**: one of your own projects. With **Start it afresh** ticked, the
   new project has that plan's workstreams, work, people and links, and
   nothing of what happened: everything is a draft again, with no progress,
   agreed dates or history. Unticked, it's a copy as it stands.
 
-Copying a project is part of some tiers. On a tier without it, **A copy** and
-**Make a copy** say it isn't part of the subscription. The templates are on
-every tier.
+Copying a project is part of some tiers, and so are templates of your own. On
+a tier without it, **A copy**, **Make a copy** and **Save as a template** say
+it isn't part of the subscription. Steerboard's four templates are on every
+tier.
+
+### Templates of your own
+
+To keep a plan to start projects from, open a project's menu (the three dots)
+on Projects and choose **Save as a template**. The template has that plan's
+workstreams, work, people and links, and nothing of what happened in it. It
+isn't one of your projects: it's listed in **Settings** under **Templates**.
+**Open** it there to change it like any plan, or **Delete** it. The next
+**New project** offers it under **Template**.
 
 A template and a fresh copy need a start date. Pick any day under **Starts in the week
 of**: the plan starts on that week's Monday, and everything arrives as a
@@ -52,7 +62,7 @@ everyone in it to edit.)
 
 Choose **Create project** and the plan opens.
 
-The first time you open an empty plan, a small card at the bottom left of the
+The first time you open an empty plan, a small card at the bottom right of the
 board lists three first steps: add an activity, draw one to size, and find the
 rest with a right-click. Each is ticked once you've done it. When all three
 are, the card goes; its × puts it away sooner.
@@ -60,7 +70,17 @@ are, the card goes; its × puts it away sooner.
 ## Find, archive and delete projects
 
 The tabs above the cards are **Active**, **Archived** and **Recently deleted**.
-Use the search box to find a project or a group.
+Use the search box to find a project or a programme. A press anywhere on a
+card opens its project.
+
+### Programmes
+
+A programme is a group of projects that belong together. To put a project in
+one, open its menu (the three dots) and choose **Programme…**, then pick a
+programme or type a new name. Its owners can. The cards are then listed a
+programme at a time, each under its name, and the choice beside the search box
+shows one programme's projects, as cards, a table or a timeline. A programme
+is there for as long as a project carries its name.
 
 With more than a handful of projects, choose **Table** beside those tabs. Each
 project is then a line: its status, how much is done, its next milestone, its
@@ -81,8 +101,8 @@ they say so in place of the projects, and **Cards** shows them.
 
 ![The projects on a timeline](../img/programme.png)
 
-Each card's menu (the three dots) holds the rest: make a copy, download the
-project as a file, archive it when the work is over, or delete it. A deleted
+Each card's menu (the three dots) holds the rest: make a copy, save it as a
+template, download the project as a file, archive it when the work is over, or delete it. A deleted
 project can be restored from **Recently deleted** for 30 days.
 
 An account keeps as many projects as its tier has room for, archived ones

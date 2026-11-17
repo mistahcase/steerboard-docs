@@ -1,16 +1,19 @@
 # The report
 
 **Report** is the status report, written from the plan. It covers the period
-since the last report was issued (the last 7 days at first) and looks ahead to
-the next one. It's worked out from the plan: change the plan and the report
-changes with it. What the plan can't say for itself, you write on it: see
-[Your words](#your-words).
+since the last report was issued (the last 7 days at first) and looks ahead as
+far again, unless you [set its period](#the-period). It's worked out from the
+plan: change the plan and the report changes with it. What the plan can't say
+for itself, you write on it: see [Your words](#your-words).
+
+It has three parts, each under its heading: **Overview**, **Commentary** and
+**In detail**.
 
 ![The report](../img/report.png)
 
 ## The status on one page
 
-The report opens with the page a status meeting starts from:
+**Overview** is the page a status meeting starts from:
 
 - **Facts** across the top: the overall status in a few words and one
   sentence, progress, the next milestone and the finish, each against what was
@@ -26,7 +29,7 @@ Long lists show the first few and say how many more there are.
 
 ## Your words
 
-Under the status, anyone who can edit the plan writes what the plan can't say.
+Under **Commentary**, anyone who can edit the plan writes what the plan can't say.
 Each is one line: type it where it stands, and it's kept when you leave the
 field. Empty a line, or press its ×, to take it out.
 
@@ -43,9 +46,9 @@ Viewers and contributors read them.
 ## The detail
 
 Then, in full: the workstreams; work completed this period, on time or late;
-overdue work with its owner; work that is delayed but isn't due yet; agreed
-work due next period; and upcoming drafts, labelled as not agreed yet. Drafts
-never appear as delays.
+overdue work; work that is delayed but isn't due yet; agreed work due next
+period; and upcoming drafts, labelled as not agreed yet. Every list of work
+says whose it is, under **Owner**. Drafts never appear as delays.
 
 Where someone has written an [update](../plan/details.md#updates) on work
 that's overdue or delayed, the latest one is beside it, with who wrote it and
@@ -105,11 +108,27 @@ A kept report never changes, whatever happens to the plan afterwards. Undoing
 an issue reopens the period and leaves the report in the list. A copy of a
 project starts with none.
 
-## Only some workstreams
+## The period
 
-The workstream filter beside the report's actions narrows the report, and its
-slides, to the workstreams you pick. See
+**Period**, in the report's toolbar, sets what the report covers. Those who
+can edit the plan change it, and it's the same for everyone on the project
+and on the slides.
+
+- **Looks back**: since the last report, or 1, 2 or 4 weeks.
+- **Looks ahead**: as far as it looks back, 1, 2 or 4 weeks, or to a milestone
+  that's still to come. When that milestone moves, the period moves with it.
+
+The panel says which days the two periods come to today.
+
+## Only some of the work
+
+The filter beside the report's actions narrows the report, and its slides, to
+the workstreams you pick. See
 [Workstreams and work packages](../plan/workstreams.md).
+
+**Changed since**, in the same filter, shows only the work that changed since
+the last report, or since 1, 2 or 4 weeks ago. It's for looking: a report you
+issue is always the whole of it.
 
 ## Next
 
