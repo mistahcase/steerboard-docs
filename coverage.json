@@ -229,7 +229,7 @@
         "server/links.ts",
         "server/sharing.ts"
       ],
-      "reviewed": "f48388efbbe1bee3541150d367f5f35312a8e5f1"
+      "reviewed": "2fb8aa3247b4a84081764ccec9e45c7420c9fc8c"
     },
     "sharing/people.md": {
       "covers": [
@@ -240,7 +240,7 @@
         "server/team.ts",
         "server/people.ts"
       ],
-      "reviewed": "4992dea44395b00a2e6db3d997e8af2ace3c2a5e"
+      "reviewed": "2fb8aa3247b4a84081764ccec9e45c7420c9fc8c"
     },
     "sharing/settings.md": {
       "covers": [
@@ -258,7 +258,7 @@
         "src/gantt/key.ts",
         "src/gantt/BoardKey.tsx"
       ],
-      "reviewed": "4992dea44395b00a2e6db3d997e8af2ace3c2a5e"
+      "reviewed": "2fb8aa3247b4a84081764ccec9e45c7420c9fc8c"
     },
     "reference/glossary.md": {
       "covers": []
