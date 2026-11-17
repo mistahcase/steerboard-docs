@@ -92,7 +92,7 @@
         "src/gantt/SectionColumn.tsx",
         "src/gantt/boardMenu.tsx"
       ],
-      "reviewed": "83e6ea023ee1248da7f6d3f6bb918353a6490548"
+      "reviewed": "4992dea44395b00a2e6db3d997e8af2ace3c2a5e"
     },
     "plan/links.md": {
       "covers": [
@@ -103,7 +103,7 @@
         "src/components/LinkPicker.tsx",
         "src/gantt/useLinkPicking.ts"
       ],
-      "reviewed": "9ae24dd24079d6e9e1dc6ac8bccdde5bc1db1966"
+      "reviewed": "4992dea44395b00a2e6db3d997e8af2ace3c2a5e"
     },
     "plan/progress.md": {
       "covers": [
@@ -111,7 +111,7 @@
         "src/model/items.ts",
         "src/components/Inspector.tsx"
       ],
-      "reviewed": "1b1ca5a087c041c6a17d0aa467eb6da35d947f34"
+      "reviewed": "4992dea44395b00a2e6db3d997e8af2ace3c2a5e"
     },
     "plan/agreed-dates.md": {
       "covers": [
@@ -129,7 +129,7 @@
         "src/components/SelectionPanel.tsx",
         "src/components/OwnerField.tsx"
       ],
-      "reviewed": "1b1ca5a087c041c6a17d0aa467eb6da35d947f34"
+      "reviewed": "4992dea44395b00a2e6db3d997e8af2ace3c2a5e"
     },
     "plan/holidays.md": {
       "covers": [
@@ -149,7 +149,7 @@
         "src/App.tsx",
         "src/gantt/itemKeys.ts"
       ],
-      "reviewed": "83e6ea023ee1248da7f6d3f6bb918353a6490548"
+      "reviewed": "4992dea44395b00a2e6db3d997e8af2ace3c2a5e"
     },
     "plan/changes.md": {
       "covers": [
@@ -189,7 +189,8 @@
         "src/components/PeoplePage.tsx",
         "src/components/WorkloadCard.tsx",
         "src/model/workload.ts"
-      ]
+      ],
+      "reviewed": "4992dea44395b00a2e6db3d997e8af2ace3c2a5e"
     },
     "report/index.md": {
       "covers": [
@@ -239,7 +240,7 @@
         "server/team.ts",
         "server/people.ts"
       ],
-      "reviewed": "f48388efbbe1bee3541150d367f5f35312a8e5f1"
+      "reviewed": "4992dea44395b00a2e6db3d997e8af2ace3c2a5e"
     },
     "sharing/settings.md": {
       "covers": [
@@ -247,7 +248,7 @@
         "src/components/AccountCards.tsx",
         "src/components/SubscriptionCard.tsx"
       ],
-      "reviewed": "275cfcacac0d117cbcfbd2cf8727f4f05daa0ab4"
+      "reviewed": "4992dea44395b00a2e6db3d997e8af2ace3c2a5e"
     },
     "reference/marks.md": {
       "covers": [
@@ -257,7 +258,7 @@
         "src/gantt/key.ts",
         "src/gantt/BoardKey.tsx"
       ],
-      "reviewed": "3c008e43437a14fab07d0f451057fde83eb1156a"
+      "reviewed": "4992dea44395b00a2e6db3d997e8af2ace3c2a5e"
     },
     "reference/glossary.md": {
       "covers": []
@@ -271,7 +272,7 @@
         "src/components/SlideSettings.tsx",
         "server/notify.ts"
       ],
-      "reviewed": "3c008e43437a14fab07d0f451057fde83eb1156a"
+      "reviewed": "4992dea44395b00a2e6db3d997e8af2ace3c2a5e"
     }
   }
 }
