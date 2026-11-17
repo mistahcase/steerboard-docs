@@ -42,11 +42,11 @@ under **See the tiers**.
 
 Every tier has the plan, the list and the cards, agreed dates and delays, the
 status report and presentation mode. A tier says how many seats the account
-has. The tier that costs nothing also counts the others who sign in and keeps
+has. The tier that costs nothing also counts viewers and contributors and keeps
 them to the account's email domain, and it counts projects. A tier also says
 which of these the account has: issuing reports (each one kept, with a link to
 share it and a PDF), your own logo and a client's template on the slides,
-emails about work and reports, the Workload screen, copying a project, what
+emails about work and reports, the Workload view, copying a project, what
 changed since the last report, project owners inviting people, every project
 on one timeline and as a table, single sign-on, the audit log, and the
 account's data as a file.

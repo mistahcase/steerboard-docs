@@ -43,10 +43,13 @@ A new line is a draft. An activity is five working days long, starting today
 or on the next working day. It goes in the workstream of the line above it, or
 in the workstream the filter shows.
 
-## Paste from Excel
+## Import from Excel, and export
 
-Copy rows in Excel (or any table) and paste them onto the list, or choose
-**Paste rows…** and paste them in the box. Nothing is added yet: you see what
+**Export**, at the top of the list, downloads the lines as they're shown as a
+file Excel opens. Change it there and bring it back with **Import…**.
+
+To bring rows in, copy them in Excel (or any table) and paste them onto the
+list, or choose **Import…** and paste them in the box. Nothing is added yet: you see what
 each row will become first, then choose the button that adds them. One undo
 takes them all back.
 

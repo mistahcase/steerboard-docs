@@ -1,6 +1,6 @@
-# A tour of the screens
+# A tour of the views
 
-A project has five screens, in the bar at the top: **Plan**, **List**,
+A project has five views, in the bar at the top: **Plan**, **List**,
 **Cards**, **Workload** and **Report**. They all show the same plan. Change something in
 one and it has changed in all of them, for everyone with the project open.
 
@@ -13,7 +13,7 @@ From left to right:
 
 - **Steerboard** and the group that owns the project. The logo takes you back
   to your projects.
-- The five screens.
+- The five views.
 - The save state. Changes save as you make them, so it normally says
   **All changes saved**.
 - The avatars of anyone else who has the project open right now.
@@ -23,7 +23,7 @@ From left to right:
 - **Feedback** (the speech bubble), to tell us what doesn't work or what you'd
   like, without leaving your work. See [Feedback](feedback.md).
 - Help (the question mark), a menu: **Docs for this page** opens these docs in
-  a new window at the page for the screen you're on, **Keyboard shortcuts**
+  a new window at the page for the view you're on, **Keyboard shortcuts**
   lists them (so does pressing <kbd>?</kbd>), **What’s new** opens
   [what has changed](../whats-new.md), and **Send feedback** opens the
   feedback box.
@@ -33,7 +33,7 @@ From left to right:
   account menu has **Docs** too.
 
 Under it, the toolbar holds the plan's name, its status in a few words, and
-the tools for the screen you're on.
+the tools for the view you're on.
 
 On a phone held upright the bar keeps the logo, the bell, **Feedback** and
 your account menu, which has **Projects**, **My work**, **People** (for
@@ -60,7 +60,7 @@ directly, and pull a box across free space to select several at once. See [The b
 ## Cards
 
 The same work as cards in four columns: **Draft**, **Planned**,
-**In progress** and **Done**. It's the screen for running the week's work. See
+**In progress** and **Done**. It's the view for running the week's work. See
 [Cards](../cards.md).
 
 ![The cards](../img/cards.png)
@@ -83,5 +83,5 @@ detail. Present it full screen or download it as PowerPoint slides. See
 
 ## Links keep what's on screen
 
-A project's address says which screen, lanes and item are showing, so a link
+A project's address says which view, lanes and item are showing, so a link
 you send or a page you reload opens where you were.

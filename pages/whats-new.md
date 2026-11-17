@@ -11,11 +11,11 @@ player, **The tour in words** has all of it to read.
 **More tools to the side on a phone.** The plan's tools are one row you swipe
 sideways. The row now fades at the edge where there's more.
 
-**Each tab says where it is.** The browser's tab is named after the screen and
+**Each tab says where it is.** The browser's tab is named after the view and
 the project that's open, so several Steerboard tabs can be told apart.
 
 **Easier with a screen reader or a contrast theme.** Buttons, activities and
-cards are named by what they show, each screen has a heading, and the plan
+cards are named by what they show, each view has a heading, and the plan
 keeps its colours in a Windows contrast theme.
 
 **Dialogs and menus are the browser's own.** They look as they did. A dialog
@@ -35,9 +35,9 @@ own menu, the arrows move between the items and Escape closes the menu. And if
 you type in Japanese, Chinese or Korean, Enter no longer saves a field while
 you're still choosing a word.
 
-**The logo is whole on every screen.** On a phone the header read "Steerboa",
+**The logo is whole on every view.** On a phone the header read "Steerboa",
 and on a tablet less. The mark and the name are one drawing now, and the bar
-makes room for it: on a tablet a project's screens take a line of their own
+makes room for it: on a tablet a project's views take a line of their own
 under the bar, and on a phone **Send feedback** is in your account menu.
 
 **Nothing cut short on a phone, a tablet or a laptop.** A workstream's menu
@@ -58,7 +58,7 @@ nothing is charged.
 and keeps no room for the names beside them, so the plan is drawn bigger, most
 of all on a phone. A name beside the last item can run off the edge.
 
-**One rule for corners.** Everything on a project's screens is square now: the
+**One rule for corners.** Everything on a project's views is square now: the
 plan, the list, the cards, the workload and the report, with the buttons and
 fields that sit on them. The bars at the top, an item's details, menus, dialogs
 and settings are slightly round, all by the same amount. Before, corners came
@@ -111,7 +111,7 @@ slides right after the status summary. See
 [Your words](report/index.md#your-words).
 
 **Issued reports are kept.** Each report you issue is kept as it was. **Past
-reports**, on the Report screen, lists them with how the status and the finish
+reports**, on the Report view, lists them with how the status and the finish
 have moved, and opens any of them to read, present and download again. See
 [Past reports](report/index.md#past-reports).
 
@@ -137,7 +137,7 @@ that need you. A project's status there is now how it stands today. See
 **For you.** The bell in the bar at the top lists what Steerboard has to tell
 you: work given to you, updates that name you, your work that's overdue, and
 reports that are due. It works whether or not a project sends email. See
-[A tour of the screens](getting-started/tour.md#the-bar-at-the-top).
+[A tour of the views](getting-started/tour.md#the-bar-at-the-top).
 
 **Updates on a piece of work.** Under an item's notes you can now write dated
 updates: where it stands and why. The latest one goes beside the item in the
@@ -184,7 +184,7 @@ done; the rest fades where it is. See
 **Owners**: each item's owner follows its name as initials, and the report's
 plan slide does the same. See [names](plan/items.md#names).
 
-**A year or two on one screen.** The time scale has a fourth setting,
+**A year or two on one view.** The time scale has a fourth setting,
 **Quarters**. And **Fit**, beside it, picks the scale and the size at which
 the whole plan shows. The size slider is now under **Show**. See
 [The board](plan/board.md#fit-and-size).
@@ -201,7 +201,7 @@ action), and work planned later than agreed is **Delayed** everywhere (the
 report said slipped).
 
 **Help in one place.** The question mark at the top is now a menu: the docs
-for the screen you're on, the keyboard shortcuts (press <kbd>?</kbd> anywhere),
+for the view you're on, the keyboard shortcuts (press <kbd>?</kbd> anywhere),
 this page, and feedback. A new, empty plan shows three first steps at the
 bottom left of the board.
 

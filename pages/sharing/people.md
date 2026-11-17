@@ -52,7 +52,7 @@ people are free, and has **Manage seats**. To see who holds a seat, pick
 - With no seat free, nobody can be made a planner or an account manager until
   one is. Nobody loses a level they already have.
 
-The tier that costs nothing also counts the others who sign in. There's room
+The tier that costs nothing also counts viewers and contributors. There's room
 for three, each with an address on the same email domain as the account's
 owner. People who don't sign in aren't counted. See
 [The subscription](settings.md#the-subscription).

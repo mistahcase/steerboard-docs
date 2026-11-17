@@ -24,7 +24,7 @@ choose **Keyboard shortcuts** under the question mark at the top.
 | <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>Z</kbd> | Redo. |
 | <kbd>Ctrl</kbd>+<kbd>+</kbd> <kbd>−</kbd> <kbd>0</kbd> | Zoom in, out, or back to 100%. |
 
-## Screens
+## Views
 
 | Keys | What they do |
 |---|---|
@@ -62,7 +62,7 @@ On a Mac, use <kbd>Cmd</kbd> where this page says <kbd>Ctrl</kbd>.
 
 ## Screen readers and contrast themes
 
-Every screen has a heading, and the browser's tab is named after the screen
+Every view has a heading, and the browser's tab is named after the view
 and the project that's open. An activity or a milestone on the board is read
 as its name, its dates and how it stands.
 

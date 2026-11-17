@@ -5,17 +5,16 @@ as your firm, the client and a vendor. **Workload** shows the team and what
 each person is working on. On a tier without it, the tab says it isn't part of
 the subscription.
 
-![The Workload screen](img/workload.png)
+![The Workload view](img/workload.png)
 
 ## The team
 
-The team list on the left sorts people under their groups. Each group has a
-colour that tints its people's initials everywhere in the project. A group
-outside the delivery team (the client, a vendor) carries a small
-**Waiting on** tag.
+Everyone on the team has a card. To see one person's work, open **Filter** at
+the top and choose them under **Whose work**. Each group has a colour that
+tints its people's initials everywhere in the project.
 
-This screen is for following the work. To change who is on the team, their
-job on the project or their days a week, choose **Manage…** above the list. It
+This view is for following the work. To change who is on the team, their
+job on the project or their days a week, choose **Manage…** at the top. It
 opens **Project settings** at **People**: see
 [Sharing a project](sharing/sharing.md).
 

@@ -11,7 +11,7 @@ us from where you are, without leaving your work.
 2. Pick what it's about: **A problem**, **An idea** or **Other**.
 3. Write it down and choose **Send**, or press <kbd>Ctrl</kbd>+<kbd>Enter</kbd>.
 
-Where you are in the app goes with it: the page, the screen, the project and
+Where you are in the app goes with it: the page, the view, the project and
 your browser. You don't need to explain where you were, only what happened or
 what you'd like.
 

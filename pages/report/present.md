@@ -8,7 +8,7 @@ PowerPoint file you can edit.
 
 ## Present
 
-Choose **Present** on the **Report** screen. Move with the arrow keys,
+Choose **Present** on the **Report** view. Move with the arrow keys,
 <kbd>Page Up</kbd> and <kbd>Page Down</kbd>, <kbd>Space</kbd>, or a click.
 <kbd>Escape</kbd> leaves.
 

@@ -23,9 +23,9 @@ top, and no work is counted on them.
 
 ### Add one
 
-- Right-click the time scale, or an empty part of the board, and choose
-  **New holiday…**. It starts on the day you clicked and runs a week; change
-  its name and dates there.
+- Right-click the dates at the top of the board and choose **New holiday…**.
+  It starts on the day you clicked and runs a week; change its name and dates
+  there.
 - Or open [Project settings](../project-settings.md) (**Settings**, beside
   **Share**), choose **Calendar** and **Add holiday**.
 

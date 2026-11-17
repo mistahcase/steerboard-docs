@@ -12,7 +12,7 @@ A new account starts with two projects already there:
   too.
 - **Website relaunch**, a small sample plan with workstreams, links and a launch.
 
-Use them to see what each screen does before you build your
+Use them to see what each view does before you build your
 own plan. They're yours to change, and to delete when you're done with them.
 
 ![The projects page](../img/projects.png)
@@ -91,4 +91,4 @@ need makes room. See [The subscription](../sharing/settings.md#the-subscription)
 
 ## Next
 
-[A tour of the screens](tour.md)
+[A tour of the views](tour.md)

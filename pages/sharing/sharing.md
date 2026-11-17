@@ -26,8 +26,8 @@ on the team: a sponsor who only reads the report. The table lists them under
 |---|---|
 | Owner | Everything, including who has access, and archiving and deleting the project. |
 | Editor | Change the plan, the team and the report. |
-| Contributor | See every screen, and say how their own work is going. See [below](#contributors). |
-| Viewer | See every screen, present the report and download slides, without changing anything. |
+| Contributor | See every view, and say how their own work is going. See [below](#contributors). |
+| Viewer | See every view, present the report and download slides, without changing anything. |
 
 Account managers, and the admins of the group that owns a project, can always
 manage it.
@@ -85,7 +85,8 @@ Anyone who can edit the project changes the team:
 |---|---|
 | Change someone's job on this project | Type in **Job on this project**. It starts as their job on the People page. |
 | Change how much time they have for it | Pick their **Days a week**. |
-| Take someone off the team | Choose their three dots, then **Take off the team**. Their work stays, without an owner. |
+| Take someone off the team | Choose their three dots, then **Take off the team**. Their work stays, without an owner, and they can still open the project. |
+| Remove someone from the project | Choose their three dots, then **Remove from the project**. They're off the team and, if you own the project, their access by name goes too. |
 | Put someone who follows on the team | Choose their three dots, then **Put on the team**. |
 
 The project's owners change access, under **Access here**: pick a role, or

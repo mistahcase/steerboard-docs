@@ -54,7 +54,7 @@ the next one ahead.
 subscription. Viewers, contributors and people who don't sign in take none.
 
 **Status report.** The report on how the project stands, written from the
-plan: the **Report** screen, its slides, and each report you issue.
+plan: the **Report** view, its slides, and each report you issue.
 
 **Subscription.** What the account has with Steerboard: its tier, and the
 seats it pays for. In Settings: **Subscription**.

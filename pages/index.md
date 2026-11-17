@@ -11,7 +11,7 @@ the status report is written from the plan.
 These pages explain how to use it. If you're new, start with
 [Create an account](getting-started/account.md) and
 [Your first project](getting-started/first-project.md), then take
-[a tour of the screens](getting-started/tour.md).
+[a tour of the views](getting-started/tour.md).
 
 ![The plan board of a demo engagement](img/plan.png)
 
@@ -21,7 +21,7 @@ These pages explain how to use it. If you're new, start with
 |---|---|
 | Start using Steerboard | [Create an account](getting-started/account.md) |
 | Make a project, blank or from the demo | [Your first project](getting-started/first-project.md) |
-| Find your way around a project | [A tour of the screens](getting-started/tour.md) |
+| Find your way around a project | [A tour of the views](getting-started/tour.md) |
 | Draw and change the plan | [The board](plan/board.md) and [Activities and milestones](plan/items.md) |
 | Line the plan off into workstreams | [Workstreams and groups](plan/workstreams.md) |
 | Make one piece of work wait for another | [Links between work](plan/links.md) |
