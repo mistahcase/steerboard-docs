@@ -12,23 +12,25 @@ own work stands and write its notes. Editors and owners change everything.
 
 ![The details panel](../img/plan-details.png)
 
-Under the name, first, is where it stands: **Draft**, **Planned**,
-**In progress** or **Done**, how it's tracking (late or delayed, with by how
-much), and what's next. A draft has its **Agree** button there: it must be
-agreed before it can start. Agreed work has its status there (**Planned**,
-**In progress** or **Done**) and a progress slider, in steps of 10%.
+Under the name, first, is where it stands, with each thing said once. Agreed
+work has one line for how it stands against its agreed dates: on plan, so
+many days early, delayed or overdue, and once it's finished, whether that was
+on time. Under that are its status (**Planned**, **In progress** or **Done**)
+and a progress slider, in steps of 10%. A draft says **Draft** and has its
+**Agree** button there: it must be agreed before it can start.
 
 | Field | What it does |
 |---|---|
 | Name | Click the title to rename it. |
 | **Starts** and **Ends** | Under **Dates**: the planned dates. Typing a start after the end moves the whole item there, keeping its length. A weekend date moves to the next working day. |
 | **Length** | In working days; − and + change it. |
-| **Agreed dates** | For agreed work: the agreed and planned dates, and how it's tracking. **Change agreed dates…** for a change of scope. |
+| **Completed on** | For finished work, under **Dates**: the day it was finished, which can be corrected. |
+| **Agreed** | For agreed work, under **Dates**: the dates agreed, and the day they were agreed. **Change agreed dates…** for a change of scope. A work package says how much of what's inside is agreed. |
 | **Owner** | Who does it, picked from the project's team. A work package's owner is its lead. For someone who isn't on the team yet, choose **Someone not on the team…** at the end of the list: it opens the project's [people](../sharing/sharing.md#add-people) to add them. |
 | **Time on this** | How much of the owner's week it takes: full time, 3 days a week, a day a week, and so on (in shares of the week when the project's [working days](holidays.md) aren't five). |
 | **Workstream** | Moves the item to a row in another workstream. |
 | **Work package** | Puts the item in a work package, or takes it out of one. It moves onto the package's rows, or off them. |
-| **Completed on** | For finished work, above its dates: the day it was finished, which can be corrected. |
+
 | Starts after, Followed by | Its [links](links.md), with **Add** and ×. |
 | **What this depends on** | On a milestone, under its links: lights up the linked work leading to it, and lists the steps with the room each has. See [What a milestone depends on](links.md#what-a-milestone-depends-on). |
 | Updates | A few words on where it stands and why, each kept with your name and the day. See [Updates](#updates). |

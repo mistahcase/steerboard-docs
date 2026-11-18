@@ -4,6 +4,12 @@ What has changed in Steerboard, newest first.
 
 ## November 2026
 
+**The details say each thing once.** The top of an item's details no longer
+repeats itself. One line says how it stands against its agreed dates, the
+status choice is its stage, and **Dates** holds the dates as planned, the day
+it was finished and the dates agreed. The sentences of explanation in the
+panel are gone too: the docs have them.
+
 **Seats, said straight.** People's seats line no longer has a link that leads
 nowhere. **See who has a seat** lists them where a seat is freed, and a way
 to more seats is there only where your account can take one.
