@@ -18,7 +18,7 @@ choose **Keyboard shortcuts** under the question mark at the top.
 | <kbd>Shift</kbd>+<kbd>Tab</kbd> on a selected item | Take it out one level. |
 | <kbd>Enter</kbd> | Rename it. |
 | <kbd>Delete</kbd> | Delete it. With several selected, all of them. |
-| <kbd>Escape</kbd> | Cancel a drag, deselect, or close the details panel. |
+| <kbd>Escape</kbd> | Cancel a drag, deselect, or close the details panel (on any view). |
 | <kbd>Ctrl</kbd>+<kbd>F</kbd> | Find an item by name, and go to it. |
 | <kbd>Ctrl</kbd>+<kbd>Z</kbd> | Undo. |
 | <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>Z</kbd> | Redo. |

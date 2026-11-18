@@ -30,11 +30,14 @@ them. Moving an item to another row, or writing in its notes, doesn't count.
 
 ## See it on the plan
 
-**Show on the plan** closes the list and draws a faint dashed outline where
-each moved item was, on its row. The button stays pressed while the outlines
-are there; open the list again and choose **Stop showing on the plan** to take
-them away. The outlines are only a way of looking: they aren't saved, nobody
-else sees them, and they aren't on the slides.
+**Show on the plan** closes the list, brings the first thing that changed
+into view and fades the rest. Each moved item has a dashed outline where it
+was, on its row, in its own shape, with a line from where it was to where it
+is; an activity that only got longer or shorter has the line under it, from
+its old end to its new one. A chip in the toolbar says the plan shows what
+changed since when: its × takes the outlines away, and so does **Stop showing
+on the plan** in the list. The outlines are only a way of looking: they
+aren't saved, nobody else sees them, and they aren't on the slides.
 
 ## How far back it goes
 

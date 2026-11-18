@@ -22,8 +22,9 @@ signed in where you are; other devices are signed out.
 ## Templates
 
 For planners: the plans your account keeps to start projects from, beside
-Steerboard's four. **Open** one to change it like any plan, or **Delete** it.
-To make one, see
+Steerboard's four. Choose a project under **Make a template from** and then
+**Save as a template** to make one; **Open** one to change it like any plan,
+or **Delete** it. See
 [Templates of your own](../getting-started/first-project.md#templates-of-your-own).
 
 ## Account (account managers)
@@ -69,7 +70,9 @@ counted.
 Steerboard is in early access for now. Every account has all of it and nothing
 is charged, within 100 seats, 1,000 people, 20 projects and 1,000 items on a
 project. **Subscription** says so, and shows where the account stands under
-**Seats taken**, **Projects** and **People**.
+**Seats taken**, **Projects** and **People**. The number of seats can't be
+changed while early access lasts; **See who has a seat** opens People with
+the people who hold one, which is where a seat is freed.
 
 When something would go past a limit, Steerboard says so and doesn't do it:
 the invitation isn't sent, the project isn't created, or the change to the
@@ -98,7 +101,9 @@ After that:
   paying. Stripe works out the difference for the time left.
 - **Paid seats** and **Change seats** add seats or give some back, never
   fewer than are taken.
-- **Invoices and payment** opens Stripe's page for your invoices, your card,
+- Your last payments are listed under the buttons: the day, the amount,
+  whether it went through, and **Invoice**, which opens that invoice.
+- **Invoices and payment** opens Stripe's page for every invoice, your card,
   and your company's address and tax number.
 - **Cancel the subscription** is among the tiers, under the one that costs
   nothing. The subscription runs to the end of what's paid for. Until then

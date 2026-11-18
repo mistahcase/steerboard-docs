@@ -4,6 +4,25 @@ What has changed in Steerboard, newest first.
 
 ## November 2026
 
+**Seats, said straight.** People's seats line no longer has a link that leads
+nowhere. **See who has a seat** lists them where a seat is freed, and a way
+to more seats is there only where your account can take one.
+
+**What changed, easier to find.** **Show on the plan** brings what changed
+into view, with a chip in the toolbar to step out. An activity that got
+longer shows the shape it had, and a line to where it ends now.
+
+**Programmes, as one thing.** Pick a programme from a list, rename it for all
+its projects, start a new project in it, and see the table and the timeline a
+programme at a time.
+
+**Share, with a message.** **Share** sends your words with it, and the link
+opens the view you were on. Who has access can be changed right there.
+
+**Smaller things.** **Import…** takes a CSV file as well as a paste. The
+report's **Period** can look back from a milestone or a date. A template can
+be made in **Settings**. A paying account sees its last payments there too.
+
 **Details where you are.** A name on Workload or in the report now opens
 that item's details beside it, where it used to take you to the plan. The
 panel itself reads more evenly: each part's name is in bold, what you change
@@ -236,7 +255,7 @@ report said slipped).
 **Help in one place.** The question mark at the top is now a menu: the docs
 for the view you're on, the keyboard shortcuts (press <kbd>?</kbd> anywhere),
 this page, and feedback. A new, empty plan shows three first steps at the
-bottom left of the board.
+bottom right of the board.
 
 **Smaller things.** The button for a project's settings says **Settings**.
 The **Today** button keeps its name on a laptop. Rows that aren't in a

@@ -2,10 +2,17 @@
 
 To share a project with someone, choose **Share** in the bar at the top (its
 owners have it). Type a name from your account or anyone's email address,
-choose what they may do, and choose **Share**. Someone in your account has the
-project at once and is told by email. Anyone else is invited to your account
-first. Under that, the dialog lists who has access, and **Copy a link to this
-view** copies the address of the view you're on, for people who have access.
+choose what they may do, add a message if you like, and choose **Share**.
+Someone in your account has the project at once and is told by email, with
+your message. Their link opens the view you're on, at the item whose details
+are open, unless you untick that. Anyone else is invited to your account
+first.
+
+Under that, the dialog lists who has access. Change what someone may do from
+the choice beside their name, where **Remove from the project** takes it away
+from them, and **Withdraw** an invitation that's still waiting. **Copy a link
+to this view** copies the address of the view you're on, for people who have
+access.
 
 A project's people are also in one place: who is on its team, and who can open
 it. Choose **Manage people and access…** in that dialog, or **Project

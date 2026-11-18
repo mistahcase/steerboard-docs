@@ -118,8 +118,9 @@ project starts with none.
 can edit the plan change it, and it's the same for everyone on the project
 and on the slides.
 
-- **Looks back**: since the last report, or 1, 2 or 4 weeks.
-- **Looks ahead**: as far as it looks back, 1, 2 or 4 weeks, or to a milestone
+- **Looks back**: since the last report, 1, 2 or 4 weeks, since a milestone
+  that has passed, or **Since a date…** with a day you choose.
+- **Looks ahead**: as far as it looks back, 1, 2 or 4 weeks, **To a date…**, or to a milestone
   that's still to come. When that milestone moves, the period moves with it.
 
 The panel says which days the two periods come to today.

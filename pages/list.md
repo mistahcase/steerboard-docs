@@ -46,7 +46,8 @@ in the workstream the filter shows.
 ## Import from Excel, and export
 
 **Export**, at the top of the list, downloads the lines as they're shown as a
-file Excel opens. Change it there and bring it back with **Import…**.
+file Excel opens. Change it there, save it as CSV, and bring it back with
+**Import…** and **Choose a file…**.
 
 To bring rows in, copy them in Excel (or any table) and paste them onto the
 list, or choose **Import…** and paste them in the box. Nothing is added yet: you see what

@@ -77,10 +77,16 @@ card opens its project.
 
 A programme is a group of projects that belong together. To put a project in
 one, open its menu (the three dots) and choose **Programme…**, then pick a
-programme or type a new name. Its owners can. The cards are then listed a
-programme at a time, each under its name, and the choice beside the search box
-shows one programme's projects, as cards, a table or a timeline. A programme
-is there for as long as a project carries its name.
+programme from the list, or **A new programme…** and name it. Its owners can.
+**New project** has the same choice, and starts in the programme you're
+looking at.
+
+The projects are then listed a programme at a time, each under its name, as
+cards, as a table and on the timeline, where every programme is on the same
+scale. The choice beside the search box shows one programme alone; its
+timeline's **Download slide** then carries the programme's name. To rename a
+programme for all its projects, open the menu beside its name and choose
+**Rename…**. A programme is there for as long as a project carries its name.
 
 With more than a handful of projects, choose **Table** beside those tabs. Each
 project is then a line: its status, how much is done, its next milestone, its
