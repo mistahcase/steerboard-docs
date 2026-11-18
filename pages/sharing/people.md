@@ -44,9 +44,12 @@ contributors and people who don't sign in are free, so a plan can hold
 everyone it concerns and be kept current by the people doing the work.
 
 The line at the top of the People page says how many seats are used and how
-many people are free. Where the tier has a number of seats, it has
-**Manage seats** too. To see who holds a seat, pick
-**Takes a seat** under **Access**.
+many people are free. **See who has a seat** lists them in the table below
+(it picks **Takes a seat** under **Access**), which is where a seat is
+freed. Where your account pays for its seats, **Change seats** opens
+**Settings** with the number you pay for ready to change; where it's on a
+tier without a subscription, **See the tiers** opens the tiers to choose
+from. In early access the number of seats is fixed, so there's neither.
 
 - Making a planner a viewer or a contributor, or turning their access off,
   frees their seat at once.
