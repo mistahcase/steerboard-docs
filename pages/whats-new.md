@@ -4,6 +4,11 @@ What has changed in Steerboard, newest first.
 
 ## November 2026
 
+**Details where you are.** A name on Workload or in the report now opens
+that item's details beside it, where it used to take you to the plan. The
+panel itself reads more evenly: each part's name is in bold, what you change
+is in plain type, and the small print is the only smaller text.
+
 **The slides are in Arial.** Every computer with PowerPoint has it, so a
 downloaded deck looks the same wherever it's opened, and names are fitted by
 how wide their letters are. A deck made in your template keeps the

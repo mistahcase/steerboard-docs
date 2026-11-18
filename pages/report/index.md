@@ -13,6 +13,10 @@ It has three parts, each under its heading: **Overview**, **Commentary** and
 
 ## The status on one page
 
+A name in the report (an entry in a list, a milestone on the timeline, a
+line in a table) opens [that item's details](../plan/details.md) beside the
+report.
+
 **Overview** is the page a status meeting starts from:
 
 - **Facts** across the top: the overall status in a few words and one

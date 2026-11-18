@@ -35,6 +35,10 @@ On the right, one card per person for the next period (or **2 weeks** or
 Overdue work stays on a person's card even if it should have ended before the
 period. Work nobody owns is collected under **Unassigned**.
 
+Click a piece of work's name to open [its details](plan/details.md) beside
+the cards, where you can change it without leaving Workload. The × in the
+panel, Escape or a click on an empty part of the page closes them.
+
 ## Hand work over
 
 Drag a piece of work onto someone's card or name. Or select several items on

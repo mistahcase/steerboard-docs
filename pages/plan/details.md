@@ -1,7 +1,10 @@
 # The details panel
 
 Click an item to open its details on the right. Everything you can do on the
-board can also be done here, with the keyboard and in words.
+board can also be done here, with the keyboard and in words. The same panel
+opens beside the list and the cards, and from a name on Workload or in the
+report, on the view you're in. The item stays chosen when you change view, so
+the **Plan** tab then shows it selected on the plan.
 
 What you can change depends on your role on the project. Viewers read the
 panel. [Contributors](../sharing/sharing.md#contributors) can say where their
@@ -18,7 +21,7 @@ agreed before it can start. Agreed work has its status there (**Planned**,
 | Field | What it does |
 |---|---|
 | Name | Click the title to rename it. |
-| **Starts** and **Ends** | The planned dates. Typing a start after the end moves the whole item there, keeping its length. A weekend date moves to the next working day. |
+| **Starts** and **Ends** | Under **Dates**: the planned dates. Typing a start after the end moves the whole item there, keeping its length. A weekend date moves to the next working day. |
 | **Length** | In working days; − and + change it. |
 | **Agreed dates** | For agreed work: the agreed and planned dates, and how it's tracking. **Change agreed dates…** for a change of scope. |
 | **Owner** | Who does it, picked from the project's team. A work package's owner is its lead. For someone who isn't on the team yet, choose **Someone not on the team…** at the end of the list: it opens the project's [people](../sharing/sharing.md#add-people) to add them. |
