@@ -29,6 +29,7 @@ These pages explain how to use it. If you're new, start with
 | Work on the plan in Excel and bring it back, or start from Microsoft Project or Jira | [Import and export](import-export.md) |
 | Run the week's work as cards | [Cards](cards.md) |
 | See who's working on what | [Workload](workload.md) |
+| Keep the project's risks, issues and decisions | [Risks, issues and decisions](risks.md) |
 | Write and send the status report | [The report](report/index.md) and [Present and download](report/present.md) |
 | Bring in your team and your client | [Sharing a project](sharing/sharing.md) and [People and groups](sharing/people.md) |
 | Read the plan's marks | [The marks](reference/marks.md) |

@@ -20,12 +20,19 @@ customer, a sponsor or a steering committee.
 **Draft.** Work whose dates aren't agreed yet. Drawn with a dashed outline;
 never late.
 
+**Decision.** In a project's log, something someone has to decide, by when
+and by whom; once it's made, the record of what was decided and why. See
+[Risks, issues and decisions](../risks.md).
+
 **Delayed.** Agreed work now planned to end later than agreed, but not due yet.
 Amber.
 
 **Group.** A firm or team on your engagements: your
 consultancy, a client, a vendor. People belong to groups; projects' teams are
 picked from them.
+
+**Issue.** In a project's log, something going wrong now, with a date to fix
+it by. Not to be confused with issuing a report, which keeps it as it stands.
 
 **Item.** An activity or a milestone.
 
@@ -47,6 +54,9 @@ everything, change the plan, say how their own work is going, or only look.
 
 **Period.** What a status report covers: since the last report was issued, and
 the next one ahead.
+
+**Risk.** In a project's log, something that could happen, rated by how
+likely it is and how much it would hurt.
 
 **Row.** A line on the board, holding as many items as fit side by side.
 

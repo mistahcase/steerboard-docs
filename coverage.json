@@ -65,7 +65,7 @@
         "src/gantt/BoardGrid.tsx",
         "src/gantt/useBoardZoom.ts"
       ],
-      "reviewed": "f81f4da8d029e5f2b48b0c2eb58f19b6c7d366ad"
+      "reviewed": "99da269659d999c8673d12549add8941f99a6e37"
     },
     "plan/items.md": {
       "covers": [
@@ -81,7 +81,7 @@
         "src/gantt/drag.ts",
         "src/gantt/boardMenu.tsx"
       ],
-      "reviewed": "f81f4da8d029e5f2b48b0c2eb58f19b6c7d366ad"
+      "reviewed": "99da269659d999c8673d12549add8941f99a6e37"
     },
     "plan/workstreams.md": {
       "covers": [
@@ -92,7 +92,7 @@
         "src/gantt/SectionColumn.tsx",
         "src/gantt/boardMenu.tsx"
       ],
-      "reviewed": "966d3d68a5d65dc70d739600ab2cc66159644869"
+      "reviewed": "99da269659d999c8673d12549add8941f99a6e37"
     },
     "plan/links.md": {
       "covers": [
@@ -150,7 +150,7 @@
         "src/gantt/itemKeys.ts",
         "src/components/ListView.tsx"
       ],
-      "reviewed": "f81f4da8d029e5f2b48b0c2eb58f19b6c7d366ad"
+      "reviewed": "99da269659d999c8673d12549add8941f99a6e37"
     },
     "plan/changes.md": {
       "covers": [
@@ -190,7 +190,7 @@
         "src/files/xlsx.ts",
         "src/model/import.ts"
       ],
-      "reviewed": "02591129a195e9815eb48dcf9a40c5c55578f1b3"
+      "reviewed": "99da269659d999c8673d12549add8941f99a6e37"
     },
     "cards.md": {
       "covers": [
@@ -289,6 +289,17 @@
         "server/notify.ts"
       ],
       "reviewed": "4992dea44395b00a2e6db3d997e8af2ace3c2a5e"
+    },
+    "risks.md": {
+      "covers": [
+        "src/components/ItemLog.tsx",
+        "src/components/RisksView.tsx",
+        "src/model/log.ts",
+        "src/state/logEdits.ts",
+        "src/state/teamLog.ts",
+        "server/teamlog.ts"
+      ],
+      "reviewed": null
     }
   }
 }

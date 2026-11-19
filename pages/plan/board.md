@@ -107,6 +107,9 @@ All three are kept in your browser. Viewers have them too.
 Scroll, drag the time scale, or hold the right mouse button and pull. A
 right-click without moving still opens the menu.
 
+The board opens at today. A plan whose work is all in the past, or all still
+to come, opens at its first piece of work instead; **Today** goes to today.
+
 ## Who can change it
 
 Owners and editors can change the plan. Viewers see exactly the same board,

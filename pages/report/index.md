@@ -38,10 +38,17 @@ Each is one line: type it where it stands, and it's kept when you leave the
 field. Empty a line, or press its ×, to take it out.
 
 - **Key messages**: what the reader should take from this period.
-- **Decisions needed**: what you need decided, who decides, and by when. Tick
-  **Decided** once it's made.
-- **Risks**: what the dates don't show, with its owner and what's being done.
-  Tick **Closed** when it's over.
+
+Below them the report lists what's in the project's
+[log of risks, issues and decisions](../risks.md), kept in the **Risks** view
+(**Open Risks** goes there):
+
+- **Decisions needed**: who decides and by when, soonest first. A date gone by
+  shows in red.
+- **Decided since the last report**, with what was decided.
+- **Risks and issues**: the high risks, the open issues, and any other one
+  ticked **In the report**, each with its rating, owner and what's being done.
+  One closed since the last report says so, once.
 
 They're on the slides too, right after the status summary. The status itself
 is still worked out from the plan: your words explain it, and never change it.
@@ -72,9 +79,9 @@ the worst of its workstreams.
 ## Issue the report
 
 When you've sent the report, choose **Issue report…**. That keeps the report
-as it is now and closes the period, so the next report starts from today. Its key messages go with it, and so do
-decisions that were made and risks that were closed; what's still open
-carries over to the next report.
+as it is now and closes the period, so the next report starts from today. Its key messages go with it. The
+log stays as it is: what's still open is in the next report too, and what was
+decided or closed this period isn't said again.
 
 Where your Steerboard sends email and the account's [subscription](../sharing/settings.md#the-subscription)
 includes emails, the dialog has **Send it to**: everyone

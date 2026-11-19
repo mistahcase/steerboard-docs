@@ -4,6 +4,14 @@ What has changed in Steerboard, newest first.
 
 ## November 2026
 
+**Risks, issues and decisions.** A new view, **Risks**, after **Report**: what
+could go wrong, what is, and what someone has to decide, each with one owner,
+the work it touches, a date and where it stands. Risks are rated low, medium or
+high on likelihood and impact, with a small grid of where they sit.
+**It happened** turns a risk into an issue, and **Needs a decision** an issue
+into a decision. Tick **Team only** to keep an entry from viewers. The report's
+own decisions and risks are in the log now.
+
 **Microsoft Project's own files.** **Import…** and **New project** read
 Project's .mpp file now, as well as the XML that Project saves. A plan whose
 work is all in the past or all still to come opens at its first work, not on

@@ -1,11 +1,11 @@
 # A tour of the views
 
-A project has five views, in the bar at the top: **Plan**, **List**,
-**Cards**, **Workload** and **Report**. They all show the same plan. Change something in
+A project has six views, in the bar at the top: **Plan**, **List**,
+**Cards**, **Workload**, **Report** and **Risks**. They all show the same plan. Change something in
 one and it has changed in all of them, for everyone with the project open.
 
 Switch between them with the tabs, or with <kbd>Alt</kbd>+<kbd>1</kbd> to
-<kbd>Alt</kbd>+<kbd>5</kbd>.
+<kbd>Alt</kbd>+<kbd>6</kbd>.
 
 ## The bar at the top
 
@@ -83,6 +83,12 @@ detail. Present it full screen or download it as PowerPoint slides. See
 [The report](../report/index.md).
 
 ![The report](../img/report.png)
+
+## Risks
+
+The project's log of risks, issues and decisions: each with its owner, the
+work it touches and where it stands, the risks rated on a small grid. See
+[Risks, issues and decisions](../risks.md).
 
 ## Links keep what's on screen
 

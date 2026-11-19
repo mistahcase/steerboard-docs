@@ -94,6 +94,7 @@ nav:
   - The status report:
       - The report: report/index.md
       - Present and download: report/present.md
+  - Risks, issues and decisions: risks.md
   - Project settings: project-settings.md
   - Sharing and the account:
       - Sharing a project: sharing/sharing.md
