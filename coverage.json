@@ -147,7 +147,8 @@
         "src/components/CardsBoard.tsx",
         "src/components/Presentation.tsx",
         "src/App.tsx",
-        "src/gantt/itemKeys.ts"
+        "src/gantt/itemKeys.ts",
+        "src/components/ListView.tsx"
       ],
       "reviewed": "4992dea44395b00a2e6db3d997e8af2ace3c2a5e"
     },
@@ -171,6 +172,7 @@
     "list.md": {
       "covers": [
         "src/components/ListView.tsx",
+        "src/gantt/listMove.ts",
         "src/model/list.ts",
         "src/model/paste.ts"
       ],

@@ -4,6 +4,10 @@ What has changed in Steerboard, newest first.
 
 ## November 2026
 
+**Move lines in the list.** In **List**, drag a line up or down by its handle,
+or press ↑ or ↓ on the handle. The item moves on the plan too. The list now
+reads as the plan does, from the top, row by row.
+
 **The details say each thing once.** The top of an item's details no longer
 repeats itself. One line says how it stands against its agreed dates, the
 status choice is its stage, and **Dates** holds the dates as planned, the day

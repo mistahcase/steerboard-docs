@@ -13,9 +13,28 @@ draft and green when it's done. A milestone has one date, under **Ends**. A
 work package isn't a line of its own; the name of the package an item is in
 follows the item's name.
 
-The lines come in the plan's order: workstream by workstream, each by when it
-starts. Choose a column's heading to sort by it, again for the other way round,
-and a third time for the plan's order. **Filter** works as on the plan.
+The lines come in the plan's order, as the plan reads from the top: workstream
+by workstream, row by row, and each row from left to right. Choose a column's
+heading to sort by it, again for the other way round, and a third time for the
+plan's order. **Filter** works as on the plan.
+
+## Move a line
+
+If you can change the plan, drag a line up or down by the handle before its
+box. A mark shows where it will go. Let go, and the item is there in the list
+and on the plan too, on a row of its own, with its dates as they were. Press
+<kbd>Escape</kbd> to let go without moving it.
+
+- Put by a line of another workstream, it's in that workstream.
+- Put among the lines of a work package, it's in that package, as when you
+  drag it there on the plan. See [Work packages](plan/workstreams.md#work-packages).
+- Items that share a row on the plan follow each other in the list and keep
+  together: an item is put above or below all of them.
+
+With the keyboard, go to the handle and press <kbd>↑</kbd> or <kbd>↓</kbd>.
+
+Lines move in the plan's order. While the list is sorted by a column the
+handles are faint: choose the heading until the sorting is off.
 
 ## Type in a line
 

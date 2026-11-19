@@ -31,6 +31,12 @@ choose **Keyboard shortcuts** under the question mark at the top.
 | <kbd>Alt</kbd>+<kbd>1</kbd> to <kbd>5</kbd> | Plan, List, Cards, Workload, Report. |
 | <kbd>?</kbd> | The shortcuts, on one sheet. |
 
+## List
+
+| Keys | What they do |
+|---|---|
+| <kbd>↑</kbd> <kbd>↓</kbd> on a line's handle | Move the line up or down the list, and on the plan with it. |
+
 ## Cards
 
 | Keys | What they do |
