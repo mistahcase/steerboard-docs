@@ -91,16 +91,19 @@ The two arrows beside the magnifier list what changed on the plan since the
 last report, and can draw where each moved item was: see
 [What changed](changes.md).
 
-**Show**, in the toolbar, has three things:
+**Show**, in the toolbar, has four things:
 
 - **Owners** puts each item's owner beside it, as initials. See
   [names](items.md#names).
 - **Key** puts a small list at the bottom right of the board: the marks this
   plan is drawn with, and what each is called. Point at one to read what it
   means; its × closes it. See [The marks](../reference/marks.md).
+- **Risks and issues** puts a red dot on each activity or milestone with an
+  open high risk or an open issue on it. Point at the dot to read what's
+  open. See [Risks, issues and decisions](../risks.md#on-the-plan).
 - **Size**, as above.
 
-All three are kept in your browser. Viewers have them too.
+All four are kept in your browser. Viewers have them too.
 
 ## Looking around
 

@@ -34,6 +34,7 @@ and a progress slider, in steps of 10%. A draft says **Draft** and has its
 | Starts after, Followed by | Its [links](links.md), with **Add** and ×. |
 | **What this depends on** | On a milestone, under its links: lights up the linked work leading to it, and lists the steps with the room each has. See [What a milestone depends on](links.md#what-a-milestone-depends-on). |
 | Updates | A few words on where it stands and why, each kept with your name and the day. See [Updates](#updates). |
+| **Risks and issues** | The open risks, issues and decisions that touch it, each opening in the [Risks view](../risks.md). **Add a risk** raises one already linked to it. |
 | Notes | Anything worth keeping with the work. |
 | History | Changes to its agreed dates, with reasons, and corrected completion days. |
 

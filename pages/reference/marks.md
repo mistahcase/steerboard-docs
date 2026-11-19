@@ -27,6 +27,7 @@ one to read what it means.
 | A fine dotted line with an arrow | A link: the next item waits for this one. |
 | A dashed black line down the board | Today. |
 | A grey band down the board | A holiday. |
+| A small red dot on an item's top left corner | With **Risks and issues** ticked under **Show**: the item has an open high risk or an open issue. Point at it to read which. |
 | A small coloured dot and a few words | A status, as on a status slide: "On track", "+3 days", "At risk", "Late". |
 | A blue ring, round white handles, a blue dot at an item's end | Selected (a draft's ring is dashed, like its outline). Drag the ends to change dates, the dot to link. |
 | A pale blue box that follows the pointer | A selection box: everything it touches is selected when you let go. |

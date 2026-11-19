@@ -27,7 +27,7 @@
         "src/model/templates.ts",
         "src/gantt/BoardHints.tsx"
       ],
-      "reviewed": "02591129a195e9815eb48dcf9a40c5c55578f1b3"
+      "reviewed": "d9624dc49dbb7acd649a8346e1e3c337b0e90069"
     },
     "getting-started/tour.md": {
       "covers": [
@@ -111,7 +111,7 @@
         "src/model/items.ts",
         "src/components/Inspector.tsx"
       ],
-      "reviewed": "f2de07fba2a3d253d46c39f7707e8daef65e1a96"
+      "reviewed": "d9624dc49dbb7acd649a8346e1e3c337b0e90069"
     },
     "plan/agreed-dates.md": {
       "covers": [
@@ -129,7 +129,7 @@
         "src/components/SelectionPanel.tsx",
         "src/components/OwnerField.tsx"
       ],
-      "reviewed": "4992dea44395b00a2e6db3d997e8af2ace3c2a5e"
+      "reviewed": "d9624dc49dbb7acd649a8346e1e3c337b0e90069"
     },
     "plan/holidays.md": {
       "covers": [
@@ -159,7 +159,7 @@
         "server/past.ts",
         "server/changes.ts"
       ],
-      "reviewed": "c45b5652421aa16e75b772ec8b096f7803c9130f"
+      "reviewed": "d9624dc49dbb7acd649a8346e1e3c337b0e90069"
     },
     "my-work.md": {
       "covers": [
@@ -274,7 +274,7 @@
         "src/gantt/key.ts",
         "src/gantt/BoardKey.tsx"
       ],
-      "reviewed": "f81f4da8d029e5f2b48b0c2eb58f19b6c7d366ad"
+      "reviewed": "d9624dc49dbb7acd649a8346e1e3c337b0e90069"
     },
     "reference/glossary.md": {
       "covers": []

@@ -13,12 +13,13 @@ From left to right:
 
 - **Steerboard** and the group that owns the project. The logo takes you back
   to your projects.
-- The five views.
+- The six views.
 - The save state. Changes save as you make them, so it normally says
   **All changes saved**.
 - The avatars of anyone else who has the project open right now.
 - The bell, **For you**: work given to you, updates that name you, your work
-  that's overdue, and status reports that are due on projects you own. A number
+  that's overdue, risks, issues and decisions given to you or due, and status
+  reports that are due on projects you own. A number
   on it says how many are new since you last looked. Choose one to go to it.
 - **Feedback** (the speech bubble), to tell us what doesn't work or what you'd
   like, without leaving your work. See [Feedback](feedback.md).

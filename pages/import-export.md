@@ -45,6 +45,8 @@ choose **Download**.
   order, with its workstream, the work packages it's in, its owner, dates,
   status, progress, agreed dates, what it starts after and its notes. Dates
   are dates and progress is a percentage, so Excel sorts and filters them.
+  When the plan has [risks, issues or decisions](risks.md), a second sheet,
+  Risks, lists them.
 - **CSV file**: the same lines as plain text, for any spreadsheet.
 - **Microsoft Project**: an XML file. In Project, open it with File, Open and
   the file type XML Format. Each workstream is a summary task, a work package

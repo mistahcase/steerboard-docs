@@ -11,6 +11,8 @@ the work it touches. Open it with the tab after **Report**, or
 - A *decision* is something you need decided, by whom and by when. Once
   it's decided, it stays in the log as the record of what was decided and why.
 
+![The Risks view: the grid of likelihood and impact, the risks in a table, and one open in its details](img/risks.png)
+
 ## Add one
 
 Pick **Risks**, **Issues** or **Decisions** at the top, then type a name
@@ -64,6 +66,30 @@ issue is open or resolved; a decision is needed or decided.
 the same owner, work and detail, its severity the risk's impact. On an open
 issue, **Needs a decision** opens a decision about it. Each points back at the
 one it came from, and one undo takes either back.
+
+## On the plan
+
+Under **Show** on the plan, tick **Risks and issues** to put a red dot on the
+top left corner of any activity or milestone with an open high risk or an open
+issue on it. Point at the dot to read what's open. It's off until you turn it
+on, this browser remembers it, and the plan slide never shows it.
+
+## Told to its owner
+
+Whoever is made the owner of a risk, an issue or a decision finds it under the
+bell, **For you**, as with work given to them. The bell also says when one of
+theirs is due: a risk on its review date, an issue past the day it was to be
+fixed by, a decision past the day it was needed by. Where the project emails
+**When work is given to someone**, they get the same email as for work, a few
+minutes later. Nobody is told about what they did themselves.
+
+## In Excel
+
+The Excel workbook from **Export…** has a second sheet, Risks, with every
+entry in the plan's log: its kind, name, rating, owner, the work it touches,
+its date, where it stands, what's being done and its detail. Entries kept
+inside the team stay out of it. Bringing the workbook back in reads the plan's
+sheet only, so the Risks sheet changes nothing.
 
 ## Team only
 

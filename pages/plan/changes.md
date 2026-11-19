@@ -28,6 +28,10 @@ go to it on the plan. An item can be under several kinds: moved, and given to
 someone else. Work packages aren't listed, since they follow what's inside
 them. Moving an item to another row, or writing in its notes, doesn't count.
 
+Under the work, **Risks, issues and decisions** lists what happened in the
+project's [log](../risks.md): entries raised, ratings changed, risks and
+issues closed or opened again, and decisions made.
+
 ## See it on the plan
 
 **Show on the plan** closes the list, brings the first thing that changed

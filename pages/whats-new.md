@@ -10,7 +10,10 @@ the work it touches, a date and where it stands. Risks are rated low, medium or
 high on likelihood and impact, with a small grid of where they sit.
 **It happened** turns a risk into an issue, and **Needs a decision** an issue
 into a decision. Tick **Team only** to keep an entry from viewers. The report's
-own decisions and risks are in the log now.
+own decisions and risks are in the log now. Under **Show**, **Risks and
+issues** puts a red dot on work with a high risk or an issue open. The bell
+tells an entry's owner when it's given to them and when it's due, and the
+Excel workbook has a Risks sheet.
 
 **Microsoft Project's own files.** **Import…** and **New project** read
 Project's .mpp file now, as well as the XML that Project saves. A plan whose
