@@ -178,6 +178,20 @@
       ],
       "reviewed": "02591129a195e9815eb48dcf9a40c5c55578f1b3"
     },
+    "import-export.md": {
+      "covers": [
+        "src/components/ExportDialog.tsx",
+        "src/components/ImportDialog.tsx",
+        "src/components/ImportSource.tsx",
+        "src/files/jira.ts",
+        "src/files/project.ts",
+        "src/files/read.ts",
+        "src/files/table.ts",
+        "src/files/xlsx.ts",
+        "src/model/import.ts"
+      ],
+      "reviewed": "02591129a195e9815eb48dcf9a40c5c55578f1b3"
+    },
     "cards.md": {
       "covers": [
         "src/components/CardsBoard.tsx",

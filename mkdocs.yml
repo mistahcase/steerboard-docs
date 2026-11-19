@@ -87,6 +87,7 @@ nav:
       - Working days and holidays: plan/holidays.md
       - Keyboard: plan/keyboard.md
   - List: list.md
+  - Import and export: import-export.md
   - Cards: cards.md
   - Workload: workload.md
   - My work: my-work.md

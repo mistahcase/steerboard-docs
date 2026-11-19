@@ -36,6 +36,11 @@ Under **Start from**, choose what the plan begins with:
   new project has that plan's workstreams, work, people and links, and
   nothing of what happened: everything is a draft again, with no progress,
   agreed dates or history. Unticked, it's a copy as it stands.
+- **A file**: an Excel workbook, a CSV file, a Microsoft Project file saved as
+  XML, an export from Jira, or a Steerboard file. **Choose a file…**, and the
+  dialog says how many activities, milestones and workstreams it read. The
+  project takes the file's name unless you type another.
+  [Import and export](../import-export.md) says what each kind of file brings.
 
 Copying a project is part of some tiers, and so are templates of your own. On
 a tier without it, **A copy**, **Make a copy** and **Save as a template** say

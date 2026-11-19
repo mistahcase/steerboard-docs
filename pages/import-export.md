@@ -1,0 +1,115 @@
+# Import and export
+
+A plan can come in from a file and go out as one: an Excel workbook, a CSV
+file, a Microsoft Project file, or an export from Jira.
+**Import and export** is the two arrows in the bar at the top of a project, on
+every view.
+
+## Export
+
+Choose **Import and export**, then **Export…**. Pick the kind of file and
+choose **Download**.
+
+- **Excel workbook**: a line for each activity and milestone, in the plan's
+  order, with its workstream, the work packages it's in, its owner, dates,
+  status, progress, agreed dates, what it starts after and its notes. Dates
+  are dates and progress is a percentage, so Excel sorts and filters them.
+- **CSV file**: the same lines as plain text, for any spreadsheet.
+- **Microsoft Project**: an XML file. In Project, open it with File, Open and
+  the file type XML Format. Each workstream is a summary task, a work package
+  is a summary task under it, and the agreed dates are the baseline.
+- **Steerboard file**: the whole project with its history, to keep, or to
+  start a project from.
+
+Anyone who can open the project can export it. The first three are part of
+some tiers; the Steerboard file is on every tier.
+
+The first column of the workbook and of the CSV file is the Steerboard ID.
+Leave it in place: it's how each line is known again when the file comes back.
+
+## Import
+
+Importing is for people who can change the plan. Choose **Import and export**,
+then **Import…**, then **Choose a file…**. You can also drop a file on the
+dialog, or paste rows copied from a table into the box. In the List view, rows
+pasted onto the list open the same dialog with the rows in it.
+
+![A workbook that went out and came back changed, before it's imported](img/import.png)
+
+Nothing changes yet. The dialog shows what the file would do:
+
+- New rows, as the lines they would become.
+- Rows that change work the plan has, with what changes, from what to what.
+- How many rows are as the plan already has them.
+- **On the plan, not in the file**: work the file no longer holds. It stays on
+  the plan unless you tick it.
+
+Untick a row to leave it out. **Import** does what's ticked as one step, and
+one undo takes all of it back. Up to 1,000 rows are read at once.
+
+### How a row is known again
+
+By its ID. A file Steerboard exported has the Steerboard ID of every line. A
+Microsoft Project file has each task's unique ID, and a Jira export each
+issue's key; Steerboard keeps that ID with the work when it first comes in. So
+a file that is exported, changed and imported again updates the work it came
+from, and a Project or Jira file imported a second time updates what the first
+import made.
+
+A file without IDs adds every row as new work. To go by names instead, tick
+**A row with the name of work on the plan is that work**. A name is only gone
+by when one piece of work on the plan has it.
+
+### What a file changes
+
+- Only columns the file has are compared, and an empty cell changes nothing.
+- Dates from a file are planned dates. If they move work whose dates are
+  agreed, the work shows as delayed and its agreed dates stay. To take the
+  file's agreed dates (a baseline, in Microsoft Project) as well, tick
+  **Take the file’s agreed dates**. That change is kept in the work's history.
+- Under **Of work the plan has, take the file’s**, untick what the plan should
+  keep: its names, dates, owners and so on.
+- An owner is matched by name to the plan's team. Someone who isn't on the
+  team is named in the dialog, with a box to add them. Left unticked, their
+  rows come in with no owner.
+- A workstream the plan doesn't have is added. A work package the file names
+  is the plan's of that name, or a new one.
+- New work comes in as a draft. Rows that say they're in progress or done
+  come in so, with their dates agreed.
+
+### Columns
+
+**Columns** lists each column of the file with what's in it and what
+Steerboard takes it for. Change any of them, or choose **Left out**. The
+headings Steerboard, Microsoft Project and Jira write are read as they are.
+Without a row of headings, the columns are told from what's in them.
+
+Dates can be written the usual ways: 2026-11-30, 30/11/2026, 30.11.26,
+30 Nov 2026, Nov 30. With numbers only, the day comes first unless a date in
+the file can only be read the other way. A row with both dates is an activity.
+A row with only the date it's due is a milestone, unless the file says what
+kind of thing each row is.
+
+### What each kind of file brings
+
+- **Excel** (.xlsx): the sheet with the most in it. An older .xls file needs
+  saving as .xlsx first.
+- **CSV**: values separated by commas, semicolons or tabs.
+- **Microsoft Project**: save the plan from Project with File, Save As and the
+  type XML Format (*.xml). The .mpp file itself can't be read. The top of the
+  outline becomes workstreams and the summary tasks under it work packages. A
+  single summary task with everything under it is taken for the project
+  itself. A baseline becomes the agreed dates, percent complete the progress,
+  and the first person on a task its owner. Finish-to-start links become
+  "starts after"; other links and waits on links are left out, and the dialog
+  says how many.
+- **Jira**: export the issues as CSV. An epic becomes a workstream, an issue
+  with sub-tasks a work package, and "is blocked by" becomes "starts after".
+  An issue with only a due date is an activity ending that day. The
+  description is left out unless you choose it as the notes under **Columns**.
+
+## Start a project from a file
+
+**New project** on the Projects page has **A file** under **Start from**. It
+reads the same kinds of file, and a Steerboard file too. See
+[Your first project](getting-started/first-project.md).

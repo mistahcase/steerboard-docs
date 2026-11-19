@@ -62,34 +62,17 @@ A new line is a draft. An activity is five working days long, starting today
 or on the next working day. It goes in the workstream of the line above it, or
 in the workstream the filter shows.
 
-## Import from Excel, and export
+## Paste rows from Excel
 
-**Export**, at the top of the list, downloads the lines as they're shown as a
-file Excel opens. Change it there, save it as CSV, and bring it back with
-**Import…** and **Choose a file…**.
+Copy rows in Excel, or in any table, and paste them onto the list. **Import**
+opens with the rows in it and shows what each would become. Nothing is added
+until you choose the button. One undo takes them all back.
 
-To bring rows in, copy them in Excel (or any table) and paste them onto the
-list, or choose **Import…** and paste them in the box. Nothing is added yet: you see what
-each row will become first, then choose the button that adds them. One undo
-takes them all back.
-
-- A single column is a list of names.
-- With several columns, a first row of headings such as Name, Workstream,
-  Owner, Start, End and Status says which is which. Without headings,
-  Steerboard tells the columns from what's in them.
-- Dates can be written the usual ways: 2026-11-30, 30/11/2026, 30.11.26,
-  30 Nov 2026, Nov 30. With numbers only, the day comes first unless a date in
-  the rows can only be read the other way.
-- A row with both dates is an activity. A row with only the date it's due is a
-  milestone. A row with only a start, or no dates, is an activity five working
-  days long.
-- A workstream the plan doesn't have is added. An owner is matched by name to
-  the plan's team; someone who isn't on the team is left out, and the dialog
-  says who.
-- Rows that say they're done or in progress (a percentage counts) come in so,
-  with their dates agreed. Everything else comes in as a draft.
-
-Up to 500 rows are added at once.
+A single column is a list of names. With several columns, a first row of
+headings such as Name, Workstream, Owner, Start, End and Status says which is
+which. [Import and export](import-export.md) has the rest: files from Excel,
+Microsoft Project and Jira, rows that update work the plan already has, and
+the plan as a file.
 
 ## Change several lines together
 
