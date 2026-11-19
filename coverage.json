@@ -176,7 +176,7 @@
         "src/model/list.ts",
         "src/model/paste.ts"
       ],
-      "reviewed": "02591129a195e9815eb48dcf9a40c5c55578f1b3"
+      "reviewed": "577dd1afca26f349bd1e78d2dd57ae3030036fe6"
     },
     "import-export.md": {
       "covers": [
