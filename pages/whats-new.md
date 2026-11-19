@@ -5,7 +5,9 @@ What has changed in Steerboard, newest first.
 ## November 2026
 
 **Microsoft Project's own files.** **Import…** and **New project** read
-Project's .mpp file now, as well as the XML that Project saves.
+Project's .mpp file now, as well as the XML that Project saves. A plan whose
+work is all in the past or all still to come opens at its first work, not on
+an empty today.
 
 **Safer round trips through Excel.** A workbook exported from Steerboard
 remembers the plan as it went out. Import it back and only what was changed in
