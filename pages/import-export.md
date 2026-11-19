@@ -123,9 +123,11 @@ kind of thing each row is.
 - **Excel** (.xlsx): the sheet with the most in it. An older .xls file needs
   saving as .xlsx first.
 - **CSV**: values separated by commas, semicolons or tabs.
-- **Microsoft Project**: save the plan from Project with File, Save As and the
-  type XML Format (*.xml). The .mpp file itself can't be read. The top of the
-  outline becomes workstreams and the summary tasks under it work packages. A
+- **Microsoft Project**: the .mpp file itself, or the plan saved from Project
+  as XML (File, Save As, XML Format (*.xml)). An .mpp file is read on
+  Steerboard's server; one with a password can't be, so save that one as XML.
+  The top of the outline becomes workstreams and the summary tasks under it
+  work packages. A
   single summary task with everything under it is taken for the project
   itself. A baseline becomes the agreed dates, percent complete the progress,
   and the first person on a task its owner. Finish-to-start links become
