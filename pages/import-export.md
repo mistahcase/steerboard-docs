@@ -12,8 +12,10 @@ every view.
    choose **Download**.
 2. Change the workbook in Excel, or send it round for others to fill in. Move
    dates, rename work, change owners, notes and progress, and set the status
-   to In progress or Done. Add new work as a row with the first column empty.
-   Delete the row of work that's no longer part of the plan.
+   to In progress or Done. Status, type, owner and workstream have drop-down
+   lists; a new owner or workstream can still be typed. Add new work as a row
+   with the first column empty. Delete the row of work that's no longer part
+   of the plan.
 3. Choose **Import and export**, then **Import…**, and choose the workbook.
    You see each change, from what to what, and the new rows. Rows you deleted
    are under **On the plan, not in the file**: tick them to take that work
@@ -21,12 +23,18 @@ every view.
 4. Untick what you don't want and choose **Import**. One undo takes it all
    back.
 
-The first column is the Steerboard ID. Leave it as it is: it's how each row is
-known again. A CSV file works the same way.
+The first column, shaded grey, is the Steerboard ID. Leave it as it is: it's
+how each row is known again.
 
-If the plan changed in Steerboard after you exported it, the workbook's older
-values show as changes too. Untick those, or export a new workbook before you
-start.
+The workbook remembers the plan as it was when you exported it. If people
+change the plan in Steerboard while the workbook is out, their changes stay:
+only what was changed in the workbook is offered. Something changed in both
+places is offered with a note and starts unticked. Work added in Steerboard
+in the meantime stays too.
+
+A CSV file works the same way, except that it can't remember the plan. Values
+changed in Steerboard since you exported it show as changes, so export a new
+file before you start.
 
 ## Export
 

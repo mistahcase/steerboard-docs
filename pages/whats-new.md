@@ -4,6 +4,12 @@ What has changed in Steerboard, newest first.
 
 ## November 2026
 
+**Safer round trips through Excel.** A workbook exported from Steerboard
+remembers the plan as it went out. Import it back and only what was changed in
+Excel is offered: changes made in Steerboard in the meantime stay, and anything
+changed in both places starts unticked. The workbook also has drop-down lists
+for status, type, owner and workstream.
+
 **Import and export, with Excel, Microsoft Project and Jira.**
 **Import and export** is in the bar at the top of every project. Export the
 plan to Excel, change it there and import it back: each row updates the work
