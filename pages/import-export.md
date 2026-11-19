@@ -1,9 +1,32 @@
 # Import and export
 
-A plan can come in from a file and go out as one: an Excel workbook, a CSV
-file, a Microsoft Project file, or an export from Jira.
+A plan made in Steerboard can go out to Excel, be changed there and come back:
+each row updates the work it came from. A plan can also go out as a CSV file or
+a Microsoft Project file, and come in from those or from Jira.
 **Import and export** is the two arrows in the bar at the top of a project, on
 every view.
+
+## Work on the plan in Excel
+
+1. Choose **Import and export**, then **Export…**. Pick **Excel workbook** and
+   choose **Download**.
+2. Change the workbook in Excel, or send it round for others to fill in. Move
+   dates, rename work, change owners, notes and progress, and set the status
+   to In progress or Done. Add new work as a row with the first column empty.
+   Delete the row of work that's no longer part of the plan.
+3. Choose **Import and export**, then **Import…**, and choose the workbook.
+   You see each change, from what to what, and the new rows. Rows you deleted
+   are under **On the plan, not in the file**: tick them to take that work
+   off the plan.
+4. Untick what you don't want and choose **Import**. One undo takes it all
+   back.
+
+The first column is the Steerboard ID. Leave it as it is: it's how each row is
+known again. A CSV file works the same way.
+
+If the plan changed in Steerboard after you exported it, the workbook's older
+values show as changes too. Untick those, or export a new workbook before you
+start.
 
 ## Export
 
@@ -23,9 +46,6 @@ choose **Download**.
 
 Anyone who can open the project can export it. The first three are part of
 some tiers; the Steerboard file is on every tier.
-
-The first column of the workbook and of the CSV file is the Steerboard ID.
-Leave it in place: it's how each line is known again when the file comes back.
 
 ## Import
 

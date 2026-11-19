@@ -6,12 +6,11 @@ What has changed in Steerboard, newest first.
 
 **Import and export, with Excel, Microsoft Project and Jira.**
 **Import and export** is in the bar at the top of every project. Export the
-plan as an Excel workbook, a CSV file or a Microsoft Project file. Import one
-of those, or an export from Jira, and see what it would do before anything
-changes: what is new, what changes from what to what, and what the file no
-longer holds. A file that went out and comes back changed updates the work it
-came from. A new project can start from a file too: **A file**, under
-**Start from**. The list's own **Import…** and **Export** buttons have moved
+plan to Excel, change it there and import it back: each row updates the work
+it came from, and you see what's new and what changes, from what to what,
+before anything does. CSV files and Microsoft Project work the same way, and
+an export from Jira can be imported. A new project can start from a file too:
+**A file**, under **Start from**. The list's own **Import…** and **Export** buttons have moved
 to the bar; pasting rows onto the list works as before.
 
 **Move lines in the list.** In **List**, drag a line up or down by its handle,
