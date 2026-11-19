@@ -27,6 +27,8 @@ From left to right:
   lists them (so does pressing <kbd>?</kbd>), **What’s new** opens
   [what has changed](../whats-new.md), and **Send feedback** opens the
   feedback box.
+- [Import and export](../import-export.md), the two arrows: the plan as an
+  Excel, CSV or Microsoft Project file, and a file brought into the plan.
 - [Project settings](../project-settings.md) (**Settings**): the project's
   name, reporting, holidays and people. Then **Share**, which shares the
   project with someone by name or email address and leads to the
