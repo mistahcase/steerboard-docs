@@ -81,7 +81,7 @@
         "src/gantt/drag.ts",
         "src/gantt/boardMenu.tsx"
       ],
-      "reviewed": "99da269659d999c8673d12549add8941f99a6e37"
+      "reviewed": "d5e074a88da709b0a9eefc0fd73c7fa920a430db"
     },
     "plan/workstreams.md": {
       "covers": [
@@ -92,7 +92,7 @@
         "src/gantt/SectionColumn.tsx",
         "src/gantt/boardMenu.tsx"
       ],
-      "reviewed": "99da269659d999c8673d12549add8941f99a6e37"
+      "reviewed": "d5e074a88da709b0a9eefc0fd73c7fa920a430db"
     },
     "plan/links.md": {
       "covers": [
@@ -150,7 +150,7 @@
         "src/gantt/itemKeys.ts",
         "src/components/ListView.tsx"
       ],
-      "reviewed": "99da269659d999c8673d12549add8941f99a6e37"
+      "reviewed": "d5e074a88da709b0a9eefc0fd73c7fa920a430db"
     },
     "plan/changes.md": {
       "covers": [

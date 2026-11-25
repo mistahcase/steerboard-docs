@@ -23,6 +23,18 @@ The sign-up page says what your account starts on. For now that's Early
 access: everything is included and nothing is charged. See
 [The subscription](../sharing/settings.md#the-subscription).
 
+## Confirm your email address
+
+Steerboard also sends a link to the address you signed up with. Until you
+open it, a bar at the top of every page shows that address, so a typo is easy
+to spot. Choose **Change address** to correct it, which sends the link to the
+new address instead, or **Send it again** if the email hasn't arrived. The
+link works for seven days, and once you've opened it the bar goes. Nothing
+else waits for it: you can use Steerboard straight away.
+
+If you joined through an invitation, there's nothing to confirm: the
+invitation already went to your address.
+
 ## Joining a colleague's account
 
 Don't sign up on your own if your firm already uses Steerboard: you'd start a

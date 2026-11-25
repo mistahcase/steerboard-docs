@@ -4,6 +4,11 @@ What has changed in Steerboard, newest first.
 
 ## November 2026
 
+**Confirm your email address.** When you sign up on your own, Steerboard
+sends a link to the address you typed, and a bar at the top shows that address
+until you open it. A typo shows straight away, and **Change address** puts it
+right.
+
 **Risks, issues and decisions.** A new view, **Risks**, after **Report**: what
 could go wrong, what is, and what someone has to decide, each with one owner,
 the work it touches, a date and where it stands. Risks are rated low, medium or
