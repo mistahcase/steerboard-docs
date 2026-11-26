@@ -150,7 +150,7 @@
         "src/gantt/itemKeys.ts",
         "src/components/ListView.tsx"
       ],
-      "reviewed": "d5e074a88da709b0a9eefc0fd73c7fa920a430db"
+      "reviewed": "4fdfa7526b486407940d6d8dcbbf81a464947b6c"
     },
     "plan/changes.md": {
       "covers": [
@@ -159,7 +159,7 @@
         "server/past.ts",
         "server/changes.ts"
       ],
-      "reviewed": "d9624dc49dbb7acd649a8346e1e3c337b0e90069"
+      "reviewed": "4fdfa7526b486407940d6d8dcbbf81a464947b6c"
     },
     "my-work.md": {
       "covers": [

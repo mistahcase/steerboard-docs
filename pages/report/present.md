@@ -17,14 +17,22 @@ Choose **Present** on the **Report** view. Move with the arrow keys,
 Choose **Download .pptx**. The file is native PowerPoint, so you can edit
 everything in it:
 
-- A title slide, then the status on one page, drawn with real text boxes and
-  shapes.
-- [Your words](index.md#your-words), when you've written any: key messages,
-  decisions needed, decided and the risks and issues, as tables.
+- The status on one page, drawn with real text boxes and shapes.
+- [Your words](index.md#your-words), when you've written any: key messages
+  (the first is the status slide's headline), decisions needed, decided and the
+  risks and issues, as tables.
+- [Off plan](index.md#off-plan), when anything is.
 - The plan as a think-cell style Gantt chart, drawn as on the board.
-- What changed since the last report: the picture of what moved, is new or
-  is gone, then the list of every change.
-- The detail as real tables. Long lists carry on onto extra slides.
+- [Milestone dates](index.md#milestone-dates), once a report has been issued.
+
+That's four or five slides. The arrow beside **Download .pptx** adds two more
+things when you tick them, and presenting and the PDF follow the same choice:
+
+- **Include the detail** puts the lists at the end, after an Appendix slide
+  that names them, as real tables. Long lists carry on onto extra slides.
+- **Cover slide** starts with a title slide.
+
+Your browser remembers both.
 
 What makes up one thing (an activity's bar, its done part and its name; a
 milestone and its name; the legend) is a PowerPoint group, so you can move it

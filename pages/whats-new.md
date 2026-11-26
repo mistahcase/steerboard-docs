@@ -4,6 +4,15 @@ What has changed in Steerboard, newest first.
 
 ## November 2026
 
+**A shorter report.** The report says the same in far fewer slides. The
+status page now shows what the status was at the last report, the decisions
+that need the reader, a row for each workstream with how much is done against
+where it should be, and what's done, due and late. **Off plan** draws
+everything that moved or is late in one picture, and **Milestone dates** shows
+how each milestone's date has moved from report to report. The lists are
+folded under **In detail** on the page, and in the slides only when you tick
+**Include the detail**.
+
 **What changed, in the report.** The report and its slides now say what
 changed on the plan since the last report: a picture of what moved, is new or
 is gone, with where each was and where it is now, then a list of every change.

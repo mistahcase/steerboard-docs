@@ -79,8 +79,8 @@ period: how many days they're booked, day by day, and each piece of work. See
 
 ## Report
 
-The status report is written from the plan: the status on one page, then the
-detail. Present it full screen or download it as PowerPoint slides. See
+The status report is written from the plan: the status on one page, what's
+off plan and how the milestones' dates have moved, then the detail, folded. Present it full screen or download it as PowerPoint slides. See
 [The report](../report/index.md).
 
 ![The report](../img/report.png)
