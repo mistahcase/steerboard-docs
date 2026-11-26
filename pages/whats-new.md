@@ -4,6 +4,10 @@ What has changed in Steerboard, newest first.
 
 ## November 2026
 
+**What changed, in the report.** The report and its slides now say what
+changed on the plan since the last report: a picture of what moved, is new or
+is gone, with where each was and where it is now, then a list of every change.
+
 **Confirm your email address.** When you sign up on your own, Steerboard
 sends a link to the address you typed, and a bar at the top shows that address
 until you open it. A typo shows straight away, and **Change address** puts it

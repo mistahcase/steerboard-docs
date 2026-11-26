@@ -56,6 +56,15 @@ Viewers and contributors read them.
 
 ## The detail
 
+First, **What changed since the last report**: a picture of the work that
+moved, is new or is gone, then every change in a list. In the picture, each
+changed activity or milestone has a row of its own. A dashed outline shows
+where it was, and its bar or diamond where it is now, with how far it moved
+on the right. The list adds dates agreed or agreed again, work given to
+someone else and work reopened. Work finished in the period is in its own
+list further down. The changes count from when the last report was issued,
+or from the first day of the [period](#the-period) when there's none yet.
+
 Then, in full: the workstreams; work completed this period, on time or late;
 overdue work; work that is delayed but isn't due yet; agreed work due next
 period; and upcoming drafts, labelled as not agreed yet. Every list of work
