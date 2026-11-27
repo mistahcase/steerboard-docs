@@ -4,6 +4,13 @@ What has changed in Steerboard, newest first.
 
 ## November 2026
 
+**Your client's colours.** A project can be drawn in colours of its own: one
+for activities, one for milestones and brackets, set under **Colours** in the
+project's settings. The board, the report, presentation mode and the slides
+all follow them. When you upload a client's PowerPoint template, Steerboard
+offers its colours. Green, amber and red keep meaning done, delayed and
+overdue, so a colour that could be read as one of them isn't taken.
+
 **A shorter report.** The report says the same in far fewer slides. The
 status page now shows what the status was at the last report, the decisions
 that need the reader, a row for each workstream with how much is done against
