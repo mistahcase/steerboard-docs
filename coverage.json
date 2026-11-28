@@ -65,7 +65,7 @@
         "src/gantt/BoardGrid.tsx",
         "src/gantt/useBoardZoom.ts"
       ],
-      "reviewed": "99da269659d999c8673d12549add8941f99a6e37"
+      "reviewed": "c9a5ac845720444e9ac23ee9211e1d5260683077"
     },
     "plan/items.md": {
       "covers": [
@@ -150,7 +150,7 @@
         "src/gantt/itemKeys.ts",
         "src/components/ListView.tsx"
       ],
-      "reviewed": "75343965dfc75afca7b8546721e4c7fbd63a2048"
+      "reviewed": "c9a5ac845720444e9ac23ee9211e1d5260683077"
     },
     "plan/changes.md": {
       "covers": [
@@ -234,7 +234,7 @@
         "src/report/plan-slide.ts",
         "src/report/template.ts"
       ],
-      "reviewed": "75343965dfc75afca7b8546721e4c7fbd63a2048"
+      "reviewed": "c9a5ac845720444e9ac23ee9211e1d5260683077"
     },
     "sharing/sharing.md": {
       "covers": [
