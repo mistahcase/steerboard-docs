@@ -5,6 +5,11 @@ thing, how the work stands: navy and black draw the work; green, amber and red m
 done or on track, at risk, and late; the bright blue means "you're touching
 this".
 
+These are Steerboard's colours. A project can have
+[colours of its own](../project-settings.md#the-projects-colours) for its
+activities, milestones and brackets, and for done, delayed and overdue; the
+marks mean the same in them.
+
 On the plan itself, choose **Show** and tick **Key**: a small list at the
 bottom right of the board names the marks that plan is drawn with. Point at
 one to read what it means.

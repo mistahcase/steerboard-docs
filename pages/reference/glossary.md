@@ -25,7 +25,7 @@ and by whom; once it's made, the record of what was decided and why. See
 [Risks, issues and decisions](../risks.md).
 
 **Delayed.** Agreed work now planned to end later than agreed, but not due yet.
-Amber.
+Amber, unless the project has [a colour of its own](../project-settings.md#the-projects-colours) for it.
 
 **Group.** A firm or team on your engagements: your
 consultancy, a client, a vendor. People belong to groups; projects' teams are
@@ -45,7 +45,8 @@ nothing is hidden.
 
 **Milestone.** A moment, such as a sign-off. A diamond.
 
-**Overdue.** Agreed work past its agreed end and not done. Red.
+**Overdue.** Agreed work past its agreed end and not done. Red, unless the
+project has [a colour of its own](../project-settings.md#the-projects-colours) for it.
 
 **Owner (of work).** The person who does it.
 
