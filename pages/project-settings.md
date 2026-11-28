@@ -58,7 +58,7 @@ Under **The plan**:
 
 | | |
 |---|---|
-| **Activities** | Each activity is drawn in it, with a darker outline. Its part past the agreed end is a light tint of the same colour, and the box under an open work package a faint wash of it. |
+| **Activities** | Each activity is drawn in it, with a darker outline. Its part past the agreed end is a lighter version of the same colour, and the box under an open work package a faint wash of it. |
 | **Milestones** | Milestones' diamonds. |
 | **Brackets** | Work packages' brackets. They can share the milestones' colour, as Steerboard's black does. |
 
@@ -66,7 +66,7 @@ Under **How work stands**:
 
 | | |
 |---|---|
-| **Done** | What's done of an activity, a milestone that's done, and a status or note that says done. What's done past the agreed end is a light tint of it. |
+| **Done** | What's done of an activity, a milestone that's done, and a status or note that says done. What's done past the agreed end is a lighter version of it. |
 | **Delayed** | The outline of work planned past its agreed end but not due yet, and a status or note in amber. Its lines and words are drawn in darker shades of it, so a light orange or yellow works. |
 | **Overdue** | The outline of work past its agreed end and not done, a status or note in red, a high risk, and someone with too much work. Deleting and error messages keep Steerboard's red. |
 
